@@ -1,0 +1,304 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Gefäße_-_Behälter",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Gefäße - Behälter"
+  },
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trog"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kannen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Topf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Amphore"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eimer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Korb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Krug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Becher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gläser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Faß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Humpen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kübel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vase"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebrauchsglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Behälter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kessel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kasten:_Zubehör"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vorratsbehälter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Behälter:_Teile"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pokal"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Büchse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Näpfe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kruke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Faß:_Zubehör"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kiste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ampulle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Becken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bottich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayencedeckel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karaffe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kelch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kumme"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schachtel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schatulle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seidel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Topf:_Zubehör"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Urne"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

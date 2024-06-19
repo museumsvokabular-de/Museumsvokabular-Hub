@@ -1,0 +1,315 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Körperpflege_und_Hygiene",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Körperpflege und Hygiene"
+  },
+  "altLabel": {
+    "de": [
+      "Hygiene (Körperpflege und)",
+      "Pflege und Hygiene (Körper-)"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sachgüter_des_täglichen_Bedarfs"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Biberstoff-Nabelwickel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Lavoir"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Spucknapf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haarschneidegerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handwaschgerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konsole_mit_Einsätzen_für_Soda,_Sand,_Seife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lavabo"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lockenschere"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nagelreiniger-Set"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Onduliereisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ondulierschere"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ondulierscherenöfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Waschtischgarnitur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasiermesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasiermesser-Abziehriemen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasiermesseretui"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasiernapf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasierpinsel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasierpinselschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasierschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasierschaumdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rasierspiegel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reisenecessaire"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reiseparfumerie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riechfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salbentopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salbentöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salbflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salbfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salbgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Kammschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Seifenschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Waschgarnitur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Waschschüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Wasserkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säuglings-Leibwickel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säuglings-Nabelbinde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Salbentöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschgarnitur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschgarniturteil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschschüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschschüssel_(Gerichtsgefängnis)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Windel"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Herde_-_Öfen_-_Kamin_-_Heizung",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Herde - Öfen - Kamin - Heizung"
+  },
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warmhalter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aufsatzofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beilegeofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Berliner_Stufenofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blitzplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dreifußöfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dreilochofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Etagenofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fußheizung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gasbrenner"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gaskachelofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Heizungsverkleidung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Herd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Herd_(Kochmaschine)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Herdanlage,_typisch_für_Münsterland"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Herdfeuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kachelofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kamin"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kanonen-Ofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenherd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kesselofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kocher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kochherd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kochofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Küchenherd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Küchenofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofen,_klein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofen-Herd-Kombination"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofendekorstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenkachel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenklappe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenmantel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenrohr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenschirm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenseitenplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenset"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenstütze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofentür"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ofenvorsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Petroleumkocher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Petroleumofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Postament-Rundofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Regenceofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Regulierfüllofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rundofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spiritusbrenner"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stubenofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Takenplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Feuerungsstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserhaltung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Werkstattofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Windofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wärmefachtür"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wärmeklappe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wärmetür"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zimmerofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zweilochofen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölbrenner"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

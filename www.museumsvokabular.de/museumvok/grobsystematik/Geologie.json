@@ -1,0 +1,678 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Geologie",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Geologie"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Naturgeschichte"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abellum"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Acanthoceras"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Alethapteris_decurrens"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Alethopteris"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anthracosia"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anthracosia_sp."
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aporhais_pas_pelecanae"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Armkiemer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bohrkern"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bostrychoceras"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brachiopode"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brandschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Braunkohle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Breccie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Buntschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Cabonicola"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Calamites"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Calamites-Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Cardium"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Cythophyllum"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Donnerkeil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Druse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Echinolampas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenjaspis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenkiesel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisensandsteinschwarte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenschlacke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farn"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farn-Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farnsamer-Wedelteil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Feuersteinbrocken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Feuersteinknolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fischabdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flintstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fächerkorallen-Kelch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gabbro"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gastrioceras"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gervillia"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Geröll-Stück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Geröllstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Geröllstein-Konglomerat"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Geschiebe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gestein-Kalk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gips"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gipsspat"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glimmerschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glycimeris_obovatus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Granit"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Granit-Porphyr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grauwacke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grauwacken-Sandstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grünstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Stück,_versteinert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzstamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hornblendegaben-Schiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Inoceramus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Inoceramus_Labiatus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Inoceramus_brancoiformis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Inoceramus_cycloides"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Inoceramus_haenleini"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkknolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkmasse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkmergel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalksandstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkspat"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkspat-Knolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkspat_(Kalzit)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalkstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kamm-Muschel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kamm-Muschel-Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammfarn"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karneoldolomit"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kieselsandstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kieselschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konglomerat"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konglomerat_(quarzitisch)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Korallenneolith"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lava"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lavagestein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maasei"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Magnet-Eisenkristall"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maiadites_sp."
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mandelstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Marienglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Marmor"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Marmorinkrustation"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Meeresmuschel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Meeresmuschel-Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Meeresmuschel-Steinkerne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Meeresschnecke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Melaphyrtuff"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Milchquarz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Milchquarzknollen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Muschelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Muschelschalen-Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mühlenberg-Sandstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nummuliten-Sandstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ostrea_callifera"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ostrea_semiplana"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ostrea_sp."
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ostsee-Quarzporphyr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pecopteris"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pelikansfuß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Perlboot"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pflanzenrest"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plattenkalk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pyxit"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Quarzgesteinbrocken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Quarzporphyr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Quarzstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rapakivi-Granit"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Raseneisenerz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rhomben-Porphyr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rotschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Röhrenkoralle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salinenstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salinenversteinerung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteingeröll"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sardinius"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schachtelhalm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schichtgestein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiefer-Gestein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiefer_(kristallin)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schieferton"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schieferton-Bohrkern"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnecke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schneckengehäuse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuppenbaum"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuppenbaum-Wurzelstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Scolythus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seeigel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seeigel-Schale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seekuh-Wirbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seelilien-Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seelilienstengel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Siegelbaum"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sigillaria_sp."
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sigillarit"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spatangus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sphenopteris"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stalagmit"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stammstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinfragment"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinsalz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stigmaria"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stigmarie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stringocephalus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Süßwassermuschel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Süßwasserschnecke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Terebratula_vulgaris"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Toneisenstein-Geschiebe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonschiefer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trachittuff"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trachyt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuff_(basaltisch)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuff_(vulkanisch)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuffstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Windkanter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnerz"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

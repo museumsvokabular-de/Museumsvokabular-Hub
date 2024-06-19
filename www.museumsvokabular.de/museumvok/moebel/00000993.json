@@ -1,0 +1,245 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/moebel/00000993",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bett"
+  },
+  "altLabel": {
+    "de": [
+      "Bettlade",
+      "Bettsponde",
+      "Bettstatt",
+      "Bettstelle"
+    ]
+  },
+  "definition": {
+    "de": "Das Bett ist ein Gestell zur Aufnahme einer Liegeunterlage (Strohsack, Matratze usw.). Die Mehrzahl der Betten besteht aus Kopf- und Fußteil, an die die Seitenteile eingebracht werden. Anstelle der Seitenteile kann ein Rahmen Kopf- und Fußteil verbinden. Die Konstruktion von Betten aus Kunststoffen, Geflecht, Metallen, Papier/Pappe und/oder Textil differiert zuweilen; diese Betten orientieren sich jedoch in der Regel an der tradierten Bett-Form.Geschichte: Schon in den alten Hochkulturen wie Ägypten oder Babylonien war die auf ein Gestell mit Füßen gelagerte Bettstelle bekannt. Die Griechen und Römer übernahmen die Gewohnheit, zum Schlafen eine Liege zu benutzen. Im Grunde steht dieses antike Bett - mit lediglich leichten Abwandlungen - noch heute als Ruhelager in den Schlafzimmern.In Nord-, Ost- und Mitteleuropa wurden bis ins Mittelalter jedoch noch der Fußboden oder die wandfeste umlaufende Bank als Liegestatt benutzt, ehe dann der auf niedrigen Füßen stehende Holzkasten als Bettstatt aufkam. Vom 12. Jahrhundert an erhielt das Bett die uns vertraute Gestalt: Es wurde höher, das Gestell rundum verschalt.Im späten Mittelalter und in der Gotik überdachte man die Betten mit Baldachin oder Himmel. Sie hatten an den drei nicht wandständigen Seiten Vorhänge, die man tagsüber hoch band, so dass die Holzkonstruktion sichtbar wurde. Seit dem 12. Jahrhundert waren diese Betttypen in allen Ständen in Gebrauch. Im 15. Jahrhundert wurden die textilen Baldachine und Himmel vielfach durch hölzerne abgelöst; auch fanden nun Betten mit Halbbaldachinen bzw. -himmeln weite Verbreitung. Im 17. Jahrhundert entstanden auf dem lande die Bettkasten, sie gehörten bis ins 19. Jahrhundert in vielen Regionen zum üblichen Möbelrepertoire. Im Klasizismus errang die Récamiere - auch als Lit bateau bekannt - kurzzeitig allergrößte Beliebtheit. Mit der Industrialisierung kamen im 19. Jahrhundert die Metallbetten auf und auch im 20. Jahrhundert entstanden neue Betttypen, so das Stapelbett.Zu beobachten ist stets ein Nebeneinander verschiedener Liegemöbel. Der Bettengebrauch entwickelte sich schichten- wie auch regionalspezifisch unterschiedlich: Während die meisten Menschen das Bett lediglich als nächtliche Liegestatt nutzten, wurde es in höfischen und großbürgerlichen Kreisen zum repräsentativen Prunkmöbel: Im \"Paradebett\" - vernehmlich Betten mit (Halb-)Himmel oder (Halb)Baldachin - empfing man auch Gäste. Im 18. Jahrhundert hatte diese Nutzung ihren absoluten Höhepunkt, verschwand im 19. Jahrhundert mit der Initmisierung des privaten Lebens.Regionale Vorlieben zeigten sich vornehmlich in der Ausgestaltung der Betten: So waren Aufsatzbetten mit ihren hohen, zum Teil üppig dekorierten Kopfteilen besonders in Bayern und Österreich beliebt."
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000992"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000994"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000995"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001000"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001001"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001002"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001003"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001004"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001006"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001008"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001009"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001010"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002394"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002396"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002397"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002398"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002399"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002400"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002401"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002402"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002403"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

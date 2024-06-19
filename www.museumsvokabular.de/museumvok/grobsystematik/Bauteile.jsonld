@@ -1,0 +1,312 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Bauteile",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bauteile"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architektur_-_Bauteile"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleiverglasung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Delenbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eichenbohlenstück_(Brunneneinfassung)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eichenkranbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fachwerkbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fenstersturz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fundament"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Geländer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gesims"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gesimsstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewölberippe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gitter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gossenstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grundsteinplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminflanke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminklappe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminklappenriegel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kamintür"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminziegel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klingelzug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Knagge_vom_Fachwerkhaus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lochstein_zur_Stallbelüftung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lüftungsstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maueranker"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mauerhaken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeiler"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Postament-Zwischenstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinbecken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinfassung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinsockel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinzapfen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seitenpfeilerbasis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spülstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinlaibung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinstütze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Treppengeländer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Türbogenstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Türheber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Türpfostenaufsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Türrundbogenstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Türsturz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wand-Decken-Leiste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandfenster-Pfosten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserrinne"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

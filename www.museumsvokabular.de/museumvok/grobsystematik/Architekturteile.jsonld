@@ -1,0 +1,285 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Architekturteile",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Architekturteile"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architektur_-_Bauteile"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anflugbrett_für_Taubenschlag"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architektur-Fragment"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architektur-Jahreszahl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architektur-Konsole"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architekturdekorkugel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Balusterpfeilerchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bogenpfeilerstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dachfirstkreuz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dachkreuz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dekorbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelkonus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisen-Wetterfahne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fensterbogenprofilstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fensterspolie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gesimsstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewölbeschlußstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grünsandsteinsockel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Inschriftenbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaminaufsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kapitellblock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kirchturmhahn"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maßwerk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maßwerkrahmen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeilerprofil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Portaleinfassung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Profilstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Profilstein_(Säulenbasis)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rundbogenportalstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schlußstein_eines_Torbogens"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schmuckbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spitzbogen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spolienstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Supraporte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säulenbasis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säulensockel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ziergitter"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

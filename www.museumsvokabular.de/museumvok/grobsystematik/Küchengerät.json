@@ -1,0 +1,471 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Küchengerät",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Küchengerät"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausrat"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfannen_-_Töpfe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfanne:_Zubehör"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wiegemesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schüsselkorb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aufschnittmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blanchiereisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bohnenschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brettchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Durchschlag"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dörrobstbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einkochtopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einmachtopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fisch-Puddingform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fischbackform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fischform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Frittenschnitzer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemüseschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasreibe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glaszitronenpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Heißwassertopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Küchengerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Schöpflöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeebereiter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeebrenner"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeelot"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeemühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeesieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeetrommel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaffeevinne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kapsschabe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kartoffelstampfer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kochbesteck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kohlmesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Korkenzieher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupfertrichter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Küchenbeil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Küchenbrettchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Küchenfüllmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Löffelsieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehllöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messer_für_Küchenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messerbänkchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Gießnapf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Schaumlöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Schöpflöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingkelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingmörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metall-Filiergerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mixgerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Musmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nußknacker"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nußmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Obstpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pannschüppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pappschottel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeffermühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Puddingform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Puddingförmchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Quirl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reibe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sahneschlaggerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salzmörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnibbelbohnenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnitzelwerk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schrotmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schäumer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schöpfer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schöpfkelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schöpflöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schüsselsieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seier"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Senfmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinmörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Salznapf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Salzschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Senftopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Tiegel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/T-Stößel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tiegel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tischmahlwerk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Kaffeefilter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Topfsieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trichter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandkaffeemühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserkelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserschöpfkelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zitronenpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerbrecher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölpreßtrog"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

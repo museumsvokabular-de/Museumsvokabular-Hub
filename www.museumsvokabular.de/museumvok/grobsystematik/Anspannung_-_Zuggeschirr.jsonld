@@ -1,0 +1,424 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Anspannung_-_Zuggeschirr",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Anspannung - Zuggeschirr"
+  },
+  "altLabel": {
+    "de": [
+      "Geschirr (Zug-) - Anspannung",
+      "Zuggeschirr - Anspannung"
+    ]
+  },
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blattgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronze-Pferdeschelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brustblattgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bullenstange"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deichsel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deichselbalken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deichselbeschlag"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppeljoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einzelgenickjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenpflock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenstange"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fessel_für_Rinder"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fußfessel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fußfessel_für_Rindvieh"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebißkette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebißkette_(Zaumzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebißstange"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebißstange_(Zaumzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Genickeinzeljoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Genickjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glocke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glockenband"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gurtspanner"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Halfter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Halsebaumhaltegeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Halsgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Halteeisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haltestab"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hundewagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Joch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalbshalsband"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammsielengeschirr_für_Kühe_und_Ochsen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kandarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Koppelriemen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelschelle_für_Pferdeschlitten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuhgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuhjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuhleitgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuhmaulkorb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuhschellenbogen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kummet"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kummetmodell"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lederriemen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lederriemen_(Anspannung_-_Zuggeschirr)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maulkorb_für_Pferde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Moorschuh"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nackenjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nackenjoch_für_Kühe_und_Ochsen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ochsenjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ochsenjochstirnband"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Peitsche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdebelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdebürste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdegeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdegeschirr-Nackenpolster"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdegeschirrpolster"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdegurt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdekummet"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdeleibgurt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdepeitsche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdepflegegerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pferdezügel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schellen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schellengeläut"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schellengeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schellenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schellenpaar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schulterjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schwanzriemen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schweifhalterückenleder"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seitendeichsel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sielengeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sielenkissen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stirnjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tragejoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tragjoch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Viehglocke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zaumzeug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuggeschirr-Holzschwengel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zügelleine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zügelleine_(Strohstrick)"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

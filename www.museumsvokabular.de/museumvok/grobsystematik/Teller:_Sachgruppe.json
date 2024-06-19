@@ -1,0 +1,303 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Teller:_Sachgruppe",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Teller: Sachgruppe"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Service_und_Teile"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfannkuchenteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fleischteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glas-Tortenteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teller_(Puppenhaus)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aluminiumteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzeteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dekorteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dessertteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisentellerchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eßteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Buckelrandteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Spruch-Teller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Teller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebäckteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gitterrand-Fayenceteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kinderteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metallteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Obstteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ornamentteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Zierteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reliefteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seckenrand-Steingutteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seckenrand_Porzellanteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Silberteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingutteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Suppenteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teller,_flach"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tellerchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Teller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Unterteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warmhalteteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zierteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinntellerchen"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

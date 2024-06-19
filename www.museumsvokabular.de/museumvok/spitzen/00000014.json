@@ -1,0 +1,204 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/spitzen/00000014",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Handgearbeitete Stickerei"
+  },
+  "definition": {
+    "de": "Stickerei hat geschlossenen Stoff als Voraussetzung. Sie ist das Ergebnis eines Verzie-rungsverfahrens. Es ist ein Durchziehen bzw. Auflegen von Fäden auf leinwandbindigen Stoff (sehr verbreitet) oder andere Materialien. Handgearbeitete Stickerei entsteht durch Nachsticken mittels Nadel und Faden (Einfadensystem) eines vorher aufgebrachten Musters. Sie entsteht auch durch Fadenzug und Bündeln der Fäden mittels Nadel und Faden, durch Verschieben bzw. Zusammenziehen von Fadengruppen und durch Ausschneiden von unbesticktem Stoff um die Stickerei herum. Das Stickmaterial kann einfarbig oder bunt sowie in kontrastierender Stärke zum Stoff sein. Der zu bestickende Stoff wird meist in einen Rahmen gespannt. Durch das Hin- und Zurückführen der Nadel durch den Stoff werden Faden und Stoff miteinander verbunden. Handgearbeitete Stickereien erhalten ihre Namen nach dem Material, den Effekten, der Technik, der Wirkung, dem Ursprung und/oder dem Verwendungs-zweck.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.9ff"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000001"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000112"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000305"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000309"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000316"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000319"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000320"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000321"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000322"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000348"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

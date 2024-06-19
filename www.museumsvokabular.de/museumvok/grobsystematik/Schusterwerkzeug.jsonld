@@ -1,0 +1,296 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Schusterwerkzeug",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Schusterwerkzeug"
+  },
+  "altLabel": {
+    "de": [
+      "Werkzeug (Schuster-)"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterwerkstatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Werkzeug:_Wortfeld"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Absatzausputzeisen_(Schusterwerkzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Absatzeisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Absatzroller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ahle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aufrauher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brandsohlenausheber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einsteckkerbgerät_(Schusterwerkzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grubenmesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haken_(zum_Herausziehen_des_Leistens)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kantenmesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kantenschneideeisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kantenschneider_(Schusterwerkzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Körner_(Schusterwerkzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leisten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leistenhaken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nagelauszieher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pinnheft"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnitteisen_(Schusterwerkzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhkantenschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhmacherfuß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhmacherfußeisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhmacherhammer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhmachermesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhweiter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterahle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterdorn"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterdreibein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterdreifuß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterfuß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterhammer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterklinge"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterknochen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterkugel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusterleisten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schustermesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spitzknochen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zierrädchen_(Schusterwerkzeug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zwickzange_(Schusterwerkstatt)"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

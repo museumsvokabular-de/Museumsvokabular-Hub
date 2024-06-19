@@ -1,0 +1,315 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Blankwaffen",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Blankwaffen"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waffen"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Artilleriedegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aufpflanzbajonett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bajonett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bihänder"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronze-Kurzschwert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Degen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dolch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisen-Hellebarde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisen-Säbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fechtdegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flamberger"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Füselierseitengewehr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Füseliersäbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hellebarde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Helmbarte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hirschfänger"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Infanterieseitengewehr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jagdspieß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kavalleriedegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kavalleriepallasch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kavalleriesäbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Krummsäbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kurzdegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kurzschwert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Langschwert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lanze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Offiziersdegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Offizierssäbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ordonanzstichdegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pallasch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Partisane"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reiterdegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reitersäbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Saufeder"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schleppdegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schutzspeer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schwert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seitengewehr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spandolch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Speer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spieß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sponton"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stichwaffe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tüllenbajonett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vortrageschwert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zierdegen"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

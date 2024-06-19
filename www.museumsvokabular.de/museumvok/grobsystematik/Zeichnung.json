@@ -1,0 +1,267 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Zeichnung",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Zeichnung"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphik:_Techniken"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zeichnung,_aquarelliert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistift-Federzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistift-Kohlezeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistift-Kreide-Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistiftzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistiftzeichnung,_getuscht"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistiftzeichnung,_laviert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleizeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Buntstiftzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckfarbenzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Feder-Bleistiftzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fettstiftzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grundrißzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kinderzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kohle-Tusche-Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kohlezeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konstruktionszeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kreide-Kohlezeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kreidezeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pinselzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pinselzeichnung,_laviert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rötelzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuschezeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuschfederzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuschpinselzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuschzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuschzeichnung,_laviert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zeichnung,_laviert"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zeichnungsentwurf"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Tischgeräte",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Tischgeräte"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausrat"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jacoba-Kanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jacobskanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dröppelminna"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kranenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kränchenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warmhaltekaffeekanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Dreikrankanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Kaffeekanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tischbesen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anbietschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Etagere"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzlöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzstreuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzständer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehrzweckgefäß_(für_Gewürze)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Menage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Einkrankanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Gewürzstreuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingtablett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Obstaufsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfefferdöschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfefferstreuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeffertöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Bieruntersetzer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Tischaufsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salzstreuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salztöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Samowar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sektkühler"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Senffaß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Senfgläschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Senflöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Senftöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Servierbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Servierplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Serviertablett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Serviettenring"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Silbertablett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Speisekartenhalter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Salzstreuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeugtöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tablett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tafelaufsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teesieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tischkehrblech"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trinkglashalter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Untersatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Untersetzer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vorlegeplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warmhalteteekanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zahnstocherhalter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Krankanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Salznäpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Salzstreuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Senftöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Streuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinntablett"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

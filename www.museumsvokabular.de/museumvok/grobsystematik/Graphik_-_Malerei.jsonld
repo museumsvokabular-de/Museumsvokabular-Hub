@@ -1,0 +1,305 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Graphik_-_Malerei",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Graphik - Malerei"
+  },
+  "altLabel": {
+    "de": [
+      "Malerei - Graphik"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kunst"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphik:_Techniken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bild:_Wortfeld"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Populäre_Druckgraphik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemälde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebrauchsgraphik_-_Werbegraphik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausscheibenfragment"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Acrylgemälde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquarell-Entwurf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquarell-Heiligenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquarell-Miniatur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquarell_über_Tuschfederzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquarellblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Architekturskizze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blei-,_Farbstift-,_Kreide-_Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistift-Tusche-Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbradierung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbstiftzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federtuschzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemälde_(Mischtechnik)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemälde_(Spritztechnik)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemälde_(Tempera)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphik_(Mischtechnik)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grundierter_Bildträger_mit_Rahmen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kohle-Farbstift-Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mischtechnik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pastellkreidezeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pastellzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plakafarben-Bild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sepiafederzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Subscriptionslithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tafelmalerei"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trachtenaquarell"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tusche-Pastell-Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tuschfederlithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandbemalung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weichgrundätzung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Währungsmittelcollage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zweifarbenradierung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/verni_mou"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölpastellzeichnung"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

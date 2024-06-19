@@ -1,0 +1,288 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Gefäß",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Gefäß"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäße_-_Behälter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beigabengefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beigefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzegefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckelgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dreifußgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einmachgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einsatzgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Essiggefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäß-Scherbe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäß_für_Gries"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäßdeckel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Justita-Schnelle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Keramikgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupfergefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Ölgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metallgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellangefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salz-Gefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnapsgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnapshund"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnapspinnchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Senfgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Gefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Essiggefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeuggefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Streugefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Gefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Napf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trinkgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tüllengefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Versehgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vorratsgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwassergefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwasserhängegefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ziergefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinngefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölgefäß"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Maschinen_-_Geräte",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Maschinen - Geräte"
+  },
+  "altLabel": {
+    "de": [
+      "Geräte - Maschinen"
+    ]
+  },
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maschinen-_und_Geräteteile"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pumpen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bohnenschneidemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haarschneidegerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wäschespülmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wäschewringermaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apparat_zur_Herstellung_von_Brauselimonade"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Buchungsmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bürohandpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dampfhammer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dampfmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einsteckkerbgerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisengerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbenmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fingerrechenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Frankiermaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Färbemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grünfutterschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haarschneidemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handbohrmaschine,_elektrisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handdruckmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handfuttermühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handnähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hebelpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Heftmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holznagelmaschine_(Schusterwerkstatt)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Honigpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hunde-Laufrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hächselmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Häcksellade"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Häckselmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/JUPITER_Universal-Küchenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klebemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Koffernähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelkopfschreibmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ledernähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lederspaltmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lochmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maschinenschlüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nietmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ornamentpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/PVC-Spritzgußmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Patronenfertigungsmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Patronenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Polsterzupfmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Presse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rapspresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rechenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Registrierkasse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Runkelmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sack-Ausklopfmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schlagmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schneidemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schraubenpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schreibmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhmachernähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schustermaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schusternähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seilerei-Maschinen_und_Zubehör"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spaltmaschine_(Schusterwerkstatt)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spintelpresse_(Schusterwerkstatt)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Strickmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tischnähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tret-Nähmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wachspresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wickelmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wickelpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wömmelwerk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zapfenpoliermaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zerkleinerungsmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zupfmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ösenmaschine"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

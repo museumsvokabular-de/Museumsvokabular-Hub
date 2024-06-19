@@ -1,0 +1,252 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/moebel/00000795",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Gestell"
+  },
+  "definition": {
+    "de": "Gestelle sind Ablagen in unterschiedlichen Konstruktionen und Formen, die sich nach dem jeweiligen Verwendungszweck richten.Geschichte:Die Grundformen der Gestelle, so das Bord oder der Kleiderrechen, wurden im Spätmittelalter für den Bereich der häuslichen Wirtschaft entwickelt, bevor sie in die eigentlichen Wohnbereiche übernommen wurden. Die ausgeprägte Differenzierung in unterschiedliche Formen fand erst im 19. und 20. Jahrhundert statt."
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000794"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000796"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000797"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000798"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000799"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000800"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000808"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000809"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000810"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000811"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000812"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000813"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000826"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000827"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000828"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000829"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000830"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002284"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002286"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002288"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002289"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002290"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002291"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002293"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002460"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002462"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

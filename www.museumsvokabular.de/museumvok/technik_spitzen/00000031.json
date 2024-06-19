@@ -1,0 +1,175 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/technik_spitzen/00000031",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "gestickt, maschinell"
+  },
+  "definition": {
+    "de": "ist eine Technik, mit der man Spitzen und Stickereien erzeugt, die im Einfadensystem mit der Handstickmaschine bzw. im Zweifadensystem mit der Schiffchenstickmaschine, dem Mehrkopfautomaten und auf Kleinstickmaschinen hergestellt werden. Bei mit der Handstickmaschine hergestellten Spitzen und Stickereien ist Vorder- und Rückseite gleich, da mit nur einem Faden gearbeitet wird. Im Gegenstz dazu ist im Zweifadensystem auf der Rückseite der verbindende Schiffchenfaden (Spulchenfaden, Unterfaden, ...) zu erkennen. Um Durchbrüche im Stoff zu erhalten, werden Zusatztechniken wie \"angezogen, maschinell\", \"ausgeschnitten\" und \"gebohrt\" verwendet. Mit der Zusatztechnik \"geätzt\" wird der Stoff völlig entfernt. Andere Zusatztechniken sind verantwortlich für besondere Effekte, die die einzelnen Spitzen-/Stickereiarten charakterisieren, wie z.Bsp. \"genäht, manuell\", \"gefüllt\" und \"tambouriert, maschinell\".Eine Besonderheit ist die unechte Applikation. Mehrere Stoffe oder Tüll mit Stoff werden gleichzeitig bestickt. Mit dem nachträglichen (oder auch zwischendurch) Ausschneiden von Tüll oder Teilen des Stoffes wird die Aufnäharbeit (siehe Technik \"genäht\") umgangen, die zur Herstellung von Applikationseffekten benötigt wird. Statt Ausschneiden kann auch geätzt werden.Maschinengestickte Spitzen und Stickereien entstehen durch:- Besticken eines Netzes à TüllspitzeNachahmung der handgearbeiteten Klöppelspitzen.Nachahmung der Duchesse (unechte Applikation mit Ätzspitze)- Besticken eines Netzes und Kombination mit der Technik \"angezogen, maschinell\" à Tüllspitze.Nachahmung der Bretonne, der Limerick.- Besticken eines Stoffes à Stickerei einfachNachahmung von Flächenfüllender Stickerei, Gold- und Metallstickerei, Handstickerei, Knüpfstickerei, Tambourierstickerei- Besticken eines Stoffes und Kombination mit der Technik \"gebohrt\" à Bohrspitze; Stickerei mit Bohreffekten.Nachahmung der Lochstickerei, wie z.Bsp. Madeira-Stickerei.- Besticken eines Stoffes und Kombination mit der Technik \"ausgeschnitten\" à Ausschneidspitze; Stickerei mit AusschneideffektenNachahmung der Ausschneidstickerei (Broderie Anglaise, Hedebo-Arbeit).- Besticken eines Stoffes und Kombination mit der Technik \"ausgeschnitten\" und \"genäht, manuell\" à Stickerei mit ApplikationenNachahmung der Applikationsspitze, Ausschneidarbeit- Besticken eines Stoffes und Kombination mit der Technik \" angezogen, maschinell \" à Stickerei mit FadenanzugseffektenNachahmung der Fadenanzugsarbeit (Appenzeller Stickerei), der Handgestickten Spitze (Dresde, Point de).- Besticken eines Stoffes und Kombination mit der Technik \"gefüllt\" à Stickerei mit EinlagearbeitenNachahmung derEinlagearbeiten (z.Bsp. Marseiller Stickerei).- Besticken eines Stoffes und Kombination mit der Technik \"geätzt\" à Ätzspitze.Nachahmung der Nadelspitzen, der Knüpfspitzen, der Häkelspitzen, von Filet, von Durchbrucharbeiten, von Point lace, der Duchesse (unechte Applikation mit Ätzspitze mit Tüllspitze).- Besticken eines Stoffes und Kombination mit der Technik \"geätzt\" und \"ausgeschnitten\" à Ausschneidspitze.Nachahmung der Carrick-ma-cross (unechte Applikation von Ätzspitze mit Stoff)Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.304ffLit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.52ffLit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.4,11"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000029"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

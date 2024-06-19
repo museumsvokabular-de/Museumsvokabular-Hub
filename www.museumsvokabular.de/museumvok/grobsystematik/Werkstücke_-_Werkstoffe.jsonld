@@ -1,0 +1,252 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Werkstücke_-_Werkstoffe",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Werkstücke - Werkstoffe"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handwerk_-_Handwerkszeug"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bürstenrohling"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Drahtgeflecht"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenfragment"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenrohling"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenrohr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasstein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzgriff"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzscheibe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzstütze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hufeisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klötzchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuriosum_(ausgehölter_Baumstamm)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lederstreifen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lederstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Marmorplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metallsohle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metallstab"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ringstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rohrstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schieferscheibe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Werkabfall"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Werkstück"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

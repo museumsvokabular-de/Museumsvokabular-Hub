@@ -1,0 +1,175 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/technik_spitzen/00000030",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "gestickt, manuell"
+  },
+  "definition": {
+    "de": "ist das Durchziehen und Auflegen eines Arbeitsfadens mit Hilfe einer Nadel durch und auf eine Unterlage. Dies geschieht von Hand. Der Grundstoff wird durch Nachsticken (genähte Stiche) des vorher aufgebrachten Musters verziert. Er ist meist eingespannt in einem Stickrahmen. Das Stickmaterial kann einfarbig oder bunt sein, Grundstoff und Stickmaterial Ton in Ton oder im Kontrast zueinander stehen. Es können Perlen und Flitter mit eingearbeitet werden. Bei Zusatztechniken, die Durchbrüche im Stoff erzeugen, wird der entstandene Rand oder Fadenbündel mit Schlingstich, Stielstich oder Plattstich verziert.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.9-171. ohne Zusatztechnik:Beispiel: Gobelinstickerei (Kelimstich; Perlstich); Kreuzstichstickerei; Nadelmalerei; Plattstichstickerei; Gold- und Metallstickerei (Kordeltechnik; Sprengstichstickerei); Handstickerei; Knüpfstickerei; Perl- und Flitterstickerei.2. Kombination mit der Technik \"aufgeschnitten\":Die durch die Technik \"aufgeschnitten\" entstandenen Öffnungen werden entsprechend ihrer Form umstickt.Beispiel: Lochstickerei mit Stoff-Figuren; Madeira-Stickerei3. Kombination mit der Technik \"ausgeschnitten\" und \"genäht\":Vorgefertigte Stoff-Teile oder Spitzenornamente werden auf einen Grundstoff oder Tüll genäht. Die Teile unterscheiden sich vom Grundstoff in Farbe, Material oder Textur. Unter den aufgenähten Teilen kann der Stoff bzw. Tüll belassen oder auch weggeschnitten werden.Beispiel: Ausschneidarbeit; Applikationsspitze.4. Kombination mit der Technik \"ausgeschnitten\" und \"genäht (Spitze)\":4.1. Die Konturen eines vorgezeichneten Musters werden gestickt. Zwischen den Konturen werden Speichen genäht, ohne durchzustechen, und der Stoff unter den Speichen wird von der Rückseite her ausgeschnitten. Der übrig gebliebene Stoff ist verziert mit Stickerei oder Schnureinlagen.Beispiel: Carrick-ma-cross; Intagliatela; Renaissancespitze; Spanische Ausschneidspitze; Venezianische Relief-Ausschneidspitze.4.2. Eine andere Möglichkeit besteht darin, Öffnungen auszuschneiden (Konturen müssen vorher gestickt sein) und den Stoff mit in die Umrandung einzusticken. Die Löcher werden mit Nadelarbeit gefüllt.Beispiel: Ausschneidstickerei (Broderie Anglaise; Hedebo-Arbei5. Kombination mit der Technik \"angezogen, manuell\":Die durch starken Fadenanzug, entstandenen Öffnungen werden durch verschiedene Sticharten gebildet. Anzugeffekte treten als Linien, Flächen und selbständige Musterelemente auf.Beispiel: Appenzeller Stickerei; Dresde, Point de.6. Kombination mit der Technik \"ausgezogen\":Die durch den doppelten Fadenauszug entstandenen Fadenbündel werden mit dichtem Schlingstich umrandet. Es ist ein Netz entstanden, das die verbliebenen Figuren im Stoff umgibt oder selbst das Muster bildet.Beispiel: Spitze in Durchbrucharbeit; Toledo7. Kombination mit der Technik \"ausgezogen\" und \"genäht (Spitze)\":Die durch die Fadenauszugsarbeit entstehenden Löcher im Stoff werden durch Nadelspitzenmotive gefüllt. Verbleibende Fäden werden durch Schlingstiche gebündelt. Der verbliebene Stoff und/oder die Ränder können zusätzlich bestickt werden.Beispiel: Einfache Durchbrucharbeit; Hardanger Arbeit.8. Kombination mit der Technik \"durchgezogen\" und \"angezogen, manuell\":Der Faden wird frei nach Muster oder entlang der Netzfeldreihen durch den Tüll gezogen und innerhalb der Konturen sind Ziehgrundeffekte.Beispiel: Limerick.9. Kombination mit der Technik \"gefüllt\":Zwei Lagen Stoff werden bestickt, anschließend auf der Rückseite aufgeschnitten, mit Watte oder Schnur gefüllt und wieder zugenäht. Eine andere Möglichkeit ist, Oberstoff, Unterstoff und Einlage gleichzeitig zu besticken.Beispiel: Marseiller Stickerei; Steppen mit wattiertem Stoff; Stepperei mit Einzug von Dochtwolle oder Schnur10. Kombination mit der Technik \"tambouriert, manuell\":Tambourierter Kettstich wird oft zur Verzierung bereits vorhandener Stickerei (Konturbetonung) benutzt.Beispiel: Handstickerei; Perl- und Flitterstickerei"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000029"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

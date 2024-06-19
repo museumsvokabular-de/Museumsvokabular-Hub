@@ -1,0 +1,207 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/moebel/00001017",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Wiege"
+  },
+  "definition": {
+    "de": "Die Wiege ist ein Kinderbett, das zum Schaukeln und/oder Schwingen eingerichtet ist. Sie ist kasten-, trog-, korbförmig oder andersartig gestaltet. Oft sind Wiegen mit einem Himmel versehen, der am Wiegenbogen aufgehängt ist. Weiteres Zubehör ist das Wiegenbrett, ein Gestell aus zwei unter den Kufen liegenden Brettern und einem beide Bretter verbindenden Mittelsteg. Die Konstruktion von Wiegen aus Kunststoffen, Geflecht und Metallen differiert zuweilen; diese Wiegen orientieren sich jedoch in der Regel an der tradierten Wiegen-Form.Stehwiegen, deren Kufen an der Unterseite abgeplattet sind und die daher nicht schaukeln können, sind hier nicht einzuordnen.Geschichte: Säuglinge hatten - anders als Kleinkinder - ihre eigenen Liegemöbel, in denen sie geschützt und ohne in Gefahr zu sein, von Größeren erdrückt oder erstickt zu werden, schlafen konnten: die Wiegen. Biblischen Motiven, so die Auffindung Moses' und Christi Geburt, als zentralen Themen in den bildenden Künsten verdanken wir eine Vielzahl von Wiegendarstellungen. Abgebildet sind - quer durch die Jahrhunderte - hängende ebenso wie stehende Wiegen, aus Holz, Textil oder Flechtwerk, reich verziert oder schlicht gehalten.Trotz der Nachweisdichte kann eine exakte Abfolge, wann welcher Wiegentyp entstand, nicht angegeben werden. Trogwiegen dürften neben den aufgehängten Wiegenkästen zu den ältesten Wiegen zählen. Wann genau der auf dem Boden stehende Wiegenkasten zum Schaukeln mit Kufen versehen wurde, ist nicht bekannt.Beim Vesuvausbruch im Jahre 79 wurde eine Kufenwiege verschüttet; in den 1930er Jahren ausgegraben, dürfte sie heute die älteste erhaltene Kufenwiege sein. Eine Kontinuität zu späteren Wiegen lässt sich aufgrund fehlender Belege nicht nachweisen. Fest steht jedoch, dass die Kufenwiege vom 13. bis zum 19. Jahrhundert die am häufigsten zu findende Wiegenform war.Die älteste bekannte Gestellhängewiege blieb in England erhalten, sie datiert vom Ende des 15. Jahrhunderts. Spätere Darstellungen finden sich in mittelalterlichen Inkunabeln und auf Altargemälden; weite Verbreitung fand die Gestellhängewiege dann im 18. und 19. Jahrhundert.Im Jahr 1811 entwickelte der Bückeburgische Arzt Bernhard Christoph Faust, der sich auch als Sozialhygieniker einen Namen machte, die Fahrstuhlwiege, eine in ein luxuriöses Gestell eingebaute, an Federn aufgehängte Wiege.Anfang des 19. Jahrhunderts kamen Wiegen aus Eisen - Drahtkörbe auf eisernem oder hölzernem Gestell -auf; verbreitet waren sie vorwiegend in den sächsischen und rheinisch-westfälischen Industriegebieten.Weitere regionale Vorlieben für bestimmte Wiegentypen haben sich entwickelt. So ergab die Umfrage des Atlas der deutschen Volkskunde von 1933, dass die Querschwinger allgemeine Verbreitung gefunden haben, Längsschwinger waren im Hessischen, in Thüringen und im nördlichen Siegerland beliebt. Der Doppelschwinger entstand dort, wo Quer- und Längsschwinger aufeinander trafen. Ständerwiegen waren in Mecklenburg und Vorpommern gebräuchlich, Hängewiegen im Fichtelgebirge und im benachbarten Böhmen.Abb.: Skizze von Hendschel"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000992"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001018"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00001026"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002406"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002407"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002408"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002409"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002410"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002411"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002412"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002413"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

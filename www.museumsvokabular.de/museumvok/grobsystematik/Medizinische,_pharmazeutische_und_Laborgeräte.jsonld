@@ -1,0 +1,351 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Medizinische,_pharmazeutische_und_Laborgeräte",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Medizinische, pharmazeutische und Laborgeräte"
+  },
+  "altLabel": {
+    "de": [
+      "Medizinisches Gerät (Pharmazie und)"
+    ]
+  },
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronze-Doppelhenkel-Mörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronze-Mörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingmörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/T-Stößel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abfüllmaschine_für_Arzneimittel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aderlaßschnepper"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekendose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekengefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekengerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekenmühle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apotheker-Ballonflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apotheker-Holzgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apotheker-Tüllenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerblechgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerbüchse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekergefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekergläschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerrezept"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerschrank"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerschränkchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekersieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerstandwaage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekertongefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekertopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Apothekerwaage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Arzneibehälter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Arzneimitteldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Arzneimittelglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Arzneimittelschachtel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blutsenkungsgeschwindigkeitsmesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dekoktorium"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Destilliergerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Destillierkolben"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasretorte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausapotheke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Infundierapparat"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Injektionsspritze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klistierspritze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klistierspritze_für_Pferde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Laborgefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Medizinglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ohrenspritze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Phiole"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reagenzglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reagenzkolben"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reiseapotheke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Röhren-Phiole"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schröpfglas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schröpfkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schröpfschnepper"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spritze,_medizinisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tinkturenpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Verbandspäckchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zahn-Extraktionszange"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zahnplombiermaschine"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

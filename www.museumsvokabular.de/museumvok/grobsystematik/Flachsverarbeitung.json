@@ -1,0 +1,351 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Flachsverarbeitung",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Flachsverarbeitung"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Landwirtschaft"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechelbank"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abzughechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abzugshechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brake"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelbrake"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelhechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fegebock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fegemesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fegewanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Feinhechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachs"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsbrake"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsbreche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsbreche_(Feinbreche)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsbrechmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsbündel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsdoppelhechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsfaser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsglätter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachshaspel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachshechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachshechelbock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachshechelstuhl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachskamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsmesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachspflanze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsprodukt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsreffe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsriepe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsriffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachssamen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsschwinge"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Freischwinger"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Garnspule_für_Flachs"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Garnwinde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grobhechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grobhechelbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handbrake"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handflachskamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handwickelbock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hauklotz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechelbock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechelbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechelkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechelstuhl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klopfstab"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reepe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riedkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riedstuhl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riepe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riffelkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riffelmaschine_für_Haubenbänder_und_Krägen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riffelschrapper"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rohbreche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schwingbock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schwingbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Walze_einer_Flachsbreche"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

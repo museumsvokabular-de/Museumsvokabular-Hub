@@ -1,0 +1,384 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Schale",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Schale"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäße_-_Behälter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausgießschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blatt-Unterschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blechschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bonbonschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bratenschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzeschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dreifuß-Deckelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dreifuß-Schale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Entwicklerschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Dreifußschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Salzschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Zierschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fingerschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Friseurschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebäckschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemüseschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gesteckschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gips-Schale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gitterrandschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jugendstilschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Keramikschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konfektschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konfektschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kristallschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kristallschale_auf_Fuß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Likörschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Milchglasschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nickelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Obstschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pappelholzschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Parmesanschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Prunkschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reibschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reisschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seifenschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seifenschalengarnitur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sektschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Silberschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Soßenschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Henkelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingutschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeugschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teeschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Terra-Sigillata-Schale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Terra-Sigillata-Schälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Deckelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Schalendeckel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Unterschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vierpaßschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waagschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wellenrandschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Henkelschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerschälchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zwiebelschale"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

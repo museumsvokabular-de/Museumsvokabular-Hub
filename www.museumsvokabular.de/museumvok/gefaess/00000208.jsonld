@@ -1,0 +1,222 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000208",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Backform"
+  },
+  "altLabel": {
+    "de": [
+      "Kuchenform"
+    ]
+  },
+  "definition": {
+    "de": "Vielfältige geometrische, aber auch tiergestaltige Hohlformen aus erhitzungsfähigem Material mit spezieller Backeignung; häufig durch Rippen und Wülste strukturierte steile Wandung (Irdenware, Steingut, Braungeschirr, Eisenblech, emailliertes Eisenblech, Gußeisen, Aluminium; Bauer, Hafnergeschirr, Abb. 180-182; Bauer, Treuchtlinger Geschirr, Abb. 88; Grasmann, Kröninger Hafnerei, S. 133; Istvan, S. 43-45; Scholten-Neess, Abb. 416-418; Weinhold, Töpferwerk, Abb. 90)Syn.: (->)\"Gug(e)lhupf\", Aschkuchenform, Auflaufform, Backform mit Rohr, Bundform (mit/ohne Rohr), Fischform, Königskuchenform (Pastetenform, Puddingform), Napfkuchenform (mit/ohne Rohr)"
+  },
+  "narrower": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000246",
+      "prefLabel": {
+        "de": "Lammform"
+      }
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000247",
+      "prefLabel": {
+        "de": "Gug(e)lhupf"
+      }
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000248",
+      "prefLabel": {
+        "de": "Königskuchenform"
+      }
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000254",
+      "prefLabel": {
+        "de": "Napfkuchenform"
+      }
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000411",
+      "prefLabel": {
+        "de": "Fischform"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000206",
+    "prefLabel": {
+      "de": "Sonderformen"
+    }
+  },
+  "related": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000255",
+      "prefLabel": {
+        "de": "Pastetenform"
+      }
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000258",
+      "prefLabel": {
+        "de": "Puddingform"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/gefaess/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/gefaess/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

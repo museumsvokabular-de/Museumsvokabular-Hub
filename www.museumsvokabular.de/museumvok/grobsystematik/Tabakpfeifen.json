@@ -1,0 +1,287 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Tabakpfeifen",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Tabakpfeifen"
+  },
+  "altLabel": {
+    "de": [
+      "Pfeifen (Tabak-)"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tabakrauchen"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenbord"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bruyere-Pfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bruyere-Pfeifenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bruyererpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Erdenpiep"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Etui_für_Pfeifenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gemeinschaftspfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hornpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kurzpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Langpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Meerschaum-Pfeifenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Meerschaumpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mutz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nickel-Pfeifendeckel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeife,_lang"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifen-Funkenfänger"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifen_(Rauchutensilien)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenfutteral"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenreiniger"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenstopfer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfeifenständer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Piep"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Pfeifenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Seminaristenpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stockpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tabakspfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Pfeifenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Pfeifenköpfe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonpfeife"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weckmännchenpfeife"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

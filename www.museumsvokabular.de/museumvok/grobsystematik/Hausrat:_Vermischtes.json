@@ -1,0 +1,276 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Hausrat:_Vermischtes",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Hausrat: Vermischtes"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausrat"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Butterdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Konfitüredose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Griesdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kakaodose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Keksdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kümmeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salzdöschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teedose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vorratsdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bettpfanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flaschenuntersatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fliegenschutz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Frühstücksbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Frühstücksbrettchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Geschirrabtropfkasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzset"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kartoffelschälkörbchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klingenhalter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Wasserkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nachtgefäß_aus_Nonnenkloster"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nachtgeschirr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nachttopf_(Schieber)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanbrettchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salzkasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Frühstücksbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Nachttopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Streuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stöpsel_(Tonkrug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teekästchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warmhaltedeckel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wassergießtopf"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

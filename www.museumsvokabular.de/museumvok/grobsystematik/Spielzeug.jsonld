@@ -1,0 +1,450 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Spielzeug",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Spielzeug"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spiele_-_Unterhaltung"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzzitrone"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Tischglocke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Rassel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anker-Steinbaukasten-Bilderbogen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waffeleisen_(Miniatur)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anker-Steinbaukasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Anker-Steinbaukasten-Vorlage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brummerspiel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dobb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einkrankanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graskopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hampelmann"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haudopp"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Knallbüchse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Steckenpferd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzkreisel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holztier"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Huhn"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hüldopp"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jäle_Jurs"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klapperspielbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klicker"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klompe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Knabböff"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Knallböss"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Knekkerbüel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Knicker"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugel-Laufgestell"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugel-Legespiel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lößkindl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Holzschuh"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mini-Spielzeugservice"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Murmel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Murmelspielkugel-Beutel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mörvelsbüel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Papier-Guckkasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Papierball"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pinkolt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Radler"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schaukelpferd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiffbaukasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Altargerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Altarleuchter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Backform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Backmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Billardständer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Blockflöte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Butterstößer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Deckeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Drehorgel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Fernrohr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Fliegenkäfig"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Garnitur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Gießkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Glutbehälter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Gluttopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Helmkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Hobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Holzbaukasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Holzpferd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Kaffeekanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Kaffeeservice"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Kelchpokal"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Knallbüchse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Krankanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Kreisel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Kugelrechenmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Metallkreisel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Monstranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Mörser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Pantine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Quakfrosch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Schränkchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Schubkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Steinzeuggefäß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Stitze_(Weinkännchen)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Stoffbär"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Stoffschwein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Vogelbauer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Wasserkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeug-Wasserkessel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeuggruppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeugkugel-Beutel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spielzeugschlagholz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Springseil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steckenpferd"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stoffball"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Spielzeugfigur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Spielzeugkugel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnsoldat"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnsoldaten-Gruppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ömmer"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

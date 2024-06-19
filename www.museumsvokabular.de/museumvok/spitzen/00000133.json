@@ -1,0 +1,178 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/spitzen/00000133",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Stickerei mit Einlagearbeiten"
+  },
+  "definition": {
+    "de": "In dieser Gruppe faßt man all die Techniken zusammen, bei denen durch Einlegen, Einziehen oder Einstopfen von Watte, Schnüren oder ähnlichen Materialien unter den Stoff oder zwischen zwei Stoffe (Ober- und Futterstoff) Reliefs gebildet werden.* Stickerei von wattierten Stoffen an der Schiffchenstickmaschine: Alle Materialien müssen vorbereitet werden, bevor sie in der Maschine zusammen aufgespannt werden können. Diese Art der Stickerei kann ebenso an der Kurbelstickmaschine oder am Mehrkopfstickautomat hergestellt werden.* Stepperei mit Einzug von Dochtwolle oder Schnüren: Das Relief entsteht linienartig nach dem Verlauf der Schnur. Diese Technik, auch Biesen- oder Riefchenstickerei genannt, erfolgt hauptsächlich auf einem Spezialtyp der Kurbelstickmaschine.* Immitation der Marseiller Stickerei: Eine Immitation der Marseiller Stickerei ist auf Schiffchenstickmaschine, Mehrkopfstickautomaten und Kleinstickmaschine möglich. Es werden starke, reliefartige Plattstichunterlagen auf einem Unterstoff vorgestickt und diese auf dem Oberstoff anschließend mit Steppstichkonturen umrandet. Die Technik ähnelt der Stepperei von Dochtwolle und Schnüren,nur das die Musterung flächig und figürlich dargestellt werden kann.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.325ff;Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.215-217"
+  },
+  "example": {
+    "de": "Pikeestickerei"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000116"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

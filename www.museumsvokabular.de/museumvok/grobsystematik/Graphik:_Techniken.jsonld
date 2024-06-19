@@ -1,0 +1,441 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Graphik:_Techniken",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Graphik: Techniken"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphik_-_Malerei"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphisches_Blatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Druck_auf_Glas"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abzug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Andruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aqua_Tinta"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquarell"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aquatinta"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistift-Kohle-Studienblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bleistiftskizze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Chromolithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Druck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Druckgraphik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Druckplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Druckstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farb-Druckblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbholzschnitt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farbkupferstich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Farblithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federlithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federskizze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fotodruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fotografik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fotomontage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Galvanographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gouache"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grafikreproduktion"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gummidruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Heliogravure"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Druckstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzschnitt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzschnitt-Bild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzschnitt-Druckblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzschnitt-Druckstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzschnittblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzstich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kaltnadelradierung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klischee"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kreidelithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kreidestudie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelschreiberzeichnung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kunstdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kunstdruckmappe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferdruckplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferstecherwerkzeug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferstich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferstich-Druckblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferstich-Druckstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferstichblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lacksiebdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lichtdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Linoldruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Linoldruckstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Linolschnitt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lithoblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lithografie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lithographie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Druckstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mezzotintoblatt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Naturskizze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Offsetdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ornamentstich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pastell"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pinselskizze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pinselskizze_mit_Farbstift"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Prägedruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Punktierkupferstich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Radierung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schabkunst"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Scherenschnitt"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Serigraphie"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Siebdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Skizzenblock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Skizzenbuch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Skizzenheft"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stahlstich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steindruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Studienskizze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Textildruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tiefdruckpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wachsflechte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Öldruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölpastell"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölskizze"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

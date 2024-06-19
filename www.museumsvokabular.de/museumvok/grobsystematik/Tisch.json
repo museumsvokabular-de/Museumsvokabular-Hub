@@ -1,0 +1,294 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Tisch",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Tisch"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Möbel"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stuhltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spieltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ablagetischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abstelltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abstelltischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abstrubbtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Arbeitstisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausziehtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beistelltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blumentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eichen-Klapptisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eichentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eßtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Frisiertisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gartentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gestelltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klapptisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konsoltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Konsoltischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Küchentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ladentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leggetisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nachttisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nachttischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nußbaum-Näh-Tischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nähtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nähtischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfostentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rokokotischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rolltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schranktischchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schreibmaschinentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schreibtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schustertisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spiegeltisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teewagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wangentisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waschtisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wohnzimmertisch"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

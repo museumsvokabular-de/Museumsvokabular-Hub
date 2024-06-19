@@ -1,0 +1,321 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Flasche",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Flasche"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäße_-_Behälter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ballonflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bierflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bitterwasserflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blauglas-Schnapsflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blechflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bocksbeutel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Boddelflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Enzianflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Essigflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Essigfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Faßflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Feldflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasflasche_(Salbgefäß)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handwärmflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Henkelflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Korbflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maggiflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Medizinflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metallflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Milchglas-Schnapsflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Parfümfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Portweinflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Pilgerflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Puderflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pulle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnapsflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schraubflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schulterflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sechseckflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spritzflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sprudelflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Essigflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Likörflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Pulle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Schnapsflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeugflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Flasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tropfenfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vierkantflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weinflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wärmflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Kugelfläschchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölflasche"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölfläschchen"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

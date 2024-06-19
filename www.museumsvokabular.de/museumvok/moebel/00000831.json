@@ -1,0 +1,282 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/moebel/00000831",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Tisch"
+  },
+  "definition": {
+    "de": "Der Tisch besteht aus einer horizontalen Platte, dem sogenannten Blatt, das von einem oder mehreren Tragelementen gehalten wird. Die Höhe variiert stil- und gebrauchsabhängig. Die Konstruktion von Tischen aus Kunststoffen, Keramik, Glas, Geflecht, Metallen, papier/Pappe und/oder Textil differiert zuweilen; diese Tische orientieren sich jedoch in der Regel an der tradierten Tisch-Form.Geschichte:Schon seit der Antike ist der Tisch entweder als luxuriöser Repräsentationsgegenstand oder als schlichtes Gebrauchsobjekt bekannt.Die im Frühmittelalter und bis in die Renaissance hinein am häufigsten verbreitete Tischform war der Tafeltisch. Er wurde bei Bedarf auf- und abgebaut und bestand aus zwei Böcken, über die lose Bohlen oder Bretter gelegt wurden. Er war, wie man auf zeitgenössischen Bildern sehen kann, mit einem großen Tischtuch bedeckt, das gleichzeitig als Serviette diente.Der markante Kastentisch entwickelte sich in der Spätgotik; die italienische Renaissance brachte den auf einer meist säulenartigen Mittelstütze ruhenden Rundtisch hervor.Im 15. Jahrhundert entwickelte sich der Wangentisch. Im 16. Jahrhundert kamen verstärkt Zargentische in Gebrauch, deren Beine im süddeutschen Raum ein aus Italien übernommenes kantiges Profil weiweisen, in Norddeutschland hingegen die aus England stammende, aus Holland eingeführte Balusterform.Im 17. und 18. Jahrhundert waren neben dem schweren ausziehbaren Esstisch viele weitere, oftmals sehr zierliche Tischformen verbreitet. Neue Grundformen wurden nicht mehr entwickelt, sondern bestehende dem jeweils herrschenden Geschmack angepasst."
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000794"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000832"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000836"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000838"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000841"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000843"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000847"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000848"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000851"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000853"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000854"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000855"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000856"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000857"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000861"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000863"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002294"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002295"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002296"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002297"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002298"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002299"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002300"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002301"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002302"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002303"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002304"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002305"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002306"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002307"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002308"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002309"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002310"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002311"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002463"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002464"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

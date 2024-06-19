@@ -1,0 +1,458 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Backgerät_-_Backformen_(Küche)",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Backgerät - Backformen (Küche)"
+  },
+  "altLabel": {
+    "de": [
+      "Backformen - Backgerät (Küche)"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausrat"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausstechform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausstechform_(Lebkuchenbäckerei)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausstechförmchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backmodelleiste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backrolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backschüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backtrog"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Backwerk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beckenbord_mit_Brotschrank"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotbürste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotkasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotkorb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotschaufel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotschieber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotschneidemaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotschrank"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotstempel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotteigschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brottrommel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bäkske"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fülltrog"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebäckform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebäckmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebäckmodelabdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holztrog"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hostien-Eisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hostienpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hostienstanzeisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kasten-Kuchenbackform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenbackform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenbackmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenkuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kranzkuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kratzer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchen-Backform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenblech"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kucheneisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenform_zum_Teigausstechen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenheber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenpfanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kuchenplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lebkuchenbäckerei"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lohkuchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lohkuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Marzipanform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehlfaß"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehlschaufel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehlsieb"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehlsieb,_mechanisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Molle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Napfkuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Oblaten-Eisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ostergebäckmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ostersemmel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Peeperkoek"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfannkuchenschüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfannkuchenstülpe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfannkuchenteller"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfannkuchenwender"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plätzchenausstechform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Printenmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rodonkuchenbackform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rodonkuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rührer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rührlöffel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spekulatiusbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spekulatiusform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spekulatiusmodel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stabwaffeleisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingut-Teigrolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigform_für_Brot"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigrolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigrädchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigrührer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigschüssel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigspaten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teigstecher"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Backform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Topfkuchenform"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waffeleisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Waffeleisen_für_Herdfeuer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandbehälter_für_Mehl"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

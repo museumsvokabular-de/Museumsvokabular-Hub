@@ -1,0 +1,303 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Bohrer",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bohrer"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Werkzeug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzbearbeitungsgerät_allgemein"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausreiber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausreiber,_flachkonisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausreiber,_lang"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausreiber,_spitzkonisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Balkenholzbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ballbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bohrer,_gedrehter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bohrwinde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brunnbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brustleier"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Büchsenbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Drillbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Feuerstein-Bohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewindebohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handbohrer_mit_Griff"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handspiralbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handtaufelbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leierbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Löffelbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nagelbohrer_mit_Heft"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Radbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Röhrenbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schlangenbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schneckenbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schneideisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schraubbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spindelbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spiralbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sprenglochbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spundbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spundheber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spundheber_mit_Stellschraube"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spundlochbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Säulenbohrmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zapfenbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zentrumbohrer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zentrumbohrer,_amerikanisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zentrumbohrer,_verstellbar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zentrumbohrer_mit_runden_Stiel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zweihandbohrer"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

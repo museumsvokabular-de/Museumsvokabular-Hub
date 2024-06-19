@@ -1,0 +1,345 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Kannen",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Kannen"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäße_-_Behälter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Adlerkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bartmannskanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bierkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Birnbauch-Tonkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Birnbauch-Zinnkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Birnbauchkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzekanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelhenkelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dröppelminna"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Enghals-Schankkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Enghalskanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Essigkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Enghalskanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Henkelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Henkelkännchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gießkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Helmkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Henkelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kannendeckel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kanneneinsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Keramikkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kranenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kränchenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelbauch-Schenkkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelbauchkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kännchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lavabokanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Deckelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Filterkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messingkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messkännchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Petroleumkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellankanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Saftkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnabelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schützenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingutkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Ovalbauchkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeugkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sternkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stielkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teckanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tüllenkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warmhaltekaffeekanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weithalskanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zierkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Deckelkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Deckelkännchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Ratskanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnkanne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnkännchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölkanne"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Weben",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Weben"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Textilverarbeitung"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weberbuch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hechelkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riedkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webspule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webspulrahmen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammkasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammschale"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abteiler"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abteiler_(Webzubehör)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aufziehstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aufziehstück_(Webzubehör)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glättstück_für_Webstücke"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handwebstuhl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jutegewebe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammlade"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kammlade_(Webzubehör)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kettstoal"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leinenbaum"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reidkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reidkamm_(Webkamm)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rinderknochen_zum_Glätten_von_Leinen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Scherbaum"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spannstück"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spannstück_(Webzubehör)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sperrute"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weberschiffchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webgerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webgerät_(Abteiler)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webgewicht"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webmesser"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webrechen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webrechen_(Webzubehör)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webschiffchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webstuhl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webstuhl_für_Leinen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webzubehör"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webzugehörgerät"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wollkamm"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wollkratzer"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wurfschiffchen"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

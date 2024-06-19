@@ -1,0 +1,281 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/ackerbau/Nuthobel_-_Falzhobel_-_Grathobel_-_Platthobel",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Nuthobel - Falzhobel - Grathobel - Platthobel"
+  },
+  "altLabel": {
+    "de": [
+      "Falzhobel - Grathobel - Platthobel - Nuthobel",
+      "Grathobel - Platthobel - Nuthobel - Falzhobel",
+      "Hobel (Nut-) - Falzhobel - Grathobel - Platthobel",
+      "Platthobel - Nuthobel - Falzhobel - Grathobel"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hobel_(Tischlerwerkzeug)"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ausgrundhobel,_verstellbar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Auszugtischhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Falzhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federschlitzerhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasnuthobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasnutstellhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grathobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grundhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kittfalzhobel,_verstellbar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kittfalzhobel_mit_einem_Eisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kittfalzhobel_mit_zwei_Eisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Nuthobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Parkettfederhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Parkettnuthobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Parkettnuthobel,_klein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plattbankhobel,_verstellbar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plattbankhobel,_verstellbar_mit_Doppeleisen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Platthobel,_gerader"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Platthobel,_schr�ger"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Prismenhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/R�ckwandhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stellfalzhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stellfalzhobel,_schr�g_mit_Vorschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stellfalzhobel_mit_zwei_W�nden"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stellgrathobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stellgrathobel_mit_Vorschneider"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stellgrathobel_mit_Vorschneider_und_zwei_W�nden"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/T�rnuthobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/T�rnutstellhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zahnleistenhobel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zahnleistenhobel,_verstellbar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/�berschiebhobel"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

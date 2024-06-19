@@ -1,0 +1,363 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Dose",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Dose"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäße_-_Behälter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Butterdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Alabasterdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aluminiumdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blech-Zündholzdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blechdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bonboniere"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bratwurstdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brotdose_(Puppenhaus)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckel-Bonbonniere"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenblech-Tabakdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisendose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Butterdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Deckeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Konfitüredose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Federdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebäckdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewichtsatzdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gewürzdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Griesdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Griffeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kakaodose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karton-Schmuckdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Keksdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klappdeckeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klappdöschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klappdöschen_(für_Feuerstein)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kümmeldose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leder-Schnupftabakdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Manschettendose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Medizindose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Tabakdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Messing-Zunderdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metalldose_für_Hustenbonbons"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Papp-Schmuckdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Streusanddose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellandose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reliquiendose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Riechdöschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Salzdöschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sanddose_zum_Schreibzeug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnupftabakdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnupftabaksdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schuhcremedose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schwammdöschen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spardose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingutdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingutdose_für_Gries"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Streichholzdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tabakdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tabaksdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Teedose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Spardose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vorratsdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zigarettendose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zigarrendose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinndose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerdose"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zuckerdose_(Kindergeschirr)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zündholzdose"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

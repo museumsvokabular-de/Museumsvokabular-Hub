@@ -1,0 +1,291 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/ackerbau/Pflüge",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Pflüge"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bodenbearbeitungsger�t"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Saatpflugteile"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karrenpflugteile"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kartoffelpfl�ge"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hunspflug_mit_Vorwagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Baupflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beetpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bockpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dampfpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dampfpfluglokomobil"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelsterzpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenpflug_mit_Grubber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Grubber"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/G�nsefu�"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hackpflug,_keilf�rmig"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hakenpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haubergspflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/H�ufelpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/H�ufelpflug_mit_Pflugkarren"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Igel_(Kr�melpflug)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karrenpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kippdampfpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kipppflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kr�melpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kr�melsohlenpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kr�mmer_mit_G�nsefu�"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/L�ffelschar"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mehrscharepflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rajolpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Saatpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Saatpflug_mit_Sterz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schaufelpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schwingpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spitzpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Streichpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Untergrundpflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weidepflug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wendepflug"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/ackerbau/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

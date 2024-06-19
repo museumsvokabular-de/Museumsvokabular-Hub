@@ -1,0 +1,226 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/moebel/00000964",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Truhe"
+  },
+  "altLabel": {
+    "de": [
+      "Kasten",
+      "Kiste",
+      "Lade"
+    ]
+  },
+  "definition": {
+    "de": "Die Truhe ist ein mit einem Klappdeckel versehener, in der Regel querrechteckiger Kasten. Der Deckel ist entweder flach oder gewölbt gestaltet.Der hoch gezogene Klappdeckel ähnelt Dachformenh, z. B. der gewölbte dem Tonnendach, der ungebrochene dem Satteldach und der gebrochene dem Mansardgiebeldach. Bei der \"Dach-\" oder \"Giebeltruhe\" sind die Giebel entweder Teile des Deckels und werden mit hochgeklappt oder sie sind feststehende Teile der Seitenwände. Bei einer Sonderform der \"Dachtruhe\" ist nur die zur Schauseite geneigte \"Dachfläche\" nach oben zu öffnen.Geschichte:Der Blick ins \"Deutsche Wörterbuch\" zeigt, dass das im Oberdeutschen heimische Wort \"Truhe\" erst seit dem 10. Jahrhundert belegt ist. In Norddeutschland gelangt es Jahrhunderte später in die Schriftsprache; hier gilt das Wort noch Ende des 18. Jahrhunderts als \"Provinzialismus\" . In Gebrauch an seiner Stelle sind die Wörter \"Kasten\" oder auch \"Kiste\".Die Geschichte der Truhe als Gebrauchsmöbel verläuft regional unterschiedlich, sie war zudem von der Schichtzugehörigkeit ihrer Nutzerinnen und Nutzer bestimmt.Bis zum Mittelalter war die Truhe überall das gebräuchlichste Behältnismöbel; sie dient zur Aufbewahrung von Textilien, Kleidern, Lebensmitteln und Vorräten aller Art, hatte zuweilen ein Geheimfach zur Aufbewahrung der Wertsachen. Dann übernahm der Schrank vielfach diese Funktion.Als Dienstboten- oder Gesindetruhe behielt sie in einigen Gegenden jedoch noch bis ins 20. Jahrhundert hinein ihre Aufgabe als Verwahrmöbel.Alte Truhen werden umgenutzt, fanden als Kohlenkasten, Futterkiste oder ähnliches Verwendung. Gegen Ende des 19. Jahrhunderts erfuhr die Truhe als Prunkmöbel des Historismus in bürgerlichen Kreisen eine Wiederbelebung. Die heutigen Truhen haben als Dielenmöbel eher Repräsentations- als Behältnisfunktion."
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000870"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000967"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000969"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00000980"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002369"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002370"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002371"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002372"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002373"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002374"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002375"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002376"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002377"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002378"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/00002379"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/moebel/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Spinnen",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Spinnen"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Textilverarbeitung"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flachsrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Garnspule_für_Flachs"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Garnspule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kreuzspule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spulbrett"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spulenkasten"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spulleiter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spulmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spulrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spulrahmen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webspule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webspulrahmen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnstuhl"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bockrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bockspinnrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Buchenholz-Spinnrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelspinnrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Flucht"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fluchteisen_(Spindel)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holz-Garnspule"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Krönchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Krönchenhalter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Laufrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Peterrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Prickrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Radbock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Radkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rockenband"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spindel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spindelpresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnaufsatz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnmaschine"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad_(Bockrad)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad_(Peterrad)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad_(Ziege)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad_(doppeltes_Bockrad)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad_für_Flachs"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnrad_für_Wolle"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnradtöpfchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spinnwirtel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Spinnwirtel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tretspinnrad"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Warbel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wockenband"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wockenstock"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wollkratze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ziegenrad"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

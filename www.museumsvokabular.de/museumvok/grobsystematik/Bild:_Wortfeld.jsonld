@@ -1,0 +1,378 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Bild:_Wortfeld",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Bild: Wortfeld"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Graphik_-_Malerei"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Andenkenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bild-Adresse"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bildcollage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bilderbogen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bildtafel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blockbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brustbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Buchblatt-Bildnis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckfarbenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Devotionalienbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Erinnerungsbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Kachelbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fensterbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Firmungsbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fleißbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasfensterbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glasmalerei"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haarbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hausandachtsbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Heiligenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Heiligenbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hinterglasbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hochzeitsbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hochzeitserinnerungsbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hochzeitsgedenkbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzbildwerk"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Intarsienbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Interieurbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kalenderbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klappbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klappbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Klebebild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maria_Kevelaer-Bild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Materialbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Miniatur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Monatsbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Mosaik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ovalbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reliquienbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rundbildplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schnitzaufsatz_(Bilderrahmen)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Soldatenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spitzenbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Spruchbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Standbilderrahmen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stanzbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stationsbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stickbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stoffbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stollwerkbilder-Sammlung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tafelbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Temperabild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Temperafarbenbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Wandbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Totengedenkbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Verlöbnisbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vesperbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Votivbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wandbildplatte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webbild"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webbildchen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Webbildstreifen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wollstickereibild"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

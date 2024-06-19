@@ -1,0 +1,230 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Wagen_-_Karren_(Landwirtschaft)",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Wagen - Karren (Landwirtschaft)"
+  },
+  "altLabel": {
+    "de": [
+      "Karren - Wagen (Landwirtschaft)"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ackerbaugerät_-_Feldbestellung"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Transportgerät_-_Fahrzeuge"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ackerwagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Handwagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Leiterwagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Viehwagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bockkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Faßkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hondskarr"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Karre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kastenkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Lemgoer_Handwagen,_klein"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reepwagen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sackkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiebekarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schiebkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Schubkarre"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wagen"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

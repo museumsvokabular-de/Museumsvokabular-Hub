@@ -1,0 +1,261 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Religiöses_Brauchtum",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Religiöses Brauchtum"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Brauchtümliche_Sachgüter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwasserbecken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwasserbehälter"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Devotionalkreuz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wallfahrtswesen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Versehkreuz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Andenken_an_Priesterweihe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Buchsbaum-Rosenkranz-Ei"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Exerzitienandenken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gebetsteppich"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Golgatha-Felsen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Granatstein-Rosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Haussegen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kirchenfahne"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kriegerrosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Missionsandenken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Pfadfinderrosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Weihwassernapf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rosenkranzkreuz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Silber-Gold-Rosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Weihwassernapf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stroh-Rosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Taschen-Rosenkranz"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tempelmaske"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tragbaldachin"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Versehtuch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwasserkessel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwassermuschel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weihwasserspender"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

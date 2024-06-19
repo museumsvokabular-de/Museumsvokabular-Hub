@@ -1,0 +1,339 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Krug",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Krug"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gefäße_-_Behälter"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bartmannkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bartmannskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bauerntanzkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bierkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Birnbauchkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bowlenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Deckelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Doppelhenkelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Dreihenkelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Drillingskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Einhenkelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Enghals-Zierkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Enghalskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Enghalsölkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Essigkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Trichterhalskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Walzenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayence-Weithalskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gesichtskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glas-Deckelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Glaskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Henkelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Henkeltonkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Keramikkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kerbschnitt-Krug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kugelbauch-Krug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupfer-Krug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kurfürstenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Landsknechtskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Liter-Maßkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Maßkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rankenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingutkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeug-Maßkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeuggkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinzeugkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stitze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Susannenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trichterhalskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Trinkkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vennkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Vorratskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Walzenbauchkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Walzenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wappenkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wasserkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weinkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Weithalskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zierbandkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinn-Birnbauchkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zwillingshenkelkrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zylinderhalskrug"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ölkrug"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

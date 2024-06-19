@@ -1,0 +1,321 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Medaillen_-_Plaketten_-_Münzen",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Medaillen - Plaketten - Münzen"
+  },
+  "altLabel": {
+    "de": [
+      "Münzen - Medaillen - Plaketten",
+      "Plaketten - Münzen - Medaillen"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kunst"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Abzeichen"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Alpacca-Medaille_(Rundanhänger)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Alpacca-Scapulier-Medaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aluminium-Medaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Andachtsplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ansteckplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Arm-Votivplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Augen-Votivplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Auto-Plakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bein-Votivplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Denar,_römisch"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Devotionsplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ehrenplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Erinnerungsmedaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Erinnerungsplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Franziskus-Stigmatisationsplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gedenkmedaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gedenkmünze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gedenkplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gipsporträtplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Hochzeitsmedaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Jubiläumsmedaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kevelar-Medaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kinderschützenfestplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kulturplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupfermünze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Medaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Münzabdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Münze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Münze_des_Augustus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Münzenschachtel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Münzkassette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Münzwaage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/NS-Winterhilfesammlungs-Plakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Notgeldmünze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Notmünze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plakette_(Kriegerverein)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Prozessionsplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Reichspfennig"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Rentenpfennig"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sachsen-Altenburger_Taler"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Silbermünze"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stockmedaille"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Taubenzüchtervereinsplakette"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/WHW-Andenken"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wallfahrtsmedaille"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

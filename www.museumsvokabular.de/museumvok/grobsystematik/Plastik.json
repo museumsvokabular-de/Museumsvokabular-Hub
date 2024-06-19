@@ -1,0 +1,375 @@
+{
+  "id": "http://www.museumsvokabular.de/museumvok/grobsystematik/Plastik",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Plastik"
+  },
+  "broadMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Plastik_-_Skulptur"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aluminiumplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Aluminiumrelief"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Assemblage"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Basis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Beinkorpus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blei-Relief"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Blei-Zinn-Relief"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzegußplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzegußskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Bronzeplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Büstenrelief"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Christus-Kopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Corpus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Edelstahlplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eichenholzplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenkleinplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Eisenplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Engelskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Fayencehunde"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Figurenbasis"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gipsengelputto"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gipskleinplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gipsmodelabdruck"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Gipsplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzbüste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzepitaph"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzgruppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzkleinplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Holzskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kleinplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kopf_einer_Putte"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Korpus"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kunststein-Plastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Kupferplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Madonna"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Marienskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Metallplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porträtbüste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellan-Schlittengruppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellangruppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanschwan"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Porzellanskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sandsteinplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sitzgruppe_(Anna_Selbdritt)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Skulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sockel"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Sockel_(Kreuzfuß)"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steingußplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Steinskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stele"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stuckplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Stuckskulptur"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Terrakotta-Porträtkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Terrakottabüste"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Throngruppe"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Löwen-Maske"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Ton-Mädchenkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonkopf"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonmadonna"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Tonplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Wankumer_Düvelskopp"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zinnplastik"
+    },
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/gefaess/Zweifigurengruppe"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.museumsvokabular.de/museumvok/vokab/grobsystematik/Vokabular"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
