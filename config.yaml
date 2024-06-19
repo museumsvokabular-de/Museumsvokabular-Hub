@@ -11,7 +11,7 @@ searchableAttributes:
   - "example"
   - "definition"
 ui:
-  title: "SkoHub Vocabs" # Title is mandatory
+  title: "Museumsvokabular" # Title is mandatory
   logo: "skohub-signet-color.svg" # Path
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
