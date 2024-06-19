@@ -1,0 +1,362 @@
+@prefix cc: <http://web.resource.org/cc/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcq: <http://purl.org/dc/qualifier/1.0/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://www.museumsvokabular.de/museumvok/> a cc:Work ;
+    dc:type dcmitype:Text ;
+    cc:license <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> .
+
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> a cc:License ;
+    cc:permits cc:DerivativeWorks,
+        cc:Distribution,
+        cc:Reproduction ;
+    cc:prohibits cc:CommercialUse ;
+    cc:requires cc:Attribution,
+        cc:Notice,
+        cc:ShareAlike .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000001> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000001" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:definition "Der Thesaurus für die Techniken zur Herstellung von Spitzen und Stickereien zeigt manuelle und maschinelle Techniken auf, die einzeln oder in verschiedenen Kombinationen letztendlich zu einer Spitze oder Stickerei führen, wie sie im Thesaurus für Spitzen und Stickereien aufgeführt sind.---\"Spitze ist ein flächiger textiler Gegenstand in Form eines Ornaments, dessen Wirkung auf dem Durchscheinen des Hintergrundes durch die sich zwischen den Musterformen befindenden Öffnungen beruht.\" Sie kann auf vielerlei Weise hergestellt werden (geklöppelt, gehäkelt, genäht, ...), zum Teil benötigt sie Zusatztechniken, um dem Charakter der Spitze gerecht zu werden (ausgeschnitten, ausgezogen, ...). Maschinelle Herstellung ist möglich auf Wirkmaschine, Klöppelmaschine, Webmaschine und Stickmaschine, bei der letzteren mit den Zusatztechniken geätzt und gebohrt als Beispiel.---Eine Stickerei hat geschlossenen Stoff als Voraussetzung, der mit Nadel und Faden verziert wird, wobei die Effekte einzeln oder in Zusammenwirkung von Sticharten, Fadenmaterial, Zusatzmaterialien und Durchbrüchen im Stoff erzielt werden. Handgearbeitete Stickerei entsteht durch Nachsticken mittels Nadel und Faden (Einfadensystem) eines vorher aufgebrachten Musters. Auch bei ihr können Zusatztechniken Verwendung finden, wie z.Bsp. ausgezogen, angezogen. Die Herstellung der Maschinenstickerei dagegen erfolgt im Einfadensystem auf Handstickmaschine und Kurbelstickmaschine oder im Zweifadensystem. auf Adlerstickmaschine, Mehrkopfautomat und Schiffchenstickmaschine. Dabei bilden ein Vorderfaden und ein Hinterfaden die Verbindung mit dem Stickboden. Beispiele für Zusatztechniken sind: ausgeschnitten und gebohrt.Darüber hinausführende Techniken der Ausrüstung und Nachbearbeitung, die nicht zur unmittelbar notwendigen Technik der Herstellung von Spitzen und Stickereien gehören, sind hier nicht aufgeführt. Diese Techniken beziehen sich auf Fehlerbehandlung, haben technologische Gründe oder versetzen das Produkt in einen optisch aufgewerteten Zustand. Beispiele hierfür sind: kontrolliert und ausgebessert, gewickelt und gezäckelt, gebleicht und gefärbt.Autorin dieser vorliegenden Erarbeitung ist Frau Helga Hartenstein, zu erreichen über das Vogtlandmuseum Plauen, Nobelstr. 9-13, 08529 Plauen."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000004>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000006>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000008>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000009>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000010>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000011>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000013>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000016>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000017>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000018>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000019>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000020>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000021>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000022>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000023>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000029>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000034>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000035>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000038>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000039> ;
+    skos:prefLabel "Technik der Herstellung von Spitzen und Stickereien"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000004> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000004" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Klöppelspitze entsteht durch Verflechten (horizontales, vertikales, diagonales oder schräges Verkreuzen; Verschränken; Verzwirnen) einer Vielzahl von Fäden. Das geschieht in Handarbeit mittels Klöppelkissen und Klöppel. Eine maschinelle Herstellung erfolgt auf der der Spitzenklöppelmaschine."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000025>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000026> ;
+    skos:prefLabel "geklöppelt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000006> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000006" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Knüpfen bedeutet das Verschlingen oder Verknoten von Fäden zur Bildung eines Musters oder eines Grundnetzes, maschinell ist nur ein Grundnetz herstellbar."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000027>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000028> ;
+    skos:prefLabel "geknüpft"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000008> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000008" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine manuelle Tätigkeit. Man benötigt dazu eine Häkelnadel und einen Faden. Es entstehen Maschen durch fortlaufendes Verschlingen des Fadens, frei in der Hand und ohne feste Unterlage. Häkelspitzen sind aufgrund ihrer Textur dehnbar.Beispiel: Handgearbeitete Häkelspitzen wie Irish; Spitze der Filet- und Quadrathäkelei; Spitze der Gabelhäkelei; Spitze der Macramé-Häkelei; Spitze der Stabhäkelei; Spitze in Tunesischer Häkelei; Spitze in einfacher Häkelei.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.74-88"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gehäkelt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000009> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000009" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine Technik, die auch zur maschinellen Herstellung von Spitzen verwendet werden kann. Gebräuchlich sind auch die Begriffe \"Webspitze\" und \"Bobinetgewebe\". Bobinet-Spitzenmaschinen oder Bobinet-Gardinenmaschinen arbeiten auf der Grundlage des maschinellen Verflechtens von mindestens 2 Fadensystemen. Die Technik verfügt über zahlreiche Bindungsarten (Schienen-, Muster- und Jacquardschienengrundbindungen), mit denen sowohl Netzstrukturen als auch Musterformen unterschiedlicher Art und Dichte erzeugt werden können.Beispiel: Bobinetspitze.Sehr gut imitiert werden mit dieser Technik die klassischen Klöppelspitzen wie Valenciennes; Lille-Spitze; Chantilly, Dentelle de; Blonde.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.187ffLit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.18ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gewebt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000010> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000010" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine manuelle Tätigkeit, die mit Nadel und Faden einhergeht, aber nur dekorativen Zwecken dient. Überwiegend wird Schlingstich verwendet. Man nennt die Ergebnisse Nadelarbeiten.1. ohne Zusatztechnik:Das Muster ist auf Papier vorgezeichnet, das Papier liegt auf Leinenstreifen. Die Konturen werden geheftet, Papier und Leinen verbunden. Erst dann beginnt die eigentliche Arbeit mit Nadel und Faden, bei der die Unterlage nicht mehr durchstochen wird. Es wird in die Luft gearbeitet. Die Technik bedient sich vorrangig des Schlingstichs. Zur Spitzengestaltung wird er in vielfältiger Weise variiert, so daß sich Zierstiche für die Mustergestaltung, für Stege und Maschengründe ergeben. Am Ende werden die Leinwandstreifen entfernt, indem die Heftschlingen mit einem Messer durchtrennt werden.Beispiel: Aiguille, Point à l'; Alencon, Point d'; Argentan, Point d'; Argentella; Armenische Spitze; Burano; Coralina; France, Point de; Gaze, Point de; Halasi-Spitze ; Orientalische Spitze (eigentliche); Palästinaspitze; Reticella; Rosalina; Sedan, Point de; Spanische Spitze; Venise, Gros point de; Venise, Plat point de; Venise, Reseau point de; Wiener Nadelspitze; Youghal.2. Kombination mit der Technik \"genäht\":Vorgefertigte ziehbare Bändchen (gewebt) werden auf mit dem Muster bedruckten Grundstoff entsprechend der Zeichnung gezogen und aufgeheftet. Anschließend werden sie mit Nadelarbeit verbunden und durch Entfernen der Heftstiche vom Papier abgenommen.Beispiel: Point lace.3. Kombination mit der Technik \"ausgeschnitten\" und \"gestickt, manuell\":3.1. Die Konturen eines auf Leinenstoff vorgezeichneten Musters werden gestickt. Zwischen den Konturen werden Speichen genäht, ohne durchzustechen, und der Stoff unter den Speichen wird ausgeschnitten. Der übrig gebliebene Stoff kann noch verziert sein mit Stickerei oder Schnureinlagen.Beispiel: Carrick-ma-cross; Intagliatela; Renaissancespitze; Spanische Ausschneidspitze; Venezianische Relief-Ausschneidspitze.3.2. Öffnungen werden ausgeschnitten (Konturen müssen vorher gestickt sein) und der Stoff wird mit in die Umrandung eingestickt. Anschließend wird in die Löcher Nadelarbeit eingearbeitet.Beispiel: Ausschneidstickerei (Broderie Anglaise; Hedebo-Arbeit).4. Kombination mit der Technik \"ausgezogen\" und \"gestickt, manuell\":Die durch die Fadenauszugsarbeit entstehenden Löcher im Stoff werden durch Nadelspitzenmotive gefüllt. Verbleibende Fäden werden durch Schlingstiche gebündelt. Der verbliebene Stoff und/oder die Ränder können zusätzlich bestickt sein.Beispiel: Einfache Durchbrucharbeit; Hardanger Arbeit.Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.4,11Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.27ffLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.414-416"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "genäht (Spitze)"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000011> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000011" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine maschinelle Technik. Ihr Ergebnis, die Wirkspitze, wird auf Häkelgalonmaschinen oder Flachkettenwirkmaschinen erzeugt. Sie entsteht auf der Grundlage der Einbindung der schußlegenden Fäden in das maschenbildende System der Kettfäden.- Die Häkelgalonspitze hat maschinenbedingt eine geringe Breite. Es sind meist grobfädige Spitzen (Posamenten und Borten) mit dicker Textur und geringer Ornamentation, deren Effekte durch besondere Schußlegungen (Bogen, Oesen, Quasten) und die verwendeten Materialien (Gimpe, Litze, Schlauchkordel, Chenille, Lurex, Perlen, Flitter).- Die Raschelspitze wird auf Spitzen- und Gardinenraschelwirkmaschinen erzeugt (Flachkettenwirkmaschinen). Die Schußlegungen können einen durchgehenden Grund (Netz) bilden, Formen füllen und/oder Formkonturen betonen. Durch Anzug (auseinander- oder zusammenziehen der Maschen) können Schrägstellungen der Netzstege bzw. Lücken in der Textur erzeugt werden. Charakteristisch für Raschelspitze ist das fast stets vorhandene Grundnetz, bei Wäschespitzen und Kleiderstoffen häufig Tüllgrund, bei Gardinen meist Filetnetz. Formkonturen werden oft durch Gimpe, Schnürchen oder Texturfaden betont.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.261ff,295ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gewirkt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000013> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000013" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Stricken ist das Verschlingen eines Fadens durch ineinander greifende Maschen mittels Stricknadeln. Das Stricken von Spitzen wird \"Kunststricken\" genannt. Es bedient sich vor allem der Methoden des Umschlagens, des Verschränkens und der Kreuzung von Maschen.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.89f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gestrickt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000016> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000016" ;
+    dcq:created "Sat Mar 17, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Stopfen nennt man das Einbringen eines Musters in ein manuell oder maschinell geknüpftes Grundnetz mittels Nadel und Faden. Es handelt sich dabei überwiegend um Einflechtungen, gelegentlich um Schlingstiche. Die so entstandenen Spitzen nennt man kombinierte Spitzen.Beispiel: Filet.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.133-142"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gestopft"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000017> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000017" ;
+    dcq:created "Wed Mar 21, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "bedeutet das Entfernen des Stickbodens nach dem maschinellen Besticken (vereinzelt auch Tambourieren). Entwickelt wurde diese Technik in der zweiten Hälfte des 19. Jh., in der Schweiz und in Deutschland etwa zeitgleich. Voraussetzung für das Ätzen (es gibt Trocken- und Naßätze) ist, daß der Grundstoff und die Fäden auf die Ätzbehandlung unterschiedlich reagieren und daß die musterlichen Formen nach statischen Gesichtspunkten in Verbindung stehen.Ein Grundstoff wird bestickt und danach durch Ätzen entfernt. Als Ergebnis bleibt ein reines Fadengebilde übrig, die Spitze.Beispiel: Ätzspitze.Mit den Techniken \"gestickt, maschinell\" und \"geätzt\" können die klassischen Nadelspitzen (siehe Technik \"genäht (Spitze)\") nachgebildet werden. Es ist damit außerdem gelungen, geklöppelte, geknüpfte und gehäkelte Handarbeits-Spitzen zu imitieren.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.304,342,375Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.256ff- Kombination mit der Technik \"tambouriert, maschinell\":Präpariertes Papier wird mit der Kurbelstickmaschine bestickt in Kettstich und danach durch Ätzen entfernt. Als Ergebnis bleibt ein reines Fadengebilde übrig, die Spitze. Das Muster ist etwas verschwommen, weil die Kettstichlinien mehrfach übereinander gelegt oder spiralig überkreuzt überkreuzt werden, damit sie nicht auftrennen.Beispiel: Ätzspitze.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.368Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.253"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "geätzt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000018> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000018" ;
+    dcq:created "Fri Mar 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "wird Tüllspitze, also maschinengestickte Spitze, um eine Nachbildung der französischen Nadelspitze \"Alencon, Point d'\" zu erreichen. Die mit Stielstich umrandeten kleinen Blätter und Blüten werden mit Hilfe eines stumpfen Metallstäbchens und eines Hammers schüsselförmig tief geklopft.Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.29Lit.: Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.108"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "geklopft"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000019> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000019" ;
+    dcq:created "Fri Mar 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "1. Kombination mit der Technik\"genäht (Spitze)\" und/oder \"gestickt, manuell\":Die Konturen eines auf Leinenstoff vorgezeichneten Musters werden gestickt (siehe Technik \"gestickt, manuell\"). Zwischen den Konturen werden Speichen genäht, ohne durchzustechen, und der Stoff unter den Speichen wird von der Rückseite her ausgeschnitten. Der übrig gebliebene Stoff kann noch verziert sein mit Stickerei oder Schnureinlagen.Beispiel: Carrick-ma-cross, Intagliatela, Spanische Ausschneidspitze, Broderie Anglaise, Hedebo-Arbeit2. Kombination mit der Technik \"gestickt, maschinell\":Nach dem Sticken werden Teile des Grundstoffes von Hand mittels Schere bzw. Glühfaden entfernt. Die auszuschneidenden Felder müssen eine gewisse Mindestgröße haben und mit Stielstich oder Plattstich umrandet sein. Speichen sind selten. Sie ersetzt man durch breite Stoffstege.Beispiel: Ausschneidspitze, Stickerei mit Ausschneideffekten.Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.11Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.251ff;Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.351Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.405,414-416"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "ausgeschnitten"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000020> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000020" ;
+    dcq:created "Fri Mar 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist die Technik zur Herstellung von Kettstich mittels Häkelnadel. Kettstich kann nicht als einzelne Stichtype existieren wie andere Stichtypen, sondern nur in der Gemeinschaft. Erst durch den Nachbarstich wird er festgehalten, dieser wiederum vom vorhergehenden, usw. ...Der letzte Stich in einer Reihe muß deshalb besonders verstochen werden. Kettstich kann manuell und maschinell erzeugt werden. Maschinell ist auch noch Moosstich möglich. Dieser wird zur Flächenfüllung verwendet.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.247ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000036>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000037> ;
+    skos:prefLabel "tambouriert"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000021> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000021" ;
+    dcq:created "Fri Mar 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine manuelle Tätigkeit.- Kombination mit der Technik \"gestickt, manuell\":Durch Aufschneiden des Stoffes mittels Schere/Messer oder dem Verschieben der Gewebefäden mittels Vorstecher entstehen im Stickboden Öffnungen, die anschließend entsprechend ihrer Form umstickt werden. Die Löcher existieren selbständig, werden einzeln oder in Gruppen angeordnet. Sie werden mit gleichmäßigen Schling- bzw. Blindlochstichen umstickt. Schattenlöcher entstehen, wenn eine Seite des Loches durch Plattstich verbreitert wird.Beispiel: Lochstickerei mit Stoff-Figuren; Madeira-StickereiLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.368ffLit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.236"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "aufgeschnitten"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000022> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000022" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "bezieht sich auf das Stickmaterial. Die Technik existiert nicht allein, sondern wird beim Arbeitsgang \"Sticken\" erledigt. Es entstehen Durchbrüche, bekannt auch unter A- jour-Arbeit. Der Stoff wird dabei nicht verletzt, seine Fäden werden nur verschoben.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.338-350"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000032>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000033> ;
+    skos:prefLabel "angezogen"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000023> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000023" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Unter \"gefüllt\" ist bei der Herstellung von Spitzen und Stickereien das Einfüllen, Einziehen oder Dazwischenlegen von zusätzlichen textilen Materialien zu verstehen. Durch die Füllung oder auch Einlage werden Reliefs erzeugt.- Kombination mit der Technik \"gestickt, manuell\":Nach dem Besticken von 2 Lagen Stoff wird auf der Rückseite aufgeschnitten, Watte eingelegt und wieder zugenäht. Beispiel: Marseiller Stickerei.Oberstoff, Unterstoff und Einlage werden gleichzeitig bestickt. Beispiel: Steppen mit wattiertem Stoff.Zwei Lagen Stoff werden mit parallelen Steppstichlinien bestickt. Danach wird mittels Nadel die Schnur eingezogen, von der Unterseite her. Beispiel: Stepperei mit Einzug von Dochtwolle oder Schnur.- Kombination mit der Technik \"gestickt, maschinell\":Starke, reliefartige Plattstichunterlagen werden auf einem Unterstoff gestickt, anschließend der Oberstoff aufgelegt und mit Steppstichkonturen entlang der Plattstichunterlagen festgestickt.Beispiel: Stickerei mit Einlagearbeiten.Eine Imitation der handgearbeiteten Marseiller Stickerei ist möglich.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.322ffLit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.215-217"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gefüllt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000025> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000025" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000004> ;
+    skos:definition "Die Fäden sind auf hölzerne Klöppel, z. T. mit einer Schutzhülse versehen, gewickelt Die Position der entstehenden Kreuzungspunkte beim Verflechten wird durch Stecknadeln provisorisch gehalten. Die Nadeln stecken in dem Klöppelbrief (Patrone), der auf dem Klöppelkissen befestigt ist. Der Klöppelbrief zeigt das Muster. Es können jederzeit die Anzahl der Klöppel beliebig vermehrt oder verringert, und die Arbeitsrichtung der Fadenanzug verändert werden.Beispiel: Zu den klassischen handgearbeiteten Klöppelspitzen gehören:Angleterre, Point d'; Baby lace; Bandspitze; Binche-Spitze; Blonde; Bretonne; Bruges, Dentelle de; Chantilly, Dentelle de; Cluny; Honiton; Idrianer Spitze; Lille-Spitze; Malines; Malteser Spitze; Melangées, Dentelles; Milano, Punto di; Mirecourtspitze; Paraguay; Pottenkant; Ragusaner Spitze; Schneeberger Spitze; Torchon-Spitze; Trollkante; Valenciennes.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.54-74"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "geklöppelt, manuell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000026> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000026" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000004> ;
+    skos:definition "Auf der Spitzenklöppelmaschine erzeugen kreisförmig angeordnete Klöppel ein Schlauchgeflecht, das in senkrechter Richtung durch Ziehfäden in Streifen unterteilt ist. Diese Ziehfäden werden nach der Entnahme des Schlauches aus der Maschine entfernt (1 Ziehfaden bedeutet einen Streifen, 2 Ziehfäden bedeuten 2 Streifen, u.s.w.). Hand- und maschinengeklöppelte Spitzen können sehr schwer voneinander unterschieden werden. Die Anzahl der Klöppel bleibt pro Streifen immer gleich. Es gibt nur eine Arbeitsrichtung. Es ist deshalb nicht möglich, ornamental anspruchsvolle Spitzen (z. Bsp. Bruges oder Chantilly) auf der Spitzenklöppelmaschine herzustellen. Die klassische handgeklöppelte Spitze Torchon dagegen ist auf der Spitzenklöppelmaschine gut nachzuahmen. Ansonsten haben die Spitzen einfache geometrische, meist volkstümlicher Musterung.Beispiel: Maschinengeklöppelte Spitze.Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.39Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.243,256"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "geklöppelt, maschinell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000027> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000027" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000006> ;
+    skos:definition "Geknüpft werden Spitzen indem man Schlaufen (offen oder gekreuzt), Schlingen (auflösbar oder geschlossen) oder Knoten (unlösbare Schlingen oder Schlaufen) mit einem Faden, mehreren Fäden oder Fadenbündeln herstellt. Es kann jederzeit ein neuer Faden angeknüpft werden.Beispiel: Die klassischen handgearbeiteten Knüpfspitzen Macramé; Margareten-Spitze; Occy-Spitze.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.101-122Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.6,30,32Eine weitere Möglichkeit des Knüpfens ist die Herstellung eines geknoteten Netzes, mit viereckigen Netzfeldern, aus einem Faden mit Hilfe von Filiernadel und Stäbchen. Das manuell erstellte Netz hat Knoten, die im Wechsel verschieden aussehen, bedingt durch das Wenden nach jeder Schlingenreihe.- Kombination mit der Technik \"gestopft\":Mit der Technik \"gestopft\" wird das Ornament in das handgeknüpfte Grundnetz eingebracht. Erst jetzt kann man von Spitze sprechen.Beispiel: Filet (eine kombinierte Spitze).Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.101,122-130,132Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.8,25f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "geknüpft, manuell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000028> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000028" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000006> ;
+    skos:definition "ist eine Technik, die ein Grundnetz mit viereckigen Netzfeldern herstellt. Auf der Netzmaschine werden jeweils 2 Fäden verknotet, der Oberfaden und der Unterfaden. Beide sind in der gleichen Anzahl vorhanden, auf einer 3m langen Maschine sind es jeweils 500, also 6 mm Abstand. Dieser Abstand ist bestimmend für die Größe des Netzfeldes. Ein maschinell erzeugtes Netz hat auf jeder Seite ein zwar verschiedenes, aber doch einheitliches Knotenbild.- Kombination mit der Technik \"gestopft\":Mit der Technik \"gestopft\" wird das Ornament in das maschinell erstellte Grundnetz eingebracht. Erst damit ist der Begriff Spitze gerechtfertigt.Beispiel: Filet (eine kombinierte Spitze).Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.8,25fLit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.131ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "geknüpft, maschinell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000029> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000029" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Das Sticken dient im Gegensatz zum Nähen rein dekorativen Zwecken. Ein Grundstoff wird durch das Sticken verziert. Gearbeitet wird mit Nadel und Faden. Die kleinste Einheit ist der Stich. Wird der Grundstoff oder Teile von ihm nach dem oder während des Stickprozesses entfernt bzw. durchbrochen, wird aus der Stickerei eine Spitze. Die Übergänge können fließend sein."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000030>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000031> ;
+    skos:prefLabel "gestickt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000030> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000030" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000029> ;
+    skos:definition "ist das Durchziehen und Auflegen eines Arbeitsfadens mit Hilfe einer Nadel durch und auf eine Unterlage. Dies geschieht von Hand. Der Grundstoff wird durch Nachsticken (genähte Stiche) des vorher aufgebrachten Musters verziert. Er ist meist eingespannt in einem Stickrahmen. Das Stickmaterial kann einfarbig oder bunt sein, Grundstoff und Stickmaterial Ton in Ton oder im Kontrast zueinander stehen. Es können Perlen und Flitter mit eingearbeitet werden. Bei Zusatztechniken, die Durchbrüche im Stoff erzeugen, wird der entstandene Rand oder Fadenbündel mit Schlingstich, Stielstich oder Plattstich verziert.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.9-171. ohne Zusatztechnik:Beispiel: Gobelinstickerei (Kelimstich; Perlstich); Kreuzstichstickerei; Nadelmalerei; Plattstichstickerei; Gold- und Metallstickerei (Kordeltechnik; Sprengstichstickerei); Handstickerei; Knüpfstickerei; Perl- und Flitterstickerei.2. Kombination mit der Technik \"aufgeschnitten\":Die durch die Technik \"aufgeschnitten\" entstandenen Öffnungen werden entsprechend ihrer Form umstickt.Beispiel: Lochstickerei mit Stoff-Figuren; Madeira-Stickerei3. Kombination mit der Technik \"ausgeschnitten\" und \"genäht\":Vorgefertigte Stoff-Teile oder Spitzenornamente werden auf einen Grundstoff oder Tüll genäht. Die Teile unterscheiden sich vom Grundstoff in Farbe, Material oder Textur. Unter den aufgenähten Teilen kann der Stoff bzw. Tüll belassen oder auch weggeschnitten werden.Beispiel: Ausschneidarbeit; Applikationsspitze.4. Kombination mit der Technik \"ausgeschnitten\" und \"genäht (Spitze)\":4.1. Die Konturen eines vorgezeichneten Musters werden gestickt. Zwischen den Konturen werden Speichen genäht, ohne durchzustechen, und der Stoff unter den Speichen wird von der Rückseite her ausgeschnitten. Der übrig gebliebene Stoff ist verziert mit Stickerei oder Schnureinlagen.Beispiel: Carrick-ma-cross; Intagliatela; Renaissancespitze; Spanische Ausschneidspitze; Venezianische Relief-Ausschneidspitze.4.2. Eine andere Möglichkeit besteht darin, Öffnungen auszuschneiden (Konturen müssen vorher gestickt sein) und den Stoff mit in die Umrandung einzusticken. Die Löcher werden mit Nadelarbeit gefüllt.Beispiel: Ausschneidstickerei (Broderie Anglaise; Hedebo-Arbei5. Kombination mit der Technik \"angezogen, manuell\":Die durch starken Fadenanzug, entstandenen Öffnungen werden durch verschiedene Sticharten gebildet. Anzugeffekte treten als Linien, Flächen und selbständige Musterelemente auf.Beispiel: Appenzeller Stickerei; Dresde, Point de.6. Kombination mit der Technik \"ausgezogen\":Die durch den doppelten Fadenauszug entstandenen Fadenbündel werden mit dichtem Schlingstich umrandet. Es ist ein Netz entstanden, das die verbliebenen Figuren im Stoff umgibt oder selbst das Muster bildet.Beispiel: Spitze in Durchbrucharbeit; Toledo7. Kombination mit der Technik \"ausgezogen\" und \"genäht (Spitze)\":Die durch die Fadenauszugsarbeit entstehenden Löcher im Stoff werden durch Nadelspitzenmotive gefüllt. Verbleibende Fäden werden durch Schlingstiche gebündelt. Der verbliebene Stoff und/oder die Ränder können zusätzlich bestickt werden.Beispiel: Einfache Durchbrucharbeit; Hardanger Arbeit.8. Kombination mit der Technik \"durchgezogen\" und \"angezogen, manuell\":Der Faden wird frei nach Muster oder entlang der Netzfeldreihen durch den Tüll gezogen und innerhalb der Konturen sind Ziehgrundeffekte.Beispiel: Limerick.9. Kombination mit der Technik \"gefüllt\":Zwei Lagen Stoff werden bestickt, anschließend auf der Rückseite aufgeschnitten, mit Watte oder Schnur gefüllt und wieder zugenäht. Eine andere Möglichkeit ist, Oberstoff, Unterstoff und Einlage gleichzeitig zu besticken.Beispiel: Marseiller Stickerei; Steppen mit wattiertem Stoff; Stepperei mit Einzug von Dochtwolle oder Schnur10. Kombination mit der Technik \"tambouriert, manuell\":Tambourierter Kettstich wird oft zur Verzierung bereits vorhandener Stickerei (Konturbetonung) benutzt.Beispiel: Handstickerei; Perl- und Flitterstickerei"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gestickt, manuell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000031> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000031" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000029> ;
+    skos:definition "ist eine Technik, mit der man Spitzen und Stickereien erzeugt, die im Einfadensystem mit der Handstickmaschine bzw. im Zweifadensystem mit der Schiffchenstickmaschine, dem Mehrkopfautomaten und auf Kleinstickmaschinen hergestellt werden. Bei mit der Handstickmaschine hergestellten Spitzen und Stickereien ist Vorder- und Rückseite gleich, da mit nur einem Faden gearbeitet wird. Im Gegenstz dazu ist im Zweifadensystem auf der Rückseite der verbindende Schiffchenfaden (Spulchenfaden, Unterfaden, ...) zu erkennen. Um Durchbrüche im Stoff zu erhalten, werden Zusatztechniken wie \"angezogen, maschinell\", \"ausgeschnitten\" und \"gebohrt\" verwendet. Mit der Zusatztechnik \"geätzt\" wird der Stoff völlig entfernt. Andere Zusatztechniken sind verantwortlich für besondere Effekte, die die einzelnen Spitzen-/Stickereiarten charakterisieren, wie z.Bsp. \"genäht, manuell\", \"gefüllt\" und \"tambouriert, maschinell\".Eine Besonderheit ist die unechte Applikation. Mehrere Stoffe oder Tüll mit Stoff werden gleichzeitig bestickt. Mit dem nachträglichen (oder auch zwischendurch) Ausschneiden von Tüll oder Teilen des Stoffes wird die Aufnäharbeit (siehe Technik \"genäht\") umgangen, die zur Herstellung von Applikationseffekten benötigt wird. Statt Ausschneiden kann auch geätzt werden.Maschinengestickte Spitzen und Stickereien entstehen durch:- Besticken eines Netzes à TüllspitzeNachahmung der handgearbeiteten Klöppelspitzen.Nachahmung der Duchesse (unechte Applikation mit Ätzspitze)- Besticken eines Netzes und Kombination mit der Technik \"angezogen, maschinell\" à Tüllspitze.Nachahmung der Bretonne, der Limerick.- Besticken eines Stoffes à Stickerei einfachNachahmung von Flächenfüllender Stickerei, Gold- und Metallstickerei, Handstickerei, Knüpfstickerei, Tambourierstickerei- Besticken eines Stoffes und Kombination mit der Technik \"gebohrt\" à Bohrspitze; Stickerei mit Bohreffekten.Nachahmung der Lochstickerei, wie z.Bsp. Madeira-Stickerei.- Besticken eines Stoffes und Kombination mit der Technik \"ausgeschnitten\" à Ausschneidspitze; Stickerei mit AusschneideffektenNachahmung der Ausschneidstickerei (Broderie Anglaise, Hedebo-Arbeit).- Besticken eines Stoffes und Kombination mit der Technik \"ausgeschnitten\" und \"genäht, manuell\" à Stickerei mit ApplikationenNachahmung der Applikationsspitze, Ausschneidarbeit- Besticken eines Stoffes und Kombination mit der Technik \" angezogen, maschinell \" à Stickerei mit FadenanzugseffektenNachahmung der Fadenanzugsarbeit (Appenzeller Stickerei), der Handgestickten Spitze (Dresde, Point de).- Besticken eines Stoffes und Kombination mit der Technik \"gefüllt\" à Stickerei mit EinlagearbeitenNachahmung derEinlagearbeiten (z.Bsp. Marseiller Stickerei).- Besticken eines Stoffes und Kombination mit der Technik \"geätzt\" à Ätzspitze.Nachahmung der Nadelspitzen, der Knüpfspitzen, der Häkelspitzen, von Filet, von Durchbrucharbeiten, von Point lace, der Duchesse (unechte Applikation mit Ätzspitze mit Tüllspitze).- Besticken eines Stoffes und Kombination mit der Technik \"geätzt\" und \"ausgeschnitten\" à Ausschneidspitze.Nachahmung der Carrick-ma-cross (unechte Applikation von Ätzspitze mit Stoff)Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.304ffLit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.52ffLit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.4,11"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gestickt, maschinell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000032> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000032" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000022> ;
+    skos:definition "- Kombination mit der Technik \"gestickt, manuell\":Durch starken Fadenanzug, der die Gewebefäden verschiebt, entstehen die Öffnungen. Der zu erzielende Durchbruch entsteht direkt beim Sticken, die Gewebefäden werden dabei gezählt, um eine Gleichmäßigkeit zu erhalten. Die Öffnungen werden nicht umrandet, da der Stickboden nicht verletzt wird. Anzugeffekte treten als Linien, Flächen und selbständige Musterelemente auf und werden durch verschiedene Sticharten gebildet (Dreieckstich, Sternstich,...).Beispiel: Appenzeller Stickerei; Dresde, Point de; Handgestickte Tüllspitze.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.339-350Kombination mit der Technik \"gestickt, manuell\" und \"durchgezogen\":Der Faden wird frei nach Muster oder entlang der Netzfeldreihen durch den Tüll gezogen und innerhalb der Konturen sind Ziehgrundeffekte.Beispiel: Limerick.Lit.: Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.126Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.170Kombination mit der Technik \"gestickt, maschinell\":Tüll, mit der Schiffchenstickmaschine bestickt, wurde oft verfeinert, indem die Ziehgründe nachträglich von Hand eingearbeitet wurden.Beispiel: Tüllspitze."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "angezogen, manuell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000033> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000033" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000022> ;
+    skos:definition "- Kombination mit der Technik \"gestickt, maschinell\":Die Öffnungen entstehen während des Stickprozesses durch mehrmaliges Einstechen an der gleichen Stelle und Zug des Fadens in andere Richtung. Dadurch verschieben sich die Fäden des Stickbodens. Die Öffnungen sind verhältnismäßig klein und brauchen nicht extra umrandet zu werden. Man kennt: Dreieckzuggrund, Talergrund, Kästchenstichzuggrund, Filetzuggrund, Zuggrat, einzeln stehende Zugeffekte und Zugstegel. Tüllspitze mit Ziehgründen und Umrandung der Konturen mit Schnur ahmt die klassische französische Klöppelspitze \"Bretonne\" nach.Beispiel: Tüllspitze; Stickerei mit Fadenanzugseffekten.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.339-350Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.2527-235"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "angezogen, maschinell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000034> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000034" ;
+    dcq:created "Sat Mar 24, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "bezieht sich auf die Fäden des Grundstoffes. Die Technik kann allein oder in Kombination mit anderen Techniken ausgeführt werden. Durch die Fadenauszugsarbeit von Fäden in eine (punto tirato) oder zwei (punto tagliato) Webrichtungen entstehen die Öffnungen im Stoff.- Kombination mit der Technik \"gestickt, manuell\":Die Ränder der Durchbrüche werden mit Schlingstich umrandet.Beispiel: Toledo.- Kombination mit der Technik \"gestickt, manuell\" und \"genäht (Spitze)\":Die Öffnungen werden zusätzlich mit Nadelspitzenmotiven gefüllt oder die verbleibenden Fäden werden gebündelt. Der verbliebene Stoff kann bestickt sein.Beispiel: Spitze in Durchbrucharbeit; Einfache Durchbrucharbeit; Hardanger Arbeit.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.350ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "ausgezogen"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000035> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000035" ;
+    dcq:created "Sat Mar 31, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine maschinelle Technik und kommt nur in Kombination mit der Technik \"gestickt, maschinell\" vor.Mit Hilfe von Schneidinstrumenten (Bohrern) wird während des Stickprozesses der Stickboden zerschnitten und die stehengebliebenen Reste umstickt. Dadurch wird der Rand um die Bohrlöcher verfestigt.Beispiel: Bohrspitze (Die Bohrlöcher spielen eine untergeordnete Rolle, d. h. sie bringen die im Stoff verbliebenen Musterelemente zur Geltung.); Stickerei mit Bohreffekten (Die Löcher existieren selbständig und sind musterbildend.).Mit den Techniken \"gestickt, maschinell\" und \"gebohrt\" ist es möglich, klassische handgearbeitete Lochstickereien zu imitieren, wie z.Bsp. Madeira-Stickerei.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.348Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.236"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "gebohrt"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000036> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000036" ;
+    dcq:created "Sat Mar 31, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000020> ;
+    skos:definition "Mittels Tambourierhäkchen wird auf einen festen Stoff oder Tüll (gespannt in einen Rahmen) mit stark gezwirntem Garn Kettstich aufgebracht. Das Linienmuster ist auf der Rückseite des Stickbodens aufgezeichnet, von wo aus auch zu arbeiten ist. Eine andere Möglichkeit ist die Arbeit mit Nadel und Faden.Beispiel: Tambourierstickerei; Handgestickte Tüllspitze.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.247f- Kombination mit der Technik \"gestickt, manuell\":Kettstich wird oft auch nur zur Verzierung bereits vorhandener Stickerei (Konturbetonung) oder zum Aufbringen von Perlen o. ä. benutzt.Beispiel: Handstickerei; Perl- und FlitterstickereiLit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.202-204- Kombination mit der Technik \"ausgeschnitten\":Spitzenornamente werden auf einen Grundstoff oder Tüll manuell tambouriert. Unter den aufgenähten Teilen kann der Stoff bzw. Tüll belassen oder auch weggeschnitten werden.Beispiel: Applikationsspitze.Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.19"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "tambouriert, manuell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000037> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000037" ;
+    dcq:created "Sat Mar 31, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000020> ;
+    skos:definition "Auf der Kurbelstickmaschine wird der Kettstich maschinell erzeugt. Der Stickboden kann fester Stoff (Schulterstücke, Fahnen, Wimpel, ...) oder Tüll (z.Bsp. Schleier) sein. Kettstich wird oft auch zur Verzierung bereits vorhandener Stickerei (Konturbetonung) oder zum Aufbringen von Schnüren oder Bändchen benutzt.Beispiel: Stickerei einfach; Tüllspitze.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.348Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.248-250,330Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.202-204- Kombination mit der Technik \"geätzt\":Präpariertes Papier wird mit der Kurbelstickmaschine bestickt in Kettstich und danach durch Ätzen entfernt. Als Ergebnis bleibt ein reines Fadengebilde übrig, die Spitze. Das Muster ist etwas verschwommen, weil die Kettstichlinien mehrfach übereinander gelegt oder spiralig überkreuzt überkreuzt werden, damit sie nicht auftrennen.Beispiel: Ätzspitze.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.368Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.253"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "tambouriert, maschinell"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000038> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000038" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "ist eine manuelle Tätigkeit. Der Grundstoff ist Tüll. Der Faden wird frei nach Muster (anorganischer Durchzug) oder entlang der Netzfeldreihen (organischer Durchzug) durch den Tüll gezogen (ähnlich dem Flechten).- Kombination mit der Technik \"angezogen, manuell\" und \"gestickt, manuell\":Innerhalb der Konturen sind Ziehgrundeffekte.Beispiel: Limerick.Lit.: Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.126Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.170"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "durchgezogen"@de .
+
+<http://www.museumsvokabular.de/museumvok/technik_spitzen/00000039> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000039" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "bedeutet das Verbinden von mehreren Lagen Stoff, Leder o. ä. mittels Nadel und Faden durch Bildung von Stichen. Bei der Herstellung von Spitzen und Stickereien spricht man von Aufnäharbeit vorgefertigter Teile, sogenannte Applikationen.- Kombination mit der Technik \"ausgeschnitten\" und \"gestickt, manuell\":Vorgefertigte Stoff-Teile oder Spitzenornamente werden auf einen Grundstoff oder Tüll genäht. Die Teile unterscheiden sich vom Grundstoff in Farbe, Material oder Textur. Unter den aufgenähten Teilen kann der Stoff bzw. Tüll belassen oder auch weggeschnitten werden.Beispiel: Ausschneidarbeit; Applikationsspitze.- Kombination mit der Technik \"ausgeschnitten\" und \"gestickt, maschinell\":Vorgefertigte Stoff-Teile oder Spitzenornamente werden auf einen Grundstoff oder Tüll genäht. Die Teile unterscheiden sich vom Grundstoff in Farbe, Material oder Textur. Unter den aufgenähten Teilen kann der Stoff bzw. Tüll belassen oder auch weggeschnitten werden.Beispiel: Stickerei mit Applikationen.- Kombination mit der Technik \"geklöppelt, manuell\" und \"genäht (Spitze)\":Einzeln geklöppelte Motive und Nadelarbeiten werden im Wechsel zusammengenäht.Beispiel: Duchesse.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.164Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.218"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> ;
+    skos:prefLabel "genäht"@de .
+
+<http://www.museumsvokabular.de/museumvok/vokab/technik_spitzen/Vokabular> a skos:ConceptScheme ;
+    dc:description "Systematik für die Technik zur Herstellung von Spitzen und Stickereien"@de ;
+    dc:title "Spitzentechnik-Systematik"@de ;
+    skos:hasTopConcept <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000001>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000004>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000006>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000008>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000009>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000010>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000011>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000013>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000016>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000017>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000018>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000019>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000020>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000021>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000022>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000023>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000025>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000026>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000027>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000028>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000029>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000030>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000031>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000032>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000033>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000034>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000035>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000036>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000037>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000038>,
+        <http://www.museumsvokabular.de/museumvok/technik_spitzen/00000039> .
+

@@ -1,0 +1,1494 @@
+@prefix cc: <http://web.resource.org/cc/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcq: <http://purl.org/dc/qualifier/1.0/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://www.museumsvokabular.de/museumvok/> a cc:Work ;
+    dc:type dcmitype:Text ;
+    cc:license <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> .
+
+<http://creativecommons.org/licenses/by-nc-sa/2.0/de/> a cc:License ;
+    cc:permits cc:DerivativeWorks,
+        cc:Distribution,
+        cc:Reproduction ;
+    cc:prohibits cc:CommercialUse ;
+    cc:requires cc:Attribution,
+        cc:Notice,
+        cc:ShareAlike .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000001> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000001" ;
+    dcq:created "Mon Feb 07, 2000" ;
+    skos:definition "Warum ein Thesaurus für Spitzen und Stickereien?Spitzen und Stickereien dienen dem Schmuckbedürfnis der Menschen bei Bekleidung und Heimtextilien. Sie sind im Fundus der Museen als Kleidungsstück, als Teil eines Kleidungsstückes, als textiles Muster oder als Heimtextil vorhanden.Vorliegender Thesaurus soll die sachgerechte Einordnung und Inventarisierung der Textilien oder Teile von Ihnen erleichtern, unabhängig davon, ob Spitzen und Stickereien einen Schwerpunkt der Sammlung darstellen.Was sind Spitzen, was sind Stickereien?Spitze ist ein flächiger textiler Gegenstand in Form eines Ornaments, dessen Wirkung auf dem Durchscheinen des Hintergrundes durch die sich zwischen den Musterformen befindenden Öffnungen beruht. Sie kann auf vielerlei Weise hergestellt werden, z.Bsp. gehäkelt, geklöppelt oder genäht. Eine Möglichkeit ist auch das Sticken. Die manuellen und maschinellen Techniken haben z.T. andere Bezeichnungen, das Ergebnis ist aber immer eine Spitze.Eine Stickerei hat als Stickgrund einen geschlossenen Stoff , der mit Nadel und Faden verziert wird, wobei die Effekte einzeln oder in Zusammenwirkung von Sticharten, Fadenmaterial, Zusatzmaterialien und Durchbrüchen im Stoff erzielt werden. Es ist dabei nicht von Belang, ob die Herstellung in Handarbeit oder maschinell geschieht, das Ergebnis ist eine Stickerei.Die Entscheidung, ob eine Spitze vorliegt, wird in Grenzfällen subjektiv unterschiedlich empfunden. Die Übergänge sind oft fließend. Allgemein kann man jedoch sagen, daß mit Abnahme der Ausgeprägtheit des Ornamentes und der Zunahme des Abstandes zwischen den Musterformen der Spitzencharakter verschwindet.Beispiel 1: Eine Tischdecke in einfacher Häkelei aus versetzten Reihen von abwechselnd Luftmaschen und Stäbchen und einem Fransen-Abschluß ist keine Spitze. Die Textur ist zwar durchscheinend, aber es existiert kein Ornament. Im Spitzen- und Stickereithesaurus gibt es dafür keine Bezeichnung.Beispiel 2: Zwei auf der Schiffchenstickmaschine hergestellte Erzeugnisse mit der Zusatztechnik \"gebohrt\" führen zu unterschiedlichen Einordnungen, im Bild V/1 ist es eine Spitze, konkret \"Bohrspitze\", im Bild V/2 ist es eine Stickerei, konkret \"Stickerei mit Bohreffekten\".Beispiel 3: Im Bild V/3 ist dasselbe Motiv in drei verschiedenen Techniken ausgeführt:a) Netzgrund mit eingestopftem Musterb) Im Doppeldurchbruch gebildetes Musterc) Im Doppeldurchbruch ausgespartes MusterDie Beispiele a) und c) sind Spitzen, a) ist \"Filet\" und c) ist \"Spitze in Durchbrucharbeit\". Das Beispiel c) ist keine Spitze. Die genaue Bezeichnung dafür ist \"Toledo\".Warum ist der Entstehungsort Plauen im Vogtland?Die Region Vogtland mit Ihrem Zentrum Plauen ist mit der Spitzen- und Stickereiindustrie tief verwurzelt. Anfang des 19.Jhd.war die Handstickerei, das Tambursticken und zunehmend die Plattstichstickerei, auch Weißstickerei genannt, ein wichtiger Erwerbszweig. Mit dem Einsatz von Handstickmaschinen seit den 60er Jahren des 19. Jhd. wurde eine Industriealisierung der Stickerei für Plauen und das gesamte Vogtland eingeleitet. Die ständige Verbesserung der Stickmaschinentechnik und damit verbunden der Einsatz neuer Materialien und Weiterentwicklung der Dessinierungen machte Plauener Spitzen und Stickereien zu einem Welthandelsprodukt und zog einen gewaltigen wirtschaftlichen Aufschwung in vielen Bereichen nach sich. Die Nachahmung von traditionell handgearbeiteten Spitzen auf Stickmaschinen (Prinzip des Stickens) und auf den Bobinettwebmaschinen (Prinzip des Webens) machten Anfang des 20. Jhd. aus Plauen eine Welthandelsmetropole. Den Erfindergeist, Ideenreichtum und Erfahrungsschatz der vogtländischen Sticker, Designer und Techniker zu bündeln, den Nachwuchs auszubilden, Talente zu fördern, Kunst und Wirtschaft gegenseitig zu befruchten war das Ziel der inzwischen zur Staatlichen Kunstschule für die Textilindustrie ernannten Einrichtung in Plauen. ...Autorin dieser vorliegenden Erarbeitung ist Frau Helga Hartenstein, zu erreichen über das Vogtlandmuseum Plauen, Nobelstraße 9-13,08523 Plauen"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000032>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000080>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:prefLabel "Spitzen/Stickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000014> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000014" ;
+    dcq:created "Mon Feb 07, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Stickerei hat geschlossenen Stoff als Voraussetzung. Sie ist das Ergebnis eines Verzie-rungsverfahrens. Es ist ein Durchziehen bzw. Auflegen von Fäden auf leinwandbindigen Stoff (sehr verbreitet) oder andere Materialien. Handgearbeitete Stickerei entsteht durch Nachsticken mittels Nadel und Faden (Einfadensystem) eines vorher aufgebrachten Musters. Sie entsteht auch durch Fadenzug und Bündeln der Fäden mittels Nadel und Faden, durch Verschieben bzw. Zusammenziehen von Fadengruppen und durch Ausschneiden von unbesticktem Stoff um die Stickerei herum. Das Stickmaterial kann einfarbig oder bunt sowie in kontrastierender Stärke zum Stoff sein. Der zu bestickende Stoff wird meist in einen Rahmen gespannt. Durch das Hin- und Zurückführen der Nadel durch den Stoff werden Faden und Stoff miteinander verbunden. Handgearbeitete Stickereien erhalten ihre Namen nach dem Material, den Effekten, der Technik, der Wirkung, dem Ursprung und/oder dem Verwendungs-zweck.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.9ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000112>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000305>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000309>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000316>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000319>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000320>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000321>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000322>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000348> ;
+    skos:prefLabel "Handgearbeitete Stickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000032> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000032" ;
+    dcq:created "Mon Mar 27, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Maschinenspitzen sind Spitzen, die durch das Mechanisieren von Handarbeitstechniken auf Bobinet-, Wirk-, Klöppel- und Stickmaschinen erzeugt werden. Mit Einschränkungen bei Spitzenklöppelmaschine und Häkelgalonmaschine (eine Art der Wirkmaschinen) kann nahezu jedes Ornament und jede Textur gebildet werden."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000127>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000129>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000130>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000327> ;
+    skos:prefLabel "Maschinenspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000080> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000080" ;
+    dcq:created "Mon Apr 10, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Die Herstellung der handgearbeiteten Spitzen erfolgt ausschließlich mittels Werkzeugen, die von Hand, das heißt mit Muskelkraft, betätigt werden. Die wichtigsten Arbeitsmittel sind einfache Werkzeuge und Hilfsmittel, wie z. Bsp.: Nadel, Spule, Klöppel, Stickrahmen, Klöppelkissen, Schere, Gabel, Häkelnadel."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000226>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000232>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000257>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000261>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000266>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000288> ;
+    skos:prefLabel "Handgearbeitete Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000083> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000083" ;
+    dcq:created "Mon Apr 10, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:definition "Die Häkelspitze besteht aus Maschen, entstanden durch fortlaufendes Verschlingen eines Arbeitsfadens mittels Häkelnadel.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.74"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000223>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000224>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000330>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000331>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000332>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000333>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000334> ;
+    skos:prefLabel "Häkelspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000112> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000112" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Durchbruch entsteht durch Herstellen von Öffnungen. Die Wirkung des Durchbruches hängt von der Anzahl und Intensität der Öffnungen ab. Der Stickereieffekt entsteht mittels Nadel und Faden durch Bündeln und Umnähen der Fäden bzw. Fadengruppen. Diese bilden Stege. Durch die unterschiedliche Anordnung der Fadengruppen entstehen verschieden Muster und Füllungen, wobei auch spitzenartige Effekte erzielt werden können.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.337-422"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000290>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000300>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000349>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000351> ;
+    skos:prefLabel "Durchbrucharbeiten"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000116> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000116" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000001> ;
+    skos:definition "Als Maschinenstickerei bezeichnet man eine mit Maschine erzeugte Stickerei auf einem verbleibenden meist leinwandbindigen Stickboden oder anderen Flächengebilden (z. Bsp. Leder, Gewirke, usw.). Die Herstellung der Maschinenstickerei erfolgt im Einfaden- oder Zweifadensystem. Handstickmaschine und Kurbelstickmaschine arbeiten mit einem Faden, während Adler-, Mehrkopfautomaten- und Schiffchenstickmaschine im Zweifadensystem arbeiten. Ein Faden bzw. Vorder- und Hinterfaden bilden die Verbindung mit dem Stickboden. Effekte und Muster werden durch die Stiche gebildet. Stickboden und Stickmaterial können aus verschiedenen Fasern und Materialien sein. Auf oben genannten Maschinen kann man nahezu jede Stichart aus der Handarbeit nachvollziehen bzw. immitieren. Welche Maschine verwendet wird hängt von der Produktivität der jeweiligen Maschine und von der Möglichkeit der zu verwendenden Zusatzeinrichtungen ab."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000117>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000119>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000120>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000123>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000124>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000132>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000133> ;
+    skos:prefLabel "Maschinenstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000117> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000117" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "entstehen während des Stickprozesses durch mehrmaliges Einstechen an der gleichen Stelle und Zug des Fadens in andere Richtung. Dadurch verschieben sich die Fäden des Stickbodens. Die Öffnungen sind verhältnismäßig klein und brauchen nicht extra umrandet zu werden. Man kennt: Dreieckzuggrund, Talergrund, Kästchenstichzuggrund, Filetzuggrund, Zuggrat, einzeln stehende Zugeffekte und Zugstegel.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.227ffSchöner, Friedrich, Klaus: Stickerei-Techniken, Leipzig 1982, S.338ff"@de ;
+    skos:example "Ajourarbeiten"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stickerei mit Fadenanzugseffekten"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000119> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000119" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "Auch Stoffaufschneidearbeiten genannt. Es sind Stickereien, die kombiniert sind mit der Technik \"Bohren\". Während des Stickprozesses werden Durchbrucheffekte erzeugt, indem mittels Bohrer der Stoff aufgeschnitten wird (vorher müssen die Konturen der Löcher vorgestickt sein). Danach werden die Konturen verfestigt und dabei die Stoffteile mit eingewickelt. Die Löcher sind neben der Stickerei die Muster bildenden Effekte. Man kennt: Bohrstegel, einzeln stehende Bohreffekte, Bohrgründe, Abbohreffekte, Malteser Spinne und Sägemücke.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.236ff;Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.368"@de ;
+    skos:example "Stoffaufschneidearbeiten"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stickerei mit Bohreffekten"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000120> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000120" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "Unter dem Begriff Stickerei faßt man rapportierende Bestickung und rapportlose Stickereien in Weißstickerei oder Buntstickerei ohne kombinierte Effekte und besondere Zusatztechniken zusammen. Sie werden in den verschiedensten Sticharten ausgeführt, der Stickboden kann sowohl gewebt als auch gewirkt sein .* Maschinell hergestellte rapportlose Stickerei auf einnadeligen Kleinstickmaschinen im Einfadensystem (Kurbelstickmaschine) oder Zweifadensystem (Singer-, Adlerstickmaschine).* Maschinell hergestellte Stickerei mit mehrnadligen Rapport-Stickmaschinen im Einfadensystem (Handstickmaschine) und Zweifadensystem (Großstickmaschine, Mehrkopfautomat).Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.102ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stickerei einfach"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000123> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000123" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "Diese Stickerei wird mit dem Orientstickkopf maschinell hergestellt. Es werden flor- oder büschelartige Effekte gebildet. Das Muster ist vorgezeichnet und der Stickkopf wird mit der Hand entlang geführt. Die Stichbreite ist fest eingestellt. Der Orientstickkopf bildet mit der einstechenden Nadel und dem Faden eine Schlaufe, wobei die vorhergehende Schlaufe gleichzeitig durchgeschnitten wird. Es entsteht ein teppichartiger Flor. Diese Stickerei findet Verwendung bei der Herstellung von Teppichen, deren Muster mit der Technik Weben zu aufwendig ist.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.237"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Orientkopfstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000124> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000124" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "Es ist eine Kombination von Stickerei mit der Technik \"Ausschneiden\", man sagt auch spachteln. Nach dem Sticken, Ausspannen und Rohausbessern wird mittels Schere, Brennfaden oder Laser unbestickter Stoff entfernt. Das Muster wird durch die ausgeschnittenen Effekte gebildet. Ausgeschnitten wird nur dann, wenn die Löcher zu groß sind, sodaß sie während des Stickprozesses durch Bohren nicht hergestellt werden können.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.251ff;Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.405"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stickerei mit Ausschneideffekten"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000127> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000127" ;
+    dcq:created "Tue Apr 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000032> ;
+    skos:definition "Maschinell auf der Spitzenklöppelmaschine hergestellte Spitze mit einfacher geometrischer, meist volkstümlicher Musterung, oft als \"Torchon lace\" bezeichnet.Kreisförmig angeordnete Klöppel erzeugen ein Schlauchgeflecht, das in senkrechter Richtung durch Ziehfäden in Streifen unterteilt ist. Diese Ziehfäden werden nach der Entnahme des Schlauches aus der Maschine entfernt. Wie bei der Handklöppelei entstehen die Spitzenstrukturen auf der Grundlage der Bindungselemente \"Drehen und Kreuzen\". Hand- und maschinengeklöppelte Spitzen können sehr schwer voneinander unterschieden werden. Aufgrund der beschränkten Anzahl der Klöppel und der fehlenden Möglichkeit des entgegengesetzten Arbeitens ist es jedoch nicht möglich, ornamental anspruchsvolle Spitze (z. Bsp. flandrische und Brüsseler Spitzen) maschinell herzustellen.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.243,256"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Maschinengeklöppelte Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000129> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000129" ;
+    dcq:created "Wed Oct 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000032> ;
+    skos:definition "Spitze, die im Einfadensystem mit der Handstickmaschine und der Kurbelstickmaschine (tambourieren) bzw. im Zweifadensystem mit der Schiffchenstickmaschine, dem Mehrkopfautomaten und auf Kleinstickmaschinen hergestellt wird. Die Technik der Stickerei, also auch der Maschinenstickerei, bedarf stets einer vorbereiteten Unterlage, die bei oder nach dem Besticken besonders behandelt werden muß (außer Tüllspitze), um eine Textur zu erhalten, die charakteristisch ist für die Spitze. Maschinengestickte Spitze entsteht durch:· das Besticken eines Netzes (Tüll) -> Tüllspitze· das Besticken eines Stoffes (z. Bsp. Leinen) und durch die zusätzlichen Techniken \"Bohren\" und/oder \"Ausschneiden\" -> Bohrspitze, Ausschneidspitze· das Besticken eines Stoffes und durch das nachträgliche Entfernen des Stoffes durch chemische oder mechanische Verfahren (Ätzen). Es bleibt nur das gestickte zusammenhängende Muster übrig. -> ÄtzspitzeLit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.304ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000323>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000324>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000325>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000326> ;
+    skos:prefLabel "Maschinengestickte Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000130> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000130" ;
+    dcq:created "Wed Oct 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000032> ;
+    skos:definition "Gebräuchlich sind auch die Begriffe \"Webspitze\" und \"Bobinetgewebe\".Als Bobinetspitzen bezeichnet man auf Bobinet-Spitzenmaschinen oder Bobinet-Gardinenmaschinen erzeugte Spitzen, die auf der Grundlage des maschinellen Verflechtens von mindestens 2 Fadensystemen entstehen. Die Technik verfügt über zahlreiche Bindungsarten (Schienen-, Muster- und Jacquardschienengrundbindungen), mit denen sowohl Netzstrukturen als auch Musterformen unterschiedlicher Art und Dichte erzeugt werden können.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.187ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Bobinetspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000132> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000132" ;
+    dcq:created "Wed Oct 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "Als Applikationen versteht man in der maschinellen Stickerei Aufnäharbeiten, die sowohl manuell als auch maschinell auf einen Grundstoff aufgebracht werden. Man unterscheidet echte und unechte Applikationen. Bei der echten Applikation wird das zu applizierende Teil ausgeschnitten und dann auf den Grundstoff, die Stickerei, aufgenäht. Dies geschieht in Handarbeit bzw. mit einnadligen Kleinstickmaschinen. Die Applikation kann abstehend oder als Relief ausgeführt werden. Bei der unechten Applikation werden zwei verschiedene Stoffe zusammen bestickt und erst danach der überflüssige Applikationsstoff weggeschnitten. Je nach Applikationseffekt werden die zwei Stoffe in der Maschine in unterschiedlicher Reihenfolge aufgespannt oder es wird einer am anderen nur streifenweise festgesteckt bzw. geheftet.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.218ffSchöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.317ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stickerei mit Applikationen"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000133> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000133" ;
+    dcq:created "Wed Oct 11, 2000" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000116> ;
+    skos:definition "In dieser Gruppe faßt man all die Techniken zusammen, bei denen durch Einlegen, Einziehen oder Einstopfen von Watte, Schnüren oder ähnlichen Materialien unter den Stoff oder zwischen zwei Stoffe (Ober- und Futterstoff) Reliefs gebildet werden.* Stickerei von wattierten Stoffen an der Schiffchenstickmaschine: Alle Materialien müssen vorbereitet werden, bevor sie in der Maschine zusammen aufgespannt werden können. Diese Art der Stickerei kann ebenso an der Kurbelstickmaschine oder am Mehrkopfstickautomat hergestellt werden.* Stepperei mit Einzug von Dochtwolle oder Schnüren: Das Relief entsteht linienartig nach dem Verlauf der Schnur. Diese Technik, auch Biesen- oder Riefchenstickerei genannt, erfolgt hauptsächlich auf einem Spezialtyp der Kurbelstickmaschine.* Immitation der Marseiller Stickerei: Eine Immitation der Marseiller Stickerei ist auf Schiffchenstickmaschine, Mehrkopfstickautomaten und Kleinstickmaschine möglich. Es werden starke, reliefartige Plattstichunterlagen auf einem Unterstoff vorgestickt und diese auf dem Oberstoff anschließend mit Steppstichkonturen umrandet. Die Technik ähnelt der Stepperei von Dochtwolle und Schnüren,nur das die Musterung flächig und figürlich dargestellt werden kann.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.325ff;Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.215-217"@de ;
+    skos:example "Pikeestickerei"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stickerei mit Einlagearbeiten"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000223> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000223" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Die Irische Häkelei stellt die am höchsten entwickelte Häkeltechnik dar, sie bringt ausschließlich Spitzen hervor. Diese Häkelgattung erreichte zuerst in Irland, Anfang des 19. Jahrhunderts, ihre höchste Ausbildung. Die Musterformen werden einzeln gefertigt und danach mittels Stegen, Steggruppen und Netzen zu einer Relief-Spitze zusammengesetzt. Als Besonderheit kann das häufige übereinander Arbeiten einzelner Blütenteile sowie ein spezielles Muster, bestehend aus einer regellosen Folge von Luftmaschen mit festen Maschen, meist mit Oesen besetzt, gelten. Auch ein regelmäßiger Grund in Rautenform ist möglich.Synonym: Irische HäkelspitzeLit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.86ff"@de ;
+    skos:example "Irische Häkelspitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Irish"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000224> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000224" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Ihre Besonderheit besteht in der streng quadratischen Anlage des Grundnetzes. Als einziger Effekt werden bei der Filethäkelei die Füllungen aus senkrechten, in gleichen Abständen gearbeiteten, Stäbchen gebildet, deren Höhe den Quadratfeldern entspricht. Die Musterung ist stets geometrisch.Lit.: Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.82f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze der Filet- und Quadrathäkelei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000226> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000226" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:definition "wird charakterisiert durch die Technik, die die Spitzentextur realisiert. Das ist zum Einen der netzartige Stickboden (handgestickte Tüllspitze) und zum Anderen das Öffnen des Stickbodens durch Ausschneiden, Fadenanzug oder -auszug.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.165"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000337>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000338>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000345>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000347> ;
+    skos:prefLabel "Handgestickte Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000232> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000232" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:definition "KlKlöppelspitze entsteht durch Verflechten, Verkreuzen, Verzwirnen und Verweben einer Vielzahl von Fäden, die zu diesem Zweck auf hölzerne Klöppel, z. T. mit einer Schutzhülse, gewickelt sind. Die Position der entstehenden Verkreuzungen u.s.w. wird durch Stecknadeln provisorisch gehalten. Die Nadeln stecken in dem Klöppelbrief (Patrone), der auf dem Klöppelkissen befestigt ist.Technisch unterscheidet man Klöppelspitzen mit fortlaufendem Faden, mit geschnittenem Faden und in Teilen gearbeitete und zusammengesetzte Spitzen. Klöppelspitzen bestehen aus folgenden Elementen:1. Grundlegende Schläge (Drehung und Kreuzung): Halbschlag und Ganzschlag. Durch sie werden Bindungsarten erzeugt.2. Bindungsarten: Flechtschlag, Formenschlag, Leinenschlag, Netzschlag und Löcherschlag. Aus deren Varianten können alle Effekte der Klöppelspitze hergestellt werden.3. Effekte: Füllungen, auch plastische Effekte und Netze, wobei der Übergang von Grundnetz und Ziernetz oft fließend ist.Diese technischen Verfahren kann man einer stark vereinfachten Einteilung zugrunde legen, die in etwa auch der Chronologie entspricht. Danach teilt man die Spitzen in Flechtspitzen, Formenschlagspitzen, Leinenschlagspitzen, Leinenschlagspitzen mit Netzgrund und Ziernetzspitzen ein.Flechtspitze ist eine drahtartig dünne Spitze, gearbeitet aus fortlaufenden Fäden in einfacher, vierteiliger Flechte, gemustert in geometrischen Zacken. Sie wurde aus weißem Leinen, bunten Seidenfäden und Metallfäden gearbeitet. Im 16. und frühen 17. Jh. wurde sie in Italien, Spanien, den Niederlanden und Deutschland als Besatzspitze hergestellt.Formenschlagspitze besteht aus dicht geklöppelten Verzierungen (Formenschläge) in Form von Vierecken, langen Rechtecken, Ovalen (Gerstenkorn) und Dreiecken. Die Spitzen zeigen kräftig betonte Einzelformen, oft Sterne, Rosetten u.s.w. Die wechselnden Formen bedingen abgeschnittene Fäden.Leinenschlagspitze zeigt Muster in Leinenschlag, oft bandartig, ähnlich der Leinwandbindung beim Gewebe. Technisch können hier Spitzen mit durchlaufenden Fäden (Leinenrißspitzen) und geschnittenen Fäden hergestellt werden.Leinenschlagspitze mit Netzgrund besteht aus einem Muster aus Leinenschlag zwischen Netzgrund.Ziernetzspitze ist der Sammelbegriff für Spitzen, bei denen verschiedene Ziernetze verwendet sind."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000233>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000234>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000235>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000236>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000237>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000238>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000239>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000240>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000241>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000242>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000243>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000244>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000245>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000246>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000247>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000248>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000249>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000250>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000251>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000252>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000253>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000254>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000255>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000256> ;
+    skos:prefLabel "Klöppelspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000233> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000233" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Brüsseler Klöppelspitze. Zarte duftige Spitze, reich gemustert, vielfach mit bukettartigen Musterelementen, dazwischen Ziergründe und Speichennetze. In ihr wird häufig \"Riviére\" verwendet.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 19"@de ;
+    skos:example "Point d'Angleterre"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Angleterre, Point d'"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000234> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000234" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Sehr schmale und zierliche Klöppelspitze, meist von Kindern angefertigt. Verwendung für Kinderhäubchen.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 20"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Baby lace"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000235> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000235" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Ihre Entstehung reicht zurück bis in die Renaissance. Sie besteht überwiegend aus durchgehenden Bandgängen, die z. T. Ornamente bilden. Ihr Klöppelmuster besteht aus Leinen- und Formenschlag. Die einfache Spitze bekommt durch ihre Farbenfreude bzw. das Einklöppeln bunter Fäden eine Belebung.Böhmische und slawische Bandspitzen entstanden aus den Vorlagen der russischen Bandspitze, sind aber etwas mannigfaltiger.LIT.: Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:example "Böhmische Bandspitze, Russische Bandspitze, Slawische Bandspitze, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Bandspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000236> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000236" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Sehr feine flandrische Ziernetzspitze, 18. Jh., meist ohne Konturfaden hergestellt. Charakteristisch ist der aufgelöste verschwommene Maschengrund, Schneeflockengrund (fond de neige) mit verschiedenen Formen von Spinnen vermischt und Motive in Leinenschlag, der locker und wie schattiert wirkt. Brügge wurde Ende des 19. Jh. Zentrum sehr feiner Binche-Spitzen mit dem Namen \"point de fee\".LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 20"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Binche-Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000237> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000237" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Ziernetzspitze aus Seide oder Baumwolle, die ihren Namen von der eigentümlichen Farbe des Seidenfadens erhielt. Französische Spitze des 18. Jahrhunderts, später auch in Deutschland, England, Belgien und Spanien hergestellt. Feines Maschennetz mit mehr oder minder dicht gearbeitetem Muster, dessen Konturen häufig nach Art der Malines von einem stärkeren Faden umzogen sind. Musterelemente heben sich kräftig vom Spitzengrund ab. Bei Verwendung von Chenille als Konturfaden unter der Bezeichnung \"Chenille\" bekannt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 20"@de ;
+    skos:example "Ecrues, Nankings, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Blonde"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000238> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000238" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Französische Klöppelspitze auf Maschengrund, Musterformen von mehr oder weniger starker Schnur umgeben. In der maschinengestickten Bretonne sind Ziehgrundeffekte und feinfädige Steppstichfüllungen charakteristisch.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 23"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Bretonne"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000239> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000239" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Flandrische Klöppelspitze mit Leinenschlag, der weit über die Formen hinausgeht. Die Musterung besteht aus Ziernetzen, großen durchbrochenen Partien, ist eils bandartig und teils floral.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 12"@de ;
+    skos:example "Brügge, Dentelle de Bruges, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Bruges, Dentelle de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000240> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000240" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Französische Ziernetzspitze, Sammelbezeichnung für meist schwarze aus Seide oder Baumwolle hergestellte Spitze. Geschlossene Spitze auf Tüllgrund, meist point de Paris. Alle Formen sind von einem fortlaufenden Schnürchen umgeben. Die Chantilly wird nicht in ganzer Breite geklöppelt, sondern in Streifen. Die Musterung zeigt eine Verbindung von Barock- und Rokoko-Ornament mit sehr naturalistisch gehaltenen Pflanzengruppen (Blumensträuße).LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 23"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Chantilly, Dentelle de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000241> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000241" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Grobe Formenschlagspitze mit durchlaufenden Fäden in abstrakt geometrischer Musterung, im 19. Jh. als Massenware produziert. Ein bohnenförmiges Formenschlagmotiv (Cluny-Bohne) ist charakteristisch für diese Klöppelspitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 24"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Cluny"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000242> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000242" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Sammelbezeichnung für in England hergestellte Spitzen des Brüsseler Typs (einfachere Nachahmung der Duchesse) mit separat gearbeiteten Motiven und Netzgründen (teilw. aus Nadelspitze) vom 18. bis 20. Jh. Typische Motive sind Kleeblatt, Distel, Farn, Iris, Passionsblume, Alpenveilchen und Rose."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Honiton"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000243> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000243" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Spitze aus dem Krain (Jugoslawien), mit stark gewundenen Leinenschlagbändern, die auch ornamentbildend sind. Sie ist reich pikotiert. Die Bänder sind durch Stege verbunden.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 28"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Idrianer Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000244> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000244" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Spitze der Stadt Lille. Klöppelspitze im niederländischen Charakter, die auf die Trollkante zurückgeht. Seit 1700 mit Brüsseler Netz- und Mignontüll. Das alle Formen einfassende Schnürchen ist eingeklppelt. Charakteristisch ist das \"Lille-Auge\" und kleine eingestreute Stäbchen (point d' esprit).LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 30;LIT.: Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:example "Point de Lille"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Lille-Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000245> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000245" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Flandrische Ziernetzspitze. Vor 1700 zeigt sie engen Speichengrund, später Netzgrund. Sie entwickelt den Droschelgrund, das zarteste und weicheste Grundnetz. Sie wurde aus feinsten Garnen geklöppelt und kommt darum in der Weichheit der Valenciennes sehr nahe. Die Musterung ist frei, typisch sind florale Musterelemente mit Girlandenbändern. Die Formen sind von einem schwach gedrehten Konturfaden umgeben. Der Abschlußbogen ist flach.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 30f."@de ;
+    skos:example "Mechelner Spitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Malines"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000246> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000246" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Formenschlagspitze, hauptsächlich in Seide gearbeitet. Häufiges Motiv ist das Malteser Kreuz, dazu kommen kleine dicke ovale Formenschlagmuster, Abart der Cluny-Spitze. Durch die Weltausstellung 1851 wurde die Spitze sehr populär und auch in weißer Baumwolle als \"Bedfordshire Maltese\" in England imitiert.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 31"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Malteser Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000247> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000247" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Klöppelspitze, deren Musterung der Verbindung der frühen Venise mit der Bandspitze entspricht.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Melangées, Dentelles"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000248> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000248" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Italienische Leinenschlagspitze mit Netzgrund. Sie wurde vom 17. bis zum späten 18. Jh. hergestellt. Die frühe Spitze zeigt kompakte florale Motive mit variierenden Füllungen, später sind es flächige florale Motive, Zweige, Inschriften und figürliche Darstellungen. Charakteristisch ist das schmale Leinenschlagbändchen, aus dem die Formen des Ornamentes gebildet sind. Am Rande des Bändchens befindet sich eine Art Hohlsaum, der mit den Rändern der gegenüberliegenden Bändchen, früher mit Stegen, später durch ein Grundnetz, verbunden ist.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32"@de ;
+    skos:example "Mailänder Spitze, Milan, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Milano, Punto di"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000249> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000249" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Spitze aus Gimpen- und Leinenschlag. Formen sind von starker Schnur umrandet, oft parallel zu den Formen verlaufend. Sie ist eine grobe und dekorative Spitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Mirecourtspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000250> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000250" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Sol ist die spanische Bezeichnung für Sonne. Das strahlenförmige Aussehen ist die Ursache dieses Namens. Sie hat viel Gemeinsamkeit mit der strahligen Reticella. Die Muster bestehen aus einzelnen Sonnen, deren Strahlen als Träger kleiner Streueffekte benutzt werden. Die Solspitze, deren Technik auf Nanduti genannt wird, entsteht in drei Arbeitsgängen. Im ersten entsteht das strahlenförmige Gerüst, im zweiten erfolgt das Einarbeiten von musterlichen Füllungen und im dritten werden die Einzelteile zur Gesamtspitze zusammengefügt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 34f.Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, ManuskriptSchöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S. 48ff."@de ;
+    skos:example "Nanduti, Solspitze, Sonnenspitze, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Paraguay"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000251> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000251" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Glich anfangs sehr der Mechelner Spitze (Malines). Sie veränderte sich später in Richtung Antwerpener Spitze. Als Netzgrund wurden Sechseckgrund und Lille-Grund verwendet. Das den Namen gebende Musterelement ist ein Blumentopf bzw. eine Blumenvase mit Zweigen und Blumen. Dieses Musterelement war religiösen Ursprungs.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 35"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Pottenkant"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000252> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000252" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Dalmatinische Klöppelspitze. Ihr Muster wird von bandartigen Gängen gebildet. Diese Gänge aus Leinenschlag haben zahlreiche Jours und Oesen.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 35"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Ragusaner Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000253> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000253" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Neuzeitliche moderne Klöppelspitze. 1916 an der Spitzenklöppelmusterschule in Schneeberg gestaltet. Reizvolle, sehr luftig gehaltene Spitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 37"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Schneeberger Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000254> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000254" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Sie ist eine einfache Formenschlagspitze in geometrischer Musterung. Als Gebrauchsspitze war sie in der zweiten Hälfte des 19. Jhs. weit verbreitet. Unter der Bezeichnung \"Yak-Spitze\" wurde die Torchon-Spitze aus glänzender dunkler Wolle, etwa um 1870 bis 1890 gefertigt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 39"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Torchon-Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000255> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000255" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Eine der ältesten flandrischen Spitzen. Klöppelspitze mit starker Schnurumrandung (Troll), ansonsten mit vielfältigen feinen und zarten Effekten.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 39f."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Trollkante"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000256> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000256" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000232> ;
+    skos:definition "Die Valenciennes ist die feinste, zarteste und flachste Klöppelspitze. Französische oder belgische Leinenschlagspitze mit Netzgrund, oft mit Ziernetzen. Sie wird fortlaufend geklöppelt. Der typische netzgrund kann aus runden oder viereckigen (rhombischen) geflochtenen Maschen bestehen. Um 1900 war die viereckige Masche vorherrschend. Der viereckige Grund wird als charakteristisches Merkmal angesehen. Das in Leinenschlag geklöppelte Muster wird ohne Konturfaden gearbeitet und setzt sich nur durch eine Art Hohlsaumnähtchen vom Grund ab.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 40f.Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Valenciennes"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000257> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000257" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000258>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000259>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000260> ;
+    skos:prefLabel "Knüpfspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000258> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000258" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000257> ;
+    skos:definition "Macramé-Spitze ist eine Knüpfspitze, oft mit Flechttechnik kombiniert. Ihr Name ist arabisch. Die Verknotung des Fadens bildet das wichtigste Merkmal. Der einfachste organische Abschluß des Stoffrandes sind die eine Franse bildenden, lang herabhängenden Kettfäden, die zu Mustern geflochten und verknüpft werden können. Ebenso kann an einem quer gespannten Faden künstlich eine Fransenreihe zum Verknüpfen hergestellt werden. Besätze jeder Breite können zu Randverzierungen gearbeitet werden. Die Macramé-Spitze paßte sich bereits im 16. Jh. den modernen Mustern nach dem Vorbild der Nadel- und Klöppelspitze an. Als Materialien werden Baumwolle, Wolle, Seide und Metallfäden sowie Schnüre verwendet.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 6, 30"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Macramé"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000259> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000259" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000257> ;
+    skos:definition "Handgearbeitete Knüpfspitze, benannt nach ihrer Erfinderin, Margarete Naumann, die von 1914 bis 1917 an der Kunstschule Plauen lehrte. Sie ist eine plastische Spitze, die frei, ohne zeichnerische Unterlage, aus dem Material heraus geschlungen und geknotet wird.Charakteristisch ist ein System der Fadenbündelung und Verteilung, das ein Musterteil abschließt und die Fäden in ein neues Muster entläßt, sowie der verwendete Rippenknoten als einfache, doppelte und dreifache Schlinge. Die Musterung ist sehr frei, Blumen, Bäumchen, Figurenfriese, glach- und vollplastische Motive.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Margareten-Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000260> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000260" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000257> ;
+    skos:definition "Die Knüpftechnik der Occhy-Spitze ist wesentlich unkomplizierter und in der Bindungsweise homogener als die der Macramé-Spitze. Die Bezeichnung \"Occhy\" ist italienisch, bedeutet Augen und ist Ausdruck für die typische Form der ihr eigenen Ringe und Bögen, die mit Oesen besetzt sind und aus denen sich die Muster zusammensetzen. Auch durch Nadelarbeit eingesetzte Spinnen sind möglich. Sie hat keine andersartige Rückseite. Nach ihrem Herstellungswerkzeug wird sie auch Schiffchenspitze genannt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32, 39"@de ;
+    skos:example "Frivolité, Schiffchenspitze, Tattings, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Occhy-Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000261> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000261" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:definition "Bei den kombinierten Spitzen verbinden sich verschiedene Grundtechniken miteinander."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000262>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000263>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000264>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000265> ;
+    skos:prefLabel "Kombinierte Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000262> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000262" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000261> ;
+    skos:definition "Sie wurde im letzten Viertel des 18. Jahrhunderts in Brüssel entwickelt. Es sind Spitzen verschiedener Technik, bei denen auf den Grundstoff oder auf das Grundnetz Spitzenornamente mit Hilfe nähender, tambourierender oder stickender Technik aufgebracht werden. Am häufigsten treten Tüll- und Ausschneid-Applikationsspitzen auf.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 19"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Applikationsspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000263> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000263" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000261> ;
+    skos:definition "Ziernetzspitze, entstanden um 1850, zusammengesetzt aus Klöppel- und Nadelspitze mit dichtgedrängten großen floralen Motiven, die sparsam mit Stegen verbunden sind. Die Adern der Blüten und Blätter sind durch Konturfäden betont. Duchesse ist eine reich gemusterte, dichte, überladene Spitze. Man unterscheidet Brüsseler und Brügger Duchesse. Brüsseler Duchesse hat ein leichteres Toile, oft reliefartig gestaltete Blattformen.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 25;Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:example "&quot;Fürstin&quot; der Spitzen"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Duchesse"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000264> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000264" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000261> ;
+    skos:definition "Diese Spitze setzt sich aus Knüpf- und Nadelarbeit zusammen. Sie entstand aus der Fischernetz-Knüpferei und -Stopferei. Bereits in der Renaissance wurden hervorragende Filetspitzen gearbeitet. Filet ist damit eine der ältesten Spitzenformen und entsteht durch Stopfen oder Sticken auf handgeknüpftem bzw. maschinengeknüpftem Netzgrund. Das regelmäßige geometrische Netz wird überwiegend mit geometrischen Musterelementen bestickt. Die Anzahl der Sticharten und Effekte sind begrenzt. Oft sind die Konturen mit Schnur umrandet. Filet antik entsteht durch die gleichen Techniken, stellt aber Figürliches aller Art dar. Die Musterelemente wirken durch das geometrische Netz unkünstlerisch und geschmacklos.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 25f."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Filet"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000265> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000265" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000261> ;
+    skos:definition "Diese Spitze entsteht dadurch, daß ein Bändchen (gewebt, gewirkt, gehäkelt oder geklöppelt) zu einem Muster geformt, vernäht und mittels Nadel- oder Klöppelarbeit vervollständigt wird. Zwischen den Bändchen können sich Speichen und Pikots oder gestickte Füllungen als Verbindung befinden. Die Bändchen können auch auf Tüll genäht und entpsrechend verziert werden. Es sind Nachahmungen der Relief- und flachen Nadelspitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 10;Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:example "Bändchenspitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Point lace"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000266> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000266" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:definition "Nadelspitzen werden mittels Nadel und unter Verwendung nur eines Arbeitsfadens erzeugt. Die Technik bedient sich vorrangig des Schlingstichs. Zur Spitzengestaltung wird er in vielfältiger Weise variiert, so daß sich Zierstiche f+r die Mustergestaltung, für Stege und Maschengründe ergeben. Große Spitzen können in Teilen gearbeitet und zusammengesetzt werden. Die Nadelspitzen gehören neben den Klöppelspitzen zu den klassischen Vertretern der Spitzenkunst."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000267>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000268>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000269>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000270>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000271>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000272>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000273>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000274>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000275>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000276>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000277>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000278>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000279>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000280>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000281>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000282>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000283>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000284>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000285>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000286>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000287> ;
+    skos:prefLabel "Nadelspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000267> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000267" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Abart des Point de gaze mit reich pikotierten Speichennetzen und Relief. Eine Brüsseler Nadelspitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 18"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Aiguille, Point à l'"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000268> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000268" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Französische Nadelspitze, seit 1665 Manufaktur in Alencon. Ab 1717 Entwicklung eines eigenen Stils, charakterisiert durch einen dünnen Netzgrund, feste Umrandung der Musterkonturen, schüsselartige Vertiefung von Blätter von Blumen durch Klopfeffekte, im Spitzenfond meist gröberer und im Spitzenfuß feinerer Tüll. Zur Unterstützung der Pikots ist Roßhaar eingearbeitet. Von der Argentanspitze ist sie durch den Grund aus doppelt geschlungenen Schlingstichen zu unterscheiden.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 18f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Alencon, Point d'"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000269> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000269" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Französische Nadelspitze, ähnlich wie Alencon, jedoch mit größerem Netzgrund und etwas stärkerem Relief. Beide Seiten des Netzes sind dicht mit Schlingstichen überarbeitet. Durch die dichten Stiche kann die Spitze etwas schwerfällig wirken.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 19"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Argentan, Point d'"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000270> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000270" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Französische Nadelspitze, kleine Gruppe von Spitzen um 1720/1730, deren sechseckiger Maschengrund mit einem zweiten Sechseck mit Zierstichen ausgefüllt ist. Leichte florale Motive."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Argentella"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000271> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000271" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Die Motive der Muster sind der Pflanzenwelt entnommen und vielfach aus bunter Seide gearbeitet. Es werden z. B. Glockenblumen und deren Blätter einzeln gearbeitet und zu einem Gehänge verbunden. Da der Abstand der Stiche größer genommen wird als bei der eigentlichen orientalischen Spitze und der Faden beim Bilden des Schlingstichs zweimal um die Nadel gelegt wird, wodurch eine knotenähnliche Verdickung entsteht, besitzt die armenische Spitze eine offene Textur."@de ;
+    skos:example "Smyrna-Spitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Armenische Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000272> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000272" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Wurde ursprünglich auf einer Insel gleichen Namens, die in den Lagunen Venedigs liegt, hergestellt. Die Musterung nähert sich mehr der verspielten Alencon als der Venise. Die Spitze hat einen verwaschenen flockigen Grund mit kleinem, natürlichen, meist floralem Muster. Sie hat kein Relief, aber eine dünne Schnurumrandung.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 23"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Burano"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000273> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000273" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Venezianische flache Nadelspitze mit Speichengrund, ihr einziges Mustermotiv sind verästelte Korallenzweige.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 25"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Coralina"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000274> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000274" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Point de France stellt die früheste charakteristische Spitzenschoepfung Frankreichs dar. Die Barockspitze hat einen pikotierten unregelmäßigen Netzgrund, ist klein gemustert mit Relief. Das Hauptmotiv ist oft von spielerisch verteilten volutenartigen Motiven umgeben. Kleine Akanthusranken und Korallen sind weitere Musterelemente dieser Spitze. Point de France war urspruenglich auch die amtliche Bezeichnung fuer alle Spitzen, die in den französischen Manufakturen von 1665 bis 1675 und ab 1675 in Alencon gearbeitet wurden.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 26"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "France, Point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000275> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000275" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Feinste Form der Brüsseler Nadelspitze. Seit Anfang des 19. Jahrhunderts hergestellt, ab 1862 auch mit erhabenen Formen. Die Ornament- und Pflanzenformen sind mit Ziernetzen gefüllt. Es ist eine feine verspielte Spitze mit Rosen, Sträußchen und Zweigen als beliebteste Motive. Ein typisches Merkmal ist, dass die Spitze keine Pikots aufweist.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 27"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Gaze, Point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000276> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000276" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Ungarische Nadelspitze mit netzartigen Musterelementen, die mit dicht gefüllten Musterelementen kontrastieren.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 27"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Halasi-Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000277> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000277" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Sie wird meist mehrfarbig und hauptsächlich aus Seide hergestellt, sowie aus einfachen geometrischen Mustern, durchgehenden dichten Bändern zu- und abnehmender Breite, Bogen und manchmal in größere Lücken eingezogene sich kreuzende Fadenstege gebildet. In die Spitze einzusetzende quadratische oder dreieckige Formen werden einzeln hergestellt."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Orientalische Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000278> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000278" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Sie wird von einem doppelt gelegten Faden aus gearbeitet. Die Ornamentation dieser weißen, aus Seiden- oder Leinenfaden hergestellten Spitzen, ist stets primitiv. Ihr Aussehen wirkt netzartig (lockere Textur)."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Palästinaspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000279> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000279" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Eine der frühesten Nadelspitzen italienischen Ursprungs. Sie ist auch Klöppelspitze und Durchbrucharbeit. Anfangs war sie streng geometrisch gemustert, später wurden die Ranken das Hauptmotiv. Die geometrischen Musterelemente sind aber noch bedeutend. Leinenschlag, Spinnen, kleine Ziernetze bilden bzw. füllen die Musterelemente. Sie wird gerne mit anderen Genres kombiniert (Kontrastwirkung).LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 35Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:example "Point gothique"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Reticella"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000280> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000280" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Venezianische Nadelspitze des späten 17. Jahrhunderts, in Technik und Muster die äußerste Verfeinerung der barocken nadelspitze. Ihre besonderen Merkmale sind die mit Rosetten besetzten Stege, die den Blüten aufgelegten zarten, abstehenden Blättchen mit kleinem Bogenbesatz am Rand und girlandenartig aneinander gereihte Musterelemente. Auch ein feiner rautenförmiger Grund, Ziernetze und korallenartige Stäbchen sind möglich. Vorläufer der Venise.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 36Prof. Hempel, Albert: Spitzenformen Monographische Darstellung, Plauen 1926, Manuskript"@de ;
+    skos:example "Rosellino, Rosenspitze, point de rose, point rasace, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Rosalina"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000281> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000281" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Französische Nadelspitze. Mit dieser Spitze hat die Spitzenkunst Wertleistungen von seltener Schönheit und bewundernswerter technischer Vollendung geschaffen. Der Point de Sedan ist eine florale Spitze mit Ziergrund und Speichennetzen, vielfältig gemustert, Gegenpol zur Point de France."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Sedan, Point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000282> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000282" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Spitze aus farbiger Seide bzw. Gold- und Silberfäden, sowie Gimpe.Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S. 44f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spanische Spitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000283> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000283" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Typische italienische Nadelspitze des Barock. Starke Relief-Spitze mit Steggrund und großen Motiven in Form von Akanthusranken, Voluten und wuchtigen Blatt- und Blütenformen. Starke Plattstichpartien kontrastieren mit feinen Ziernetzen, Stege sind mit Pikots verziert. Nachbildungen wurden in Klöppeltechnik hergestellt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 41"@de ;
+    skos:example "Venezianische Spitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Venise, Gros point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000284> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000284" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Flache, zarte, venezianische, barocke Nadelspitze (ohne Relief) im Stil und der Technik der gros point de Venise. Sie verzichtet auf hervorgehobene Plattstichpartien.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 41"@de ;
+    skos:example "Venezianische Spitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Venise, Plat point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000285> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000285" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Venezianische Nadelspitze. Das Muster nimmt nicht die gesamte Fläche ein, sondern befindet sich in einem gleichmäßigen Maschennetz, während Ziergründe die ornamentalen Musterelemente füllen.\"resau\": Netz, Geflecht. In verschiedenen Formen und Herstellungsarten."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Venise, Reseau point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000286> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000286" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Eine moderne Nadelspitze, die an der Wiener Spitzenschule entstand. Hochkünstlerische Spitzenformen sind in vollendeter Technik auf die Spitzenmärkte gekommen. Sie ist reich an Kontrasten, mit kräftigen Plattstichpartien und oft gleichen Ziergründen in unterschiedlicher Größe, mit naturalistischem Muster.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 41"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Wiener Nadelspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000287> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000287" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000266> ;
+    skos:definition "Irische Nadelspitze, seit 1842 mit starker Anlehnung an venezianische Typen. Arrangements von Blumen, häufig werden auch Kleeblatt, Rose und Stiefmütterchen verwendet. Charakteristisch sind schattierende Effekte durch unterschiedliche Dichte der Schlingstiche, pikotierter Grund, nur stellenweise Verwendung eines Konturfadens."@de ;
+    skos:example "irish point"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Youghal"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000288> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000288" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000080> ;
+    skos:definition "Stricken ist das Verschlingen eines Fadens durch ineinander greifende Maschen mittels Stricknadeln. Das Stricken von Spitzen wird \"Kunststricken\" genannt. Es bedient sich vor allem der Methoden des Umschlagens, des Verschränkens und der Kreuzung von Maschen. Der Anteil der gestrickten Spitzen ist gering, eine gewerbsmäßige Herstellung hat sich kaum herausgebildet.LIT.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S. 89f."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Strickspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000290> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000290" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000112> ;
+    skos:definition "Ausschneidstickerei ist die Kombination von Stickerei und dem Ausschneiden von Teilen des Stickbodens. Die Stiche zum Einfassen der auszuschneidenden Stoffteile sind Schlingstich (überwiegend), Stielstich, Schnurstich, Plattstich oder Kettstich (Tambourierstich). Stege werden über dem Stoff gearbeitet. Das Ausschneiden des Stoffes geschieht nach dem Sticken von der Rückseite her. Die so entstehenden Durchbrüche spielen bei der Musterbildung eine aktive Rolle.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.405ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000291>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000292> ;
+    skos:prefLabel "Ausschneidstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000291> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000291" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000290> ;
+    skos:definition "Eine Stickerei mit Musterungen vornehmlich aus Schneidlöchereffekten (lange schmale spitze Löcher), florale naturalistische Musterung.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 21"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Broderie Anglaise"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000292> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000292" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000290> ;
+    skos:definition "Sie ist eine dänische Weißstickerei-Technik. Die Musterelemente sind geometrisch, aber auch blatt- und herzförmig. Die ausgeschnittenen Formen werden mit Schlingstich umrandet und mit Nadelspitzen-Effekten gefüllt. Auf dem Stoff sind auch noch andere Sticharten möglich. Das Muster wird aufgezeichnet, der Stickboden ist grobes Leinen. Die Grenzen zwischen Stickerei und Spitze sind nicht eindeutig.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.412"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Hedebo-Arbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000300> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000300" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000112> ;
+    skos:definition "Fadenauszugsarbeit entsteht durch Ausziehen von Fäden in eine (punto tirato) oder zwei (punto tagliato) Webrichtungen. trat immer mehr hervor. Punto tagliato ist Vorläufer der Nadelspitze. Viele Arbeiten des Doppeldurchbruches stehen an der Peripherie der Merkmale der Spitze.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.350ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000301>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000302> ;
+    skos:prefLabel "Fadenauszugsarbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000301> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000301" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000300> ;
+    skos:definition "Der Stickboden ist Leinen oder leinwandbindiges Gewebe, meist weiß. Durch Fadenauszug von Gewebefäden in zwei Richtungen entstehen die Durchbrüche. Die Ränder werden meist mit Schlingstich eingefaßt, der stehengeblibene Stoff bestickt mit stärkerem Stickfaden als der Gewebefaden. Stehen gebliebene Gewebefäden werden gebündelt. In größere Durchbrüche wird Nadelarbeit eingefügt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.351ff"@de ;
+    skos:example "Punto tagliato"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000335>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000336> ;
+    skos:prefLabel "Doppeldurchbrucharbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000302> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000302" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000300> ;
+    skos:definition "Durch Bündeln der Fäden der verbliebenen Fadenreihe werden Hohlnähte erzeugt, die an den Überkreuzungsstellen mit Zierfüllungen versehen werden können..Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.352ff"@de ;
+    skos:example "Hohlnaht, Punto tirato, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "einfache Durchbrucharbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000305> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000305" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Einlagearbeiten gab es bereits im 17/18 Jhd. Man arbeitet mit Rahmen oder frei von Hand, ohne Aufzeichnung oder mit vorgezeichnetem Papier, das nach dem Sticken entfernt wird. Durch die Einlagen werden Reliefs erzeugt. Es wird oft mit glänzendem Material gearbeitet. Die Technik und die Musterung kann unterschiedlich sein. Man unterscheidet 3 Arten.LIT.: Schöner, Friedrich; Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S. 322ff"@de ;
+    skos:example "Piqué-Stickerei, Relieftechnik, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000306>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000307>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000308> ;
+    skos:prefLabel "Einlagearbeiten"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000306> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000306" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000305> ;
+    skos:definition "Steppstichlinien verbinden zwei Stoffe. Das Muster ist vorgezeichnet. Auf der Rückseite erfolgt ein Einschnitt in die Musterelemente, dahinein wird Watte eingefüllt und wieder zugenäht. Durch die Füllung wird die plastische Wirkung erzielt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.327f"@de ;
+    skos:example "Broderie de Marseille"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Marseiller Stickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000307> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000307" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000305> ;
+    skos:definition "Zwischen zwei Stoffe wird Watte gelegt. Diese drei Materialien werden zusammen bestickt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.323f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Steppen mit wattiertem Stoff"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000308> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000308" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000305> ;
+    skos:definition "Zwei Stoffe werden durch zwei nebeneinander verlaufende Steppstichlinien verbunden. Zwischen die Linien wird nach dem Besticken dochtähnliches Material eingezogen. Das Muster ist auf dem Unterstoff aufgezeichnet und wird von dieser Seite gestickt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.325f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Stepperei mit Einzug von Dochtwolle oder Schnur"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000309> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000309" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Unter flächenfüllender Stickerei versteht man eine Arbeit, bei der die ganze Fläche bzw. komplette Musterformen mit nur einer Stichart gefüllt sind. Beispiele dafür sind u.a.: Stickerei aus beidseitigem Sternstich, Zopfstichstickerei und Lockenstich-stickerei, Nadelmalerei.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.182ff;Schöner, Friedrich, Klaus: Stickerei-Techniken, Leipzig 1982, S.155ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000310>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000313>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000314>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000315> ;
+    skos:prefLabel "Flächenfüllende Stickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000310> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000310" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000309> ;
+    skos:definition "Bei der Gobelinstickerei sind alle Stiche gleichmäßig kurz und werden in Reihen neben- und untereinander gestickt. Sie können schräg, senkrecht und versetzt ausgeführt werden, wobei die Richtung innerhalb einer Stickerei nicht verändert wird.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.187"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000311>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000312> ;
+    skos:prefLabel "Gobelinstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000311> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000311" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000310> ;
+    skos:definition "Kelimstich ist Gobelinstich, bei dem im Gegensatz zur klassischen Gobelinstickerei in jeder Reihe die Richtung der Stiche wechselt.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.187,Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.160"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Kelimstich"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000312> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000312" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000310> ;
+    skos:definition "Perlstich ist Gobelinstich mit punktartig kurzen Stichen, auch \"petit point\" genannt (kleine Punkt-Stickerei).Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.187Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.158ff"@de ;
+    skos:example "Petit point"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Perlstich"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000313> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000313" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000309> ;
+    skos:definition "Sie gibt es in 3 Varianten: Als rein geometrische Musterung, als stilisierte und als naturalistische Kreuzstichmusterung.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.201ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Kreuzstichstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000314> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000314" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000309> ;
+    skos:definition "Sie ist die höchste Form der schattierten Plattstichstickerei. Es wird nach Vorlagen oder natürlichen Vorbildern gearbeitet. Das Ineinanderfügen von Stichen unterschiedlicher Farbe und Größe schattiert die Musterelemente ab. Man sticht von der schon bestickten Seite des Musters in das unbestickte Teil, um eine effektvolle Schattierung zu erzeugen. Als Material nimmt man Seide.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.182Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.192ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Nadelmalerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000315> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000315" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000309> ;
+    skos:definition "Plattstich ist Sticktechnik auf meist grobem Stoff, dem die Garnstärke angepaßt ist. Die parallel angeordneten Fadenstrecken bedecken die figurbedingten Flächen völlig. Die Stärke des Arbeitsfadens bestimmt den Abstand der Stiche. Die Stiche liegen flach auf der Unterlage. Es wird mit Rahmen gearbeitet. Plattstichstickerei gibt es als Weißstickerei und als Buntstickerei, unterlegt und nicht unterlegt. Die Stichgröße kann unterschiedlich seinLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.164ffFreier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.182"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Plattstichstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000316> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000316" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Unter diese Bezeichnung versteht man Stickereitechniken, bei denen goldene, silberne oder andere metallene Werkstoffe verwendet werden. Es werden besondere Einlagen oder zusätzliche Unterlegstoffe bzw. besondere Arbeitsverfahren benutzt. Wegen ihrer Kostbarkeit und ihrer spröden und steifen Eigenschaften ist eine besondere Behandlung und Verarbeitung notwendig. Meist haben sie Merkmale der Aufnäharbeit. Teilweise wird die Stickerei über zusätzlich aufgeheftete Flächengebilde ausgeführt. Die Stiche liegen eng beieinander. Gold- und Perlenstickereien werden gerne miteinander verbunden. In feudalen Zeiten war es das Vorrecht der Fürsten, Könige u. ä. Stickereien zu tragen. Es werden folgende Gold- und Metallstickereien unterschieden: Kantille- oder Bouillonstickerei, Sprengtechnik, Stecharbeit und Legearbeit.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S-.332ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000317>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000318> ;
+    skos:prefLabel "Gold- und Metallstickereien"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000317> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000317" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000316> ;
+    skos:definition "Auf einer Leinenunterlage werden vorgezeichnete Linien mit dicken Baumwollfaden gestickt, über die dann die Goldfäden in Querrichtung gelegt werden. Zwischen den Baumwollfäden werden die Goldfäden festgestickt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.288f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Kordeltechnik"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000318> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000318" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000316> ;
+    skos:definition "Übersticken einer farblich angepaßten zusätzlichen Kartonunterlage. Gearbeitet wird mit zwei verschiedenen Fäden. Die Füllung der Musterelemente erfolgt durch eng nebeneinander gelegte Fäden. Die Fäden werden durch Sprengstiche gehalten. Durch die Sprengstichstickerei werden die Figuren gefüllt bzw. Konturen gebildet.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.302,334"@de ;
+    skos:example "Goldsprengtechnik"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Sprengstichstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000319> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000319" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Darunter versteht man Stickereien, die mit den verschiedensten Sticharten ausgeführt sind. Die Sticharten unterscheidet man wie folgt:* Einfache Sticharten: Steppstich, Plattstich, Stielstich, Flachstich, Spannstich, Gobelinstich, gleichseitiger Sternstich.* Sticharten mit Fadenkreuzungen: Kreuzstich (einseitiger -, zweiseitiger -, Gitter-, Wiener -), Flechtstiche, Kreuznahtstich, Hexen- und Schattenstich, einseitiger Sternstich* Sticharten mit Schlaufen: Lockenstich (in der Maschinenstickerei Moosstich genannt), Kettstich (auch Tambourierstich genannt)* Sticharten mit Schling- und Knotenstichen:, Feston- und Knopflochstich, KnotensticheLit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.170-206"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Handstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000320> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000320" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Bei der Knüpfstickerei handelt es sich um Sticharten, bei denen Schlaufen gebildet bzw. Fadenbündel in einfacher und doppelter Auführung eingezogen werden. Die Schlaufen können stehen bleiben oder aufgeschnitten werden. Die Bezeichnung \"Knüpfstiche\" ist irreführend, weil nicht geknüpft sondern gestickt wird. Knüpfstickerei gehört ausschließlich zur Buntstickerei.* Knüpfstiche mit stehenbleibenden Schlaufen: Schlaufenkreuzstich, Velourstich, Smyrnastich, Lockenstich* Knüpfstiche, bei denen die Schlaufen aufgeschnitten werden: Smyrnastich, Perserstich, Plüschstich, Quastenstich* Knüpfstiche, bei denen Fadenbündel eingezogen werden: Malta- oder Büschelstich (Die Fadenbündel selbst bilden das Muster. Sie werden nicht zur Füllung von Figuren oder Flächen benutzt.)Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.237-242"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Knüpfstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000321> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000321" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Es sind Aufnäharbeiten, die sich sehr mit den Arten der Gold- und Chenillestickerei verbinden. Stoffgebundene Stickerei mit zählbaren Fäden. Runde farbige Glasperlen werden im Charakter der Gobelinstickerei eng nebeneinander aufgenäht. Die Muster sind flächenhaft, stilisiert oder geometrisch. Es kann frei oder mit vorgezeichnetem Muster im Rahmen gearbeitet werden. Es werden Perlen verschiedenster Form verwendet. Flitter werden einzeln oder übereinander geschoben in Reihen festgenäht.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.329"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Perl- und Flitterstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000322> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000322" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Es ist eine mittels Tambourierhäkchen auf einen festen in einen Rahmen gespannten Stoff mit stark gezwirntem Garn aufgebrachte Kettstichstickerei. Sie wird zur abschattierenden Wirkung für Konturen verwendet bzw. zur Füllung von Figuren. Mit dem Tambourierstich können Perlen aufgenäht werden. Das Linienmuster ist auf der Rückseite des Stickbodens aufgezeichnet, von wo aus auch zu arbeiten ist. Eine Abart entsteht, wenn der Kettstich mit der Nadel ausgeführt wird (gestickt).Synonym: KettstichstickereiLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.247ff"@de ;
+    skos:example "Kettstichstickerei"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Tambourierstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000323> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000323" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000129> ;
+    skos:definition "Ätzspitze wird regional auch \"Luftspitze\" genannt. Ein Grundstoff wird bestickt und danach durch Ätzen entfernt. Als Ergebnis bleibt ein reines Fadengebilde übrig à die Spitze. Voraussetzung für das Ätzen (Es gibt Trocken- und Naßätze) ist, daß der Grundstoff und die Fäden auf die Nachbehandlung unterschiedlich reagieren und daß die musterlichen Formen nach statischen Gesichtspunkten in Verbindung stehen.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.304,342,375"@de ;
+    skos:example "Luftspitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Ätzspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000324> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000324" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000129> ;
+    skos:definition "(auch Spachtelspitze genannt). Spitze, bei der nach dem Sticken Teile des Grundstoffes von Hand mittels Schere bzw. Glühfaden entfernt werden. Die auszuschneidenden Felder müssen eine gewisse Mindestgröße haben und mit Stielstich oder Plattstich umrandet sein. Speichen sind selten. Sie ersetzt man durch breite Stoffstege.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.351;Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.254"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Ausschneidspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000325> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000325" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000129> ;
+    skos:definition "Mit Hilfe von Schneidinstrumenten (Bohrern) wird während des Stickprozesses der Stickboden zerschnitten und die stehengebliebenen Reste umstickt. Dadurch wird der Rand um die Bohrlöcher verfestigt. Im Gegensatz zur Stickerei mit Bohreffekten spricht man von Bohrspitze dann, wenn die Bohrlöcher selbst eine untergeordnete Rolle spielen, d. h. daß sie die im Stoff verbliebenen Musterelemente zur Geltung bringen.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.348;Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.236"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Bohrspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000326> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000326" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000129> ;
+    skos:definition "Tüllspitze entsteht als Verbindung der Sticktechnik mit der Bobinettechnik, auch der Wirktechnik. Der Stickboden bildet als Netzgrund die Voraussetzung für die Spitzentextur. Durch die Sticktechnik oder Tambouriertechnik erfolgt die Ornamentierung. Bei der Herstellung der Tüllspitze müssen die Besonderheiten des Stickgrundes (Löcher) beachtet werden, damit die Formkonturen nicht zackig werden.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.344"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Tüllspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000327> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000327" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000032> ;
+    skos:definition "Wirkspitze wird auf Flachkettenwirkmaschinen oder Häkelgalonmaschinen erzeugt. Sie entsteht auf der Grundlage der Einbindung der schußlegenden Fäden in das maschenbildende System der Kettfäden.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.261ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000328>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000329> ;
+    skos:prefLabel "Wirkspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000328> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000328" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000327> ;
+    skos:definition "Die Häkelgalonmaschine verfügt über ein geringe Arbeitsbreite. Die auf ihr erzeugten Häkelgalonspitzen sind meist grobfädige Spitzen (Posamenten und Borten) mit dicker Textur und geringer Ornamentation, deren Effekte durch besondere Schußlegungen und die verwendeten Materialien erzeugt werden. Charakteristisch sind Bögen, Oesen und Quasten, auch eingefügte Perlen und Flitter, sowie für die Schußlegungen verwendeten Materialien wie Gimpe, Litze, Schlauchkordel, Chenille und Lurex in Gold- und Silbertönung.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.295ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Häkelgalonspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000329> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000329" ;
+    dcq:created "Wed Jan 10, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000327> ;
+    skos:definition "Raschelspitze wird auf Spitzen- und Gardinenraschelwirkmaschinen erzeugt (Kettenwirkware). Die Schußlegungen können einen durchgehenden Grund (Netz) bilden, Formen füllen und/oder Formkonturen betonen. Durch Anzug (auseinander- oder zusammenziehen der Maschen) können Schrägstellungen der Netzstege bzw. Lücken in der Textur erzeugt werden. Durch Fallblechlegungen können plastische Effekte auf dem Grundgewirke erzielt werden. Charakteristisch für Raschelspitze ist das fast stets vorhandene Grundnetz, bei Wäschespitzen und Kleiderstoffen häufig Tüllgrund, bei Gardinen meist Filetnetz. Daneben existieren Phantasienetze, die sowohl als Grund- als auch Ziernetze eingesetzt werden können. Formkonturen werden oft durch Gimpe, Schnürchen oder Texturfaden betont.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.262ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Raschelspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000330> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000330" ;
+    dcq:created "Thu Jan 11, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Die Gabelhäkelei erfordert als zusätzliches Werkzeug eine Gabel. Es werden spitzenartige Borten hergestellt. Schöne Spitzen erzielt man dadurch, daß an die eingefaßte Borte durch weitere Häkelarbeit neue Formenelemente hinzugefügt werden. Die Musterung ist auf geometrische Formen beschränkt.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.83f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze der Gabelhäkelei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000331> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000331" ;
+    dcq:created "Thu Jan 11, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Bei der Macramé-Häkelei werden die einzeln angefertigten, fast nur geometrischen Formen, mit Stegen zusammengefügt. Häufig werden die Stege auch aus gespannten Fäden, die umwunden oder mit Schlingstichen überarbeitet werden, gebildet. Sie werden meist aus derberem Fadenmaterial gefertigt.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.85f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze der Macramé-Häkelei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000332> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000332" ;
+    dcq:created "Thu Jan 11, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Sie bedient sich, um längere Schlaufen oder Fadenstege zu erhalten, eines Stabes. Die große Dehnbarkeit erlaubt es, das Gebilde zu runden und dadurch Bogenspitzen zu gestalten. Es werden Spitzen mit fächer-, stern- und rosettenartigen Mustern gefertigt.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.85"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze der Stabhäkelei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000333> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000333" ;
+    dcq:created "Thu Jan 11, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Bei der Tunesischen Häkelei entsteht eine Maschenreihe in zwei Arbeitsgängen, d. h. in je einer Hin- und Rückreihe. Unterscheidungsmerkmal zur einfachen Häkelei sind die Formfüllungen, die nicht durch feste Maschen, sondern mit der tunesischen Masche gebildet werden.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.82"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze in Tunesischer Häkelei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000334> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000334" ;
+    dcq:created "Thu Jan 11, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000083> ;
+    skos:definition "Die einfache Häkelei, die auch \"Deutsche Häkelei\" genannt wird, stellt die Ausgangsbasis aller Häkelarbeiten dar. Grundsätzlich wird bei der einfachen Häkelei die Spitze als Ganzes gearbeitet. Jede Masche wird für sich abgeschlossen.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.81f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze in einfacher Häkelei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000335> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000335" ;
+    dcq:created "Sat Apr 07, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000301> ;
+    skos:definition "ist norwegisches Durchbruchmuster auf grobflächigem Leinen (Volkskunst-Stickerei). Das Fadengitter entsteht durch Bündeln von Gewebefäden in oftmals unterschiedlicher Anzahl. Zierelemente, wie Pikots oder Nadelspitzen werden in den Durchbruch eingefügt. An den Außenseiten befinden sich meist größere Durchbruchfelder, die stufenweise angeordnet und mit Plattstich umnäht sind.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.364"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Hardanger Arbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000336> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000336" ;
+    dcq:created "Sat Apr 07, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000301> ;
+    skos:definition "hat gleichmäßige quadratische Durchbruchfelder mit fest umwickelten Stegen. Dabei ist der gitterförmige Durchbruch das Ornament.LIT.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.363"@de ;
+    skos:example "Gitterdurchbruch, Point de Coupe, Wickeldurchbruch, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Toledo"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000337> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000337" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000226> ;
+    skos:definition "Durch verstärkten Anzug des Stickfadens beim Sticken entstehen Öffnungen im Gewebe. Sie werden nicht umrandet, da der Stickboden nicht verletzt wird. Anzugeffekte treten als Linien, Flächen und selbständige Musterelemente auf und werden durch verschiedene Sticharten gebildet. Zwischen in feinem Plattstich ausgeführten Musterkonturen befinden sich A-jour-Grundmuster in reicher Vielfalt, so daß der Charakter der Spitze gegeben ist. Der Stickboden selbst ist zart und transparent.Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.118Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.170f"@de ;
+    skos:example "Klarwerkspitze"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Dresde, Point de"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000338> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000338" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000226> ;
+    skos:definition "Zuerst wird das Muster auf den Stickboden aufgebracht. Die Musterformen werden mit Vorstichlinien markiert, in diese werden die Stege eingehängt und in Nadelarbeit ausgeführt. Die Vorstichlinien werden überstickt und Füllungen innerhalb der Musterformen ausgeführt. Der nicht bestickte Stickboden wird nach Beendigung der Stickarbeit von der Rückseite her ausgeschnitten.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.413-422Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.180-185"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000339>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000341>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000342>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000343>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000344> ;
+    skos:prefLabel "Handgestickte Ausschneidspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000339> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000339" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000338> ;
+    skos:definition "Irische Spitze. Ein auf Leinenstoff vorgedrucktes Muster (zierlich, floral, asymetrisch) wird mit Schlingstich umrandet und pikotierte Speichen zwischen die Musterelementen genäht, ohne den Stoff zu durchstechen. Der unter den Speichen liegende Stoff wird ausgeschnitten. Als Umrandung wird ein festerer Faden in Schlaufen gelegt und diese Schlaufen festgenäht.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.419Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.23"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Carrick-ma-cross"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000341> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000341" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000338> ;
+    skos:definition "Sammelbegriff für weiße Ausschneidspitzen der Renaissance, deren Stege aus Schlingstich sind und weder Pikots noch Oesen aufweisen. Besteht das Muster aus sakralen Motiven, spricht man von Kirchenspitze. Sind die Musterformen stark überstickt mit Schnurstich oder Schnurstickerei nennt man sie Colbert-SpitzeSynonym: Kirchenspitze, Colbert-SpitzeLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.416f"@de ;
+    skos:example "Colbert-Spitze, Kirchenspitze, "@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Renaissancespitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000342> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000342" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000338> ;
+    skos:definition "Historische Spitzenart der Renaissance, als Nachahmung der kostbaren Nadelspitze entstanden. Die durch Ausschneidarbeit im Stoff verbliebenen Figuren berühren sich meistens unmittelbar, nur selten sind Stege zu sehen . Die Anlage ist symetrisch und enthält bandartige, derbe Ranken mit Voluten und stilisierten Blättern. Die Formen sind mit kleinen und größeren viereckigen Durchbrüchen und Plattstich-Vierecken besetzt. In den Öffnungen und an den Formrändern sitzen Pikots.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.414"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Intagliatela"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000343> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000343" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000338> ;
+    skos:definition "Auf Leinwand gearbeitet, die Formen mit Schlingstichen über aus Goldfaden bestehender doppelter Schnur oder Fadeneinlage eingefaßt, wobei die Einlage durchschimmert und oesenartige Verbindungen bzw. Oesenstege bildet. Die verbliebenen Stoff-Formen werden meist mit bunter Stickerei gefüllt, oft sind Perlen, Flitter und Cantille eingefügt. Bei alten Spitzen ist die Füllstickerei meistens mit Seide überstickter Goldfaden und das Muster besteht aus symetrisch angeordneten Akanthusranken mit Blättern, meist in einen geraden Fries eingepaßt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.414f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spanische Ausschneidspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000344> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000344" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000338> ;
+    skos:definition "Die Musterformen sind mit Schlingstich umrandet, jedoch unterschiedlich hoch unterlegt und verschieden breit ausgeführt. Der in den Formen verbliebene Stoff wird mit kleineren Streumustern und A-jour-Effekten bestickt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.418f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Venezianische Relief-Ausschneidspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000345> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000345" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000226> ;
+    skos:definition "Beruht auf der Grundlage von Tülldurchzugsarbeit oder Tüllstickerei. Der Tüll ist ein feines Netz, das früher geklöppelt und 1808 erstmals in der französischen Stadt Tulle maschinell hergestellt wurde. Tülldurchzugsarbeit ist eine dem Tüll angepaßte Sticktechnik. Sie bedeutet das Einflechten des Fadens in das Netz. Beim organischer Tülldurchzug geschieht das Durchziehen des Fadens entlang der Netzfeldreihen des Tülls, also in drei Richtungen. Der anorganische Durchzug folgt in freier Zeichnung dem Ornament. Oft angewandte Mittel der Effektbereicherung sind Applikationen, Ausschneideffekte und Kettstich (gestickt oder tambouriert).Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.165-170Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.279f"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000346> ;
+    skos:prefLabel "Handgestickte Tüllspitze"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000346> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000346" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000345> ;
+    skos:definition "Die Spitze ist benannt nach einer Stadt in der irischen Provinz Munster. Sie ist eine irische Tülldurchzugsarbeit floraler und ornamentaler Art. Die Musterelemente sind oft mit Ziehgründen (Fadenanzugseffekte) gefüllt. Zierstiche aus der Weißstickerei finden Verwendung.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.170Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.30Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.126"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Limerick"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000347> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000347" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000226> ;
+    skos:definition "Durchbrucharbeit, eigentlich zu den Stickereien gerechnet, muß dann als Spitze bezeichnet werden, wenn sie den Wesensanforderungen der Spitze entspricht (die Hauptformen des Musters müssen sich infolge sie umgebender lockerer durchsichtiger Textur abheben). Das ist dann gegeben, wenn die durch den Durchbruch entstandenen quadratischen Löcher mit Nadelarbeit verziert werden und die Musterfiguren selbst bilden oder wenn die im Stoff verbliebenen Formen durch die Durchbrucharbeiten ausgespart erscheinen.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.363"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Spitze in Durchbrucharbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000348> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000348" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000014> ;
+    skos:definition "Ausschneidarbeit ist eine Form der Applikation (Aufnäharbeit), eine der ältesten Ziertechniken. Es sind Arbeiten mit verschiedenen aufeinander gehefteten Stoffen, von denen vor oder nach dem Aufnähen Teile zum Zwecke der Musterbildung ausgeschnitten werden, je nachdem welcher Stoff die Ornamente oder den Hintergrund bildet. Die zu applizierenden Stoffe müssen sich voneinander abheben, z. Bsp. durch Struktur oder Farbe.Technik: gestickt, manuell; genäht (Spitze); ausgeschnitten.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.310ff"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Ausschneidarbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000349> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000349" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000112> ;
+    skos:definition "Durch starken Fadenanzug, der die Gewebefäden verschiebt, entstehen die eigentlichen A-jour-Arbeiten. Der zu erzielende Durchbruch entsteht direkt beim Sticken. Die Öffnungen werden nicht umrandet, da der Stickboden nicht verletzt wird. Anzugeffekte treten als Linien, Flächen und selbständige Musterelemente auf und werden durch verschiedene Sticharten gebildet.Synonym: A-jour-ArbeitLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.338-350; Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.227"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000350> ;
+    skos:prefLabel "Fadenanzugsarbeit"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000350> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000350" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000349> ;
+    skos:definition "Stoffstickerei mit Fadenanzugeffekten. Kleine Muster mit viel Plattstich, der auch oft gespalten auftritt."@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Appenzeller Stickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000351> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000351" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000112> ;
+    skos:definition "Durch Einschneiden von Hand entstehen im Stickboden Öffnungen, die entsprechend ihrer Form umstickt werden. Die Löcher existieren selbständig, werden einzeln oder in Gruppen angeordnet. Lochstickerei ist eine typische Weißstickerei, kann aber auch farbig sein. Sie wird meist auf leinwandbindigem Gewebe ausgeführt, mit etwas dickerem Faden als der Gewebefaden. Das Muster ist vorgezeichnet. Die Löcher werden mit gleichmäßigen Schling- bzw. Blindlochstichen umstickt. Schattenlöcher entstehen, wenn eine Seite des Loches durch Plattstich verbreitert wird. Die Flächen zwischen den Löchern können mit Ziergründen gefüllt sein.Lit.: Schöner, Friedrich , Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.371"@de ;
+    skos:example "Weißstickerei"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:narrowMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000352>,
+        <http://www.museumsvokabular.de/museumvok/gefaess/00000353> ;
+    skos:prefLabel "Lochstickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000352> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000352" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000351> ;
+    skos:definition "Um die vom Muster vorgegebene Stoff-Figur wird der Stoff aufgeschnitten bzw. vorgestochen. Der stehengebliebene Stoff wird umstickt und daraus Stege gebildet. Ein spitzenähnlicher Effekt wird erzeugt, wenn die Stoff-Figur ringsum von Stegen umgeben ist.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.371"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Lochstickerei mit Stoff-Figuren"@de .
+
+<http://www.museumsvokabular.de/museumvok/spitzen/00000353> a skos:Concept ;
+    dc:creator "Sächsische Landesstelle für Museumswesen" ;
+    dc:identifier "00000353" ;
+    dcq:created "Mon Apr 23, 2001" ;
+    skos:broadMatch <http://www.museumsvokabular.de/museumvok/gefaess/00000351> ;
+    skos:definition "Lochstickerei mit ovalen, spitzovalen, runden bzw. zweispitzigen Löchern, die mit der Schere von Hand aufgeschnitten und umstickt werden. Die Muster sind traditionsgebunden. Sie bilden sich aus Zweigen, Ranken, Blüten, Kränzen und Girlanden, an denen die Löcher in Gruppen als Blätter und Rosetten angeordnet sind. Dazwischen oder daneben befinden sich florale Musterelemente aus Stiel- und Plattstich, sowie Knötchen und Mouchen.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.376"@de ;
+    skos:inScheme <http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> ;
+    skos:prefLabel "Madeira-Stickerei"@de .
+
+<http://www.museumsvokabular.de/museumvok/vokab/spitzen/Vokabular> a skos:ConceptScheme ;
+    dc:description "Systematik für Spitzen und Stickereien"@de ;
+    dc:title "Spitzensystematik"@de ;
+    skos:hasTopConcept <http://www.museumsvokabular.de/museumvok/spitzen/00000001>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000014>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000032>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000080>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000083>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000112>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000116>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000117>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000119>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000120>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000123>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000124>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000127>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000129>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000130>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000132>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000133>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000223>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000224>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000226>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000232>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000233>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000234>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000235>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000236>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000237>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000238>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000239>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000240>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000241>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000242>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000243>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000244>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000245>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000246>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000247>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000248>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000249>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000250>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000251>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000252>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000253>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000254>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000255>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000256>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000257>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000258>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000259>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000260>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000261>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000262>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000263>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000264>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000265>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000266>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000267>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000268>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000269>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000270>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000271>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000272>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000273>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000274>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000275>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000276>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000277>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000278>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000279>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000280>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000281>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000282>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000283>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000284>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000285>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000286>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000287>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000288>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000290>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000291>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000292>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000300>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000301>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000302>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000305>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000306>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000307>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000308>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000309>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000310>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000311>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000312>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000313>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000314>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000315>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000316>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000317>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000318>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000319>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000320>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000321>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000322>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000323>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000324>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000325>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000326>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000327>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000328>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000329>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000330>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000331>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000332>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000333>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000334>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000335>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000336>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000337>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000338>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000339>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000341>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000342>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000343>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000344>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000345>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000346>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000347>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000348>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000349>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000350>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000351>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000352>,
+        <http://www.museumsvokabular.de/museumvok/spitzen/00000353> .
