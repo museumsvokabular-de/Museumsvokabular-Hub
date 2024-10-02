@@ -1,7 +1,7 @@
 ---
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
 tokenizer: "full" # strict, forward, reverse, full
-custom_domain: ""
+custom_domain: "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/"
 fail_on_validation: true
 searchableAttributes:
   - "prefLabel" # you should not delete this one
