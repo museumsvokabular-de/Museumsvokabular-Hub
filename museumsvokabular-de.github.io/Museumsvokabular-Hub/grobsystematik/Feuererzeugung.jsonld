@@ -1,0 +1,259 @@
+{
+  "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuererzeugung",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Feuererzeugung"
+  },
+  "narrowMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blech-Zündholzdose"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klappdöschen_(für_Feuerstein)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messing-Zunderdose"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichholzdose"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zündholzdose"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Benzinfeuerzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Döbereiner-Feuerzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerlunte"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstahl"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerzeuglunte"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fidibus"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fidibus-Halter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fidibusbehälter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fidibuskasten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fimmchenkasten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kienspankasten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Porzellan-Zündholzhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinschloßfeuerzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichholzbehälter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichholzfassung"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichholzhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichholzschachtel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichholzschachtelhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischfeuerzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zunderdose"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zündholzhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zündholzkasten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zündholzschachtel"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

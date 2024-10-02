@@ -1,0 +1,852 @@
+{
+  "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Werkzeug",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Werkzeug"
+  },
+  "broadMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug:_Wortfeld"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hammer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Axt_-_Beil"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Amboß"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Säge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zange"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feile"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrwinde"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Meißel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsgerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schaber"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kupferstecherwerkzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hebegerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hohleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Honigpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Geisfuß"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Locheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Absatzausputzeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Abschröter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anreißer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Arbeitsbrett"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aufrauheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausschlageisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Backenhalter_(Gewindekluppe)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Balkenstecher"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Beitel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bello"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Biegegerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blechschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohreisen,_gekrümmt"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrfutter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrspannbock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Borkenschäler"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brandeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brandhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brennschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buchbindegerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buchpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dechsel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Deuer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dollen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelbrennschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dorn"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Drechslereisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Drucksäule"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Drucksäulen-Verlängerungsstück"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Durchschläger"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dächsel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Einschieber"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenbolzen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenbügel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenklinge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Felgenschablone"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flacheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fräser"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fugeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuhrenammelt"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Furniersäge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fäustel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Füllrohr_mit_Ladestock_für_Sprengungen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gehrungslade"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gerät,_metallen,_zum_Ösen_und_Haken_einsetzen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gewindekluppe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gewindeschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gießlöffel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glasmacherpfeife"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gradeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grundholz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gußform_für_Zinnlöffel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haarschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handfäustel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handziehklinge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haubengabel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haubrücke"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hebezeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hieb"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hohlkratzer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzgewindeschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzgriff_für_Werkzeugstiel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzschlage"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzschlegel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzschlägel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hörnchen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hülsenstopfer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Iishaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kantenschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Keil"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klemmblock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klemme"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klemmschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klemmschraube"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klinge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kluppe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klöpfel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Krake"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Krummstahl"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Körner"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ladehaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederahle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederglätteisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederpoliereisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederrädchen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Leimzwinge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochbeitel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochstanze"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochtreiber"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lohschäler"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Löffeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Löffelform"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lötkolben"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Magnet"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maulschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maurer-Ziegelbrett"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Meischerührlöffel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messing-Lötlampe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mutternschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Naaliesen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nagelzieheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nagelzieher"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nietwerkzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nutenschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Papierhefter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Patteisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pfahlmesser_für_die_Spaltbank"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pfahlsetzer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflanzenhäcksel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflanzhäcksel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pickel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pinsel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pinzette"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plattierstein"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Prägestock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Putzknüppel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Putzschröpper"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Quast"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rammeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Raspel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reepdrehe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reibgerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reibkeule"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reifhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reißzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riemahle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rindenschäler"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ringschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rollklotz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rollstock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rundeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rührspatel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sackspanner"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sandlöffel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schabeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schabklinge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schafschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Scherdegen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schienenanzieher"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlaghohleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagstein"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlichtmond"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlüsselform"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmiedeeinsatz_(Führung)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmiedeschraubstock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmiedestock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmiedewerkzeug"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidebacke_(Gewindebacke)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidelade"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneiderschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schnitteisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubenschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubenzieher"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubklemme"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubstock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schränkeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schäleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schälspan"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seilerkluppe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seitenschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Senkeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Setzeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spaltkeil"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spannholz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spatel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sperrhorn"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spiralschaft"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spitzeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stampfkern"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stechbeitel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stecheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stechnadel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinstössel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinzeug-Matrize"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinzeug-Patrize"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stichel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streicheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Strohdach-Haken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Strohdachdeckgerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Säckeklopfer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tapetenroller"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Teiken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Model"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Treibfäustel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Töpfer-Gipsmodel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Töpfermodel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Töpferscheibe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Vierkantschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wachseisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wachsholz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wannenmachereisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Weidenschäler"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug_(dreiteilig)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug_beim_Hämmern_gegenzuhalten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zahnschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ziegelform"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zieheisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ziehklinge"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zierrädchen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zugeisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zuschneideschere"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zwinge"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Maschinen_-_Geräte",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Maschinen - Geräte"
+  },
+  "altLabel": {
+    "de": [
+      "Geräte - Maschinen"
+    ]
+  },
+  "narrowMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maschinen-_und_Geräteteile"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pumpen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohnenschneidemaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haarschneidegerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschespülmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschewringermaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apparat_zur_Herstellung_von_Brauselimonade"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buchungsmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bürohandpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dampfhammer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dampfmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Einsteckkerbgerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisengerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Farbenmühle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fingerrechenmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Frankiermaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Färbemaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grünfutterschneider"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haarschneidemaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handbohrmaschine,_elektrisch"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handdruckmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handfuttermühle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handmühle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handnähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hebelpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heftmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holznagelmaschine_(Schusterwerkstatt)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Honigpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hunde-Laufrad"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hächselmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Häcksellade"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Häckselmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/JUPITER_Universal-Küchenmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klebemaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Koffernähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kugelkopfschreibmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ledernähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederspaltmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maschinenschlüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nietmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ornamentpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/PVC-Spritzgußmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Patronenfertigungsmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Patronenmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Polsterzupfmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Presse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rapspresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rechenmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Registrierkasse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Runkelmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sack-Ausklopfmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidemaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubenpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schreibmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schuhmachernähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schustermaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schusternähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seilerei-Maschinen_und_Zubehör"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spaltmaschine_(Schusterwerkstatt)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spintelpresse_(Schusterwerkstatt)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Strickmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischnähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tret-Nähmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wachspresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wickelmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wickelpresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wömmelwerk"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zapfenpoliermaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zerkleinerungsmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zupfmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ösenmaschine"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

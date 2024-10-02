@@ -1,0 +1,364 @@
+{
+  "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mangel-,_Bügel-,_Waschgerät",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Mangel-, Bügel-, Waschgerät"
+  },
+  "narrowMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bleichlöffel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bolzenbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bolzenbügelgerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brett_mit_Handgriff"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen,_elektrisch"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(Bolzeneisen)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(Puppenhaus)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(Setzeisen)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(mit_Feuerbolzen)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_für_Holzkohle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_mit_Feuerbolzen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisenbolzen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleiseneinsatz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisenofen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisenuntersatz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dampfbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elektrobügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glättholz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Herdbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzkohlebügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzkohlen-Bügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaltmangel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kleinbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlebügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mangelbrett"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mangelrolle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Manschettenbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messing-Bügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ochsenzunge_(Bolzenbügeleisen)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plättbrett"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plätteisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plätter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reisebügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rolltuch"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rolltuch_(Wäsche_mangeln)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneiderbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidereisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Setzbügeleisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischmangel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischwäschemangel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschbottich"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschbrett"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschholz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschkübel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschtrog"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschzuber"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschebrett"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschehalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheholz"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheklopfer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheklöppel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheknüppel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschekorb"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschemangel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschepresse"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheschaukel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheschleuder"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschespülmaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschestampfer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschestock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschewringermaschine"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ärmelbügelbrett"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

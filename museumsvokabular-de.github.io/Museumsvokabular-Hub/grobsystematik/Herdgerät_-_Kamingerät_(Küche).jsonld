@@ -1,0 +1,437 @@
+{
+  "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Herdgerät_-_Kamingerät_(Küche)",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Herdgerät - Kamingerät (Küche)"
+  },
+  "altLabel": {
+    "de": [
+      "Kamingerät - Herdgerät (Küche)"
+    ]
+  },
+  "broadMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hausrat"
+    }
+  ],
+  "narrowMatch": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pfannkuchenstülpe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waffeleisen_für_Herdfeuer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kessel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hale"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Galgen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blasebalg"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blospiep"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brat-Drehrost"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratentopf"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratgabel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratkessel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratpfanne"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratrost"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratröste"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bratschüssel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Breitopf"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronzegrapen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bräter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dofpott"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doofpott"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Drehrost"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreibein"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreibein-Pfannenhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreibeintopf"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreifuß"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreifuß-Grapen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreifuß-Ringgestell"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreifußkaminpfanne"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreifußkessel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisen-Kesselhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisen-Kohlenhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerblasrohr"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerbock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuertopf"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerzange"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fürtang"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grapen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grützhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Herdkasten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Herdplatte"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Herdschippchen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Herdschippe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzkohle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzständer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaffeeröster"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kalte_Hand"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaminbesteck"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaminbesteckhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaminbock"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kamingabel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kamingerät"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kamingerätehalterung"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaminzange"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kasserolle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kennelkohle"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kessel:_Zubehör"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klooch"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klook"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohleeimer"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlenkasten"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlenkratze"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlenschaufel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlenschippe"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlenschütte"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlenzange"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlezange"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kupfer-Dreibeingefäß"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messing-Kohlenschaufel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messing-Kohlenzange"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Püster"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rauchfanggabel"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rouener_Grapen_(Topf)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Röste"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schürhaken"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spießhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stochereisen"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ständer_(Herdgerät)"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stülp"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tentelpott"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Topf,_dreibeinig"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Topfhalter"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Topfheber"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wärmepfanne"
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zweifuß-Bratrost"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
