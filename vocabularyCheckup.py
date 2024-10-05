@@ -2,6 +2,7 @@ import lxml.etree
 import glob
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
 from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
+from Levenshtein import distance
 
 allRdfFiles = [x for x in glob.glob("*.rdf") if not "modified" in x]
 languageLabel = "@de"
@@ -36,11 +37,17 @@ for rdfFile in allRdfFiles:
     skosList = ["{http://www.w3.org/2004/02/skos/core#}narrower",
                 "{http://www.w3.org/2004/02/skos/core#}broader"]
     topConcepts = []
+    allconcepts = []
     #iterate over all elements of root
     for element in root.iter():
         if element.tag == "{http://www.w3.org/2004/02/skos/core#}Concept":
             uuid= element.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about")
             element.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", uuid.replace(" ", "_"))
+            allconcepts.append(uuid.replace(" ", "_"))
+
+    for element in root.iter():
+        if element.tag == "{http://www.w3.org/2004/02/skos/core#}Concept":
+            uuid= element.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about")
             for subElement in element.iter():
                 if subElement.tag in skosList:
                     subElement.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource", subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource").replace(" ", "_"))
@@ -48,6 +55,25 @@ for rdfFile in allRdfFiles:
                         wrongScheme = subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource").split("/")[0]
                         # replace wrong scheme with correct scheme
                         subElement.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource", subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource").replace(wrongScheme, scheme))
+                        referenceConcept = subElement.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource")
+                        if "�" in referenceConcept:
+                            matchDistances = []
+                            for concept in allconcepts:
+                                    matchDistances.append(distance(referenceConcept, concept))
+                            minDistance = min(matchDistances)
+                            # get all indexes of the minimum distance in matchDistances
+                            minDistanceIndexes = [i for i, x in enumerate(matchDistances) if x == minDistance]
+                            if len(minDistanceIndexes) > 1:
+                                print("Multiple matches found for concept: " + referenceConcept)
+                                print ("Please choose the correct concept from the following list:")
+                                for index in minDistanceIndexes:
+                                    print(allconcepts[index])
+                            elif len(minDistanceIndexes) == 1:
+                                print("Match found for concept: " + referenceConcept)
+                                print("Match: " + allconcepts[minDistanceIndexes[0]])  
+                                subElement.set("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource", allconcepts[minDistanceIndexes[0]])
+                            else:
+                                print("No match found for concept: " + referenceConcept)
                 if subElement.tag == "{http://www.w3.org/2004/02/skos/core#}inScheme":
                     # delete element
                     element.remove(subElement)
