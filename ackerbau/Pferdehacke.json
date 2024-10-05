@@ -9,22 +9,18 @@
       "Hacke (Pferde-)"
     ]
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hacken_-_Haken_(hakenf�rmige_Hacken)"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hacken_-_Haken_(hakenförmige_Hacken)",
+    "prefLabel": {
+      "de": "Hacken - Haken (hakenförmige Hacken)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

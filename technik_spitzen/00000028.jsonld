@@ -7,22 +7,18 @@
   "definition": {
     "de": "ist eine Technik, die ein Grundnetz mit viereckigen Netzfeldern herstellt. Auf der Netzmaschine werden jeweils 2 Fäden verknotet, der Oberfaden und der Unterfaden. Beide sind in der gleichen Anzahl vorhanden, auf einer 3m langen Maschine sind es jeweils 500, also 6 mm Abstand. Dieser Abstand ist bestimmend für die Größe des Netzfeldes. Ein maschinell erzeugtes Netz hat auf jeder Seite ein zwar verschiedenes, aber doch einheitliches Knotenbild.- Kombination mit der Technik \"gestopft\":Mit der Technik \"gestopft\" wird das Ornament in das maschinell erstellte Grundnetz eingebracht. Erst damit ist der Begriff Spitze gerechtfertigt.Beispiel: Filet (eine kombinierte Spitze).Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.8,25fLit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.131ff"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000006"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000006",
+    "prefLabel": {
+      "de": "geknüpft"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

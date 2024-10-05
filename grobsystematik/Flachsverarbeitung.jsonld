@@ -4,201 +4,374 @@
   "prefLabel": {
     "de": "Flachsverarbeitung"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Landwirtschaft"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Abzughechel",
+      "prefLabel": {
+        "de": "Abzughechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Abzugshechel",
+      "prefLabel": {
+        "de": "Abzugshechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brake",
+      "prefLabel": {
+        "de": "Brake"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Doppelbrake",
+      "prefLabel": {
+        "de": "Doppelbrake"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Doppelhechel",
+      "prefLabel": {
+        "de": "Doppelhechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feinhechel",
+      "prefLabel": {
+        "de": "Feinhechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachs",
+      "prefLabel": {
+        "de": "Flachs"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsbrake",
+      "prefLabel": {
+        "de": "Flachsbrake"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsbreche",
+      "prefLabel": {
+        "de": "Flachsbreche"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsbreche_(Feinbreche)",
+      "prefLabel": {
+        "de": "Flachsbreche (Feinbreche)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsbrechmaschine",
+      "prefLabel": {
+        "de": "Flachsbrechmaschine"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsbündel",
+      "prefLabel": {
+        "de": "Flachsbündel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsdoppelhechel",
+      "prefLabel": {
+        "de": "Flachsdoppelhechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsfaser",
+      "prefLabel": {
+        "de": "Flachsfaser"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsglätter",
+      "prefLabel": {
+        "de": "Flachsglätter"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachshechel",
+      "prefLabel": {
+        "de": "Flachshechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachshechelbock",
+      "prefLabel": {
+        "de": "Flachshechelbock"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachshechelstuhl",
+      "prefLabel": {
+        "de": "Flachshechelstuhl"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachskamm",
+      "prefLabel": {
+        "de": "Flachskamm"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachspflanze",
+      "prefLabel": {
+        "de": "Flachspflanze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsprodukt",
+      "prefLabel": {
+        "de": "Flachsprodukt"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsreffe",
+      "prefLabel": {
+        "de": "Flachsreffe"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsriepe",
+      "prefLabel": {
+        "de": "Flachsriepe"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsriffel",
+      "prefLabel": {
+        "de": "Flachsriffel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachssamen",
+      "prefLabel": {
+        "de": "Flachssamen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsschwinge",
+      "prefLabel": {
+        "de": "Flachsschwinge"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Freischwinger",
+      "prefLabel": {
+        "de": "Freischwinger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Grobhechel",
+      "prefLabel": {
+        "de": "Grobhechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Grobhechelbrett",
+      "prefLabel": {
+        "de": "Grobhechelbrett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handbrake",
+      "prefLabel": {
+        "de": "Handbrake"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handflachskamm",
+      "prefLabel": {
+        "de": "Handflachskamm"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handwickelbock",
+      "prefLabel": {
+        "de": "Handwickelbock"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hauklotz",
+      "prefLabel": {
+        "de": "Hauklotz"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hechel",
+      "prefLabel": {
+        "de": "Hechel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hechelbock",
+      "prefLabel": {
+        "de": "Hechelbock"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hechelbrett",
+      "prefLabel": {
+        "de": "Hechelbrett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hechelstuhl",
+      "prefLabel": {
+        "de": "Hechelstuhl"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Klopfstab",
+      "prefLabel": {
+        "de": "Klopfstab"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reepe",
+      "prefLabel": {
+        "de": "Reepe"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Riepe",
+      "prefLabel": {
+        "de": "Riepe"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Riffelkamm",
+      "prefLabel": {
+        "de": "Riffelkamm"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Riffelmaschine_für_Haubenbänder_und_Krägen",
+      "prefLabel": {
+        "de": "Riffelmaschine für Haubenbänder und Krägen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Riffelschrapper",
+      "prefLabel": {
+        "de": "Riffelschrapper"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rohbreche",
+      "prefLabel": {
+        "de": "Rohbreche"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schwingbock",
+      "prefLabel": {
+        "de": "Schwingbock"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schwingbrett",
+      "prefLabel": {
+        "de": "Schwingbrett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Walze_einer_Flachsbreche",
+      "prefLabel": {
+        "de": "Walze einer Flachsbreche"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fegebock",
+      "prefLabel": {
+        "de": "Fegebock"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fegemesser",
+      "prefLabel": {
+        "de": "Fegemesser"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachshaspel",
+      "prefLabel": {
+        "de": "Flachshaspel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsmesser",
+      "prefLabel": {
+        "de": "Flachsmesser"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsrad",
+      "prefLabel": {
+        "de": "Flachsrad"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Garnwinde",
+      "prefLabel": {
+        "de": "Garnwinde"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hechelbank",
+      "prefLabel": {
+        "de": "Hechelbank"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hechelkamm",
+      "prefLabel": {
+        "de": "Hechelkamm"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Riedkamm",
+      "prefLabel": {
+        "de": "Riedkamm"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Riedstuhl",
+      "prefLabel": {
+        "de": "Riedstuhl"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fegewanne",
+      "prefLabel": {
+        "de": "Fegewanne"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Garnspule_für_Flachs",
+      "prefLabel": {
+        "de": "Garnspule für Flachs"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hechelbank"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Abzughechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Abzugshechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brake"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelbrake"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelhechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fegebock"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fegemesser"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fegewanne"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feinhechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachs"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsbrake"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsbreche"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsbreche_(Feinbreche)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsbrechmaschine"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsbündel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsdoppelhechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsfaser"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsglätter"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachshaspel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachshechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachshechelbock"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachshechelstuhl"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachskamm"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsmesser"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachspflanze"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsprodukt"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsrad"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsreffe"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsriepe"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsriffel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachssamen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsschwinge"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Freischwinger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Garnspule_für_Flachs"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Garnwinde"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grobhechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grobhechelbrett"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handbrake"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handflachskamm"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handwickelbock"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hauklotz"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hechel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hechelbock"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hechelbrett"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hechelkamm"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hechelstuhl"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klopfstab"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reepe"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riedkamm"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riedstuhl"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riepe"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riffelkamm"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riffelmaschine_für_Haubenbänder_und_Krägen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riffelschrapper"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rohbreche"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schwingbock"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schwingbrett"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Walze_einer_Flachsbreche"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Landwirtschaft",
+    "prefLabel": {
+      "de": "Landwirtschaft"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

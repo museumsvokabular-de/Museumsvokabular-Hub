@@ -4,33 +4,38 @@
   "prefLabel": {
     "de": "Knüpfspitze"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000080"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000258"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000258",
+      "prefLabel": {
+        "de": "Macramé"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000259"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000259",
+      "prefLabel": {
+        "de": "Margareten-Spitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000260"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000260",
+      "prefLabel": {
+        "de": "Occhy-Spitze"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000080",
+    "prefLabel": {
+      "de": "Handgearbeitete Spitze"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

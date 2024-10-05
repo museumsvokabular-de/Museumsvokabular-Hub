@@ -9,22 +9,18 @@
       "Verzierung (Spiegel-)"
     ]
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zierrat_-_Ornamentik"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zierrat_-_Ornamentik",
+    "prefLabel": {
+      "de": "Zierrat - Ornamentik"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

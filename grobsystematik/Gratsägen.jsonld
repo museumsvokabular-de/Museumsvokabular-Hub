@@ -9,69 +9,110 @@
       "Sägen (Grat-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gefaßte_Sägen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Adernsäge,_verstellbar",
+      "prefLabel": {
+        "de": "Adernsäge, verstellbar"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Baumsäge_zum_Schrauben",
+      "prefLabel": {
+        "de": "Baumsäge zum Schrauben"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fuchsschwanz_mit_Rücken",
+      "prefLabel": {
+        "de": "Fuchsschwanz mit Rücken"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fuchsschwanz_ohne_Rücken",
+      "prefLabel": {
+        "de": "Fuchsschwanz ohne Rücken"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gratsäge_mit_Wand",
+      "prefLabel": {
+        "de": "Gratsäge mit Wand"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gratsäge_mit_zwei_Wänden",
+      "prefLabel": {
+        "de": "Gratsäge mit zwei Wänden"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lochsäge_mit_Griff",
+      "prefLabel": {
+        "de": "Lochsäge mit Griff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lochsäge_mit_Heft",
+      "prefLabel": {
+        "de": "Lochsäge mit Heft"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Metallbogensäge",
+      "prefLabel": {
+        "de": "Metallbogensäge"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Metallsäge_mit_Eisenbogen",
+      "prefLabel": {
+        "de": "Metallsäge mit Eisenbogen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Metallsäge_mit_Holzfassung",
+      "prefLabel": {
+        "de": "Metallsäge mit Holzfassung"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nutsäge,_verstellbar",
+      "prefLabel": {
+        "de": "Nutsäge, verstellbar"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stiftsäge",
+      "prefLabel": {
+        "de": "Stiftsäge"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Baumsäge",
+      "prefLabel": {
+        "de": "Baumsäge"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Laubsägebogen",
+      "prefLabel": {
+        "de": "Laubsägebogen"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Adernsäge,_verstellbar"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baumsäge"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baumsäge_zum_Schrauben"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuchsschwanz_mit_Rücken"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuchsschwanz_ohne_Rücken"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gratsäge_mit_Wand"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gratsäge_mit_zwei_Wänden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Laubsägebogen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochsäge_mit_Griff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochsäge_mit_Heft"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metallbogensäge"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metallsäge_mit_Eisenbogen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metallsäge_mit_Holzfassung"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nutsäge,_verstellbar"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stiftsäge"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gefaßte_Sägen",
+    "prefLabel": {
+      "de": "Gefaßte Sägen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

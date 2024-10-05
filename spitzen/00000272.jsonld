@@ -7,22 +7,18 @@
   "definition": {
     "de": "Wurde ursprünglich auf einer Insel gleichen Namens, die in den Lagunen Venedigs liegt, hergestellt. Die Musterung nähert sich mehr der verspielten Alencon als der Venise. Die Spitze hat einen verwaschenen flockigen Grund mit kleinem, natürlichen, meist floralem Muster. Sie hat kein Relief, aber eine dünne Schnurumrandung.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 23"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+    "prefLabel": {
+      "de": "Nadelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

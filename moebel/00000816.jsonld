@@ -13,22 +13,18 @@
   "definition": {
     "de": "Die Etagère ist ein allseitig offenes Regal mit mindestens drei übereinander liegenden Stellflächen, die entweder von einer Mittelsäule oder von meist zierlich ausgestalteten Eckpfosten getragen werden. Unter dem unteren Regal kann eine Schublade angebracht sein.Nicht zu verwechseln ist sie mit der Etagère, die als Serviergeschirr oder Tafelaufsatz dient."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000813"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000813",
+    "prefLabel": {
+      "de": "Regal"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

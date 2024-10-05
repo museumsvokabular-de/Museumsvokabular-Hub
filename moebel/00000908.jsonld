@@ -12,22 +12,18 @@
   "definition": {
     "de": "Der Hornschapp ist eine in Norddeutschland vorkommende Form des Eckschranks. Charakteristisch ist der quadratische Grundriss mit zwei Schauseiten."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000907"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000907",
+    "prefLabel": {
+      "de": "Eckschrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

@@ -9,22 +9,18 @@
       "Fessel (Pferde-)"
     ]
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anspannungszubeh�r_f�r_Zugtiere"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Anspannungszubehör_für_Zugtiere",
+    "prefLabel": {
+      "de": "Anspannungszubehör für Zugtiere"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

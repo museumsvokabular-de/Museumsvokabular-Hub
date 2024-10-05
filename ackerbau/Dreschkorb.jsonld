@@ -9,22 +9,18 @@
       "Korb (Dresch-)"
     ]
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreschmaschinenteile_f�r_Spitz-_und_Breitdrescher"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dreschmaschinenteile_für_Spitz-_und_Breitdrescher",
+    "prefLabel": {
+      "de": "Dreschmaschinenteile für Spitz- und Breitdrescher"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

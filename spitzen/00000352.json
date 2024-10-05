@@ -7,22 +7,18 @@
   "definition": {
     "de": "Um die vom Muster vorgegebene Stoff-Figur wird der Stoff aufgeschnitten bzw. vorgestochen. Der stehengebliebene Stoff wird umstickt und daraus Stege gebildet. Ein spitzenähnlicher Effekt wird erzeugt, wenn die Stoff-Figur ringsum von Stegen umgeben ist.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.371"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000351"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000351",
+    "prefLabel": {
+      "de": "Lochstickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

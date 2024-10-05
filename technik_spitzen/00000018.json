@@ -7,22 +7,18 @@
   "definition": {
     "de": "wird Tüllspitze, also maschinengestickte Spitze, um eine Nachbildung der französischen Nadelspitze \"Alencon, Point d'\" zu erreichen. Die mit Stielstich umrandeten kleinen Blätter und Blüten werden mit Hilfe eines stumpfen Metallstäbchens und eines Hammers schüsselförmig tief geklopft.Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.29Lit.: Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.108"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000001",
+    "prefLabel": {
+      "de": "Technik der Herstellung von Spitzen und Stickereien"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

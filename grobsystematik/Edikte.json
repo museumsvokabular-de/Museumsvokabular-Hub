@@ -4,27 +4,26 @@
   "prefLabel": {
     "de": "Edikte"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Archivgut_außer_Büchern_usw."
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Edikt",
+      "prefLabel": {
+        "de": "Edikt"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Edikt"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Archivgut_außer_Büchern_usw.",
+    "prefLabel": {
+      "de": "Archivgut außer Büchern usw."
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

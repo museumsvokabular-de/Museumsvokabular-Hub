@@ -4,33 +4,38 @@
   "prefLabel": {
     "de": "Amboß"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Amboßeinsatz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Amboßeinsatz",
+      "prefLabel": {
+        "de": "Amboßeinsatz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelamboß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spitzamboß",
+      "prefLabel": {
+        "de": "Spitzamboß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spitzamboß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dengelamboß",
+      "prefLabel": {
+        "de": "Dengelamboß"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Werkzeug",
+    "prefLabel": {
+      "de": "Werkzeug"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

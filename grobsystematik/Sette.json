@@ -4,17 +4,12 @@
   "prefLabel": {
     "de": "Sette"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gefäße_-_Behälter"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Milchverarbeitung"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Milchsette"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Milchsette",
+      "prefLabel": {
+        "de": "Milchsette"
+      }
     }
   ],
   "inScheme": [
@@ -23,11 +18,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

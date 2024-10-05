@@ -4,45 +4,62 @@
   "prefLabel": {
     "de": "Dekorationsteile"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausstattungsstücke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gardinenknauf",
+      "prefLabel": {
+        "de": "Gardinenknauf"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gardinenleiste",
+      "prefLabel": {
+        "de": "Gardinenleiste"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gardinenstange",
+      "prefLabel": {
+        "de": "Gardinenstange"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schabracke",
+      "prefLabel": {
+        "de": "Schabracke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schabrackenleiste",
+      "prefLabel": {
+        "de": "Schabrackenleiste"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Vorhangstange",
+      "prefLabel": {
+        "de": "Vorhangstange"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wandteppichstange",
+      "prefLabel": {
+        "de": "Wandteppichstange"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gardinenknauf"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gardinenleiste"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gardinenstange"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schabracke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schabrackenleiste"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Vorhangstange"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wandteppichstange"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausstattungsstücke",
+    "prefLabel": {
+      "de": "Ausstattungsstücke"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

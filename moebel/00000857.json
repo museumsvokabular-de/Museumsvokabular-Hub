@@ -7,33 +7,38 @@
   "definition": {
     "de": "Der Wandtisch ist für eine wandbündige Aufstellung konzipiert. Die Rückseite hat keine Schaufunktion und ist daher zumeist schlicht gehalten."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000831"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000858"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000858",
+      "prefLabel": {
+        "de": "Ecktisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000859"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000859",
+      "prefLabel": {
+        "de": "Konsoltisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000860"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000860",
+      "prefLabel": {
+        "de": "Wandklapptisch"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000831",
+    "prefLabel": {
+      "de": "Tisch"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

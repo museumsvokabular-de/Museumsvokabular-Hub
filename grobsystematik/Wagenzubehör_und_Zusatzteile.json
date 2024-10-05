@@ -10,45 +10,62 @@
       "Zusatzteile (Wagenzubehör und)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuhrwerke_(Landwirtschaft)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Erntebaum",
+      "prefLabel": {
+        "de": "Erntebaum"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Langbrett",
+      "prefLabel": {
+        "de": "Langbrett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lunsstöcke,_paarig",
+      "prefLabel": {
+        "de": "Lunsstöcke, paarig"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pferdeschoner",
+      "prefLabel": {
+        "de": "Pferdeschoner"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rungen",
+      "prefLabel": {
+        "de": "Rungen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Seitenbrett,_paarig",
+      "prefLabel": {
+        "de": "Seitenbrett, paarig"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagenleiter,_paarig",
+      "prefLabel": {
+        "de": "Wagenleiter, paarig"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Erntebaum"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Langbrett"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lunsstöcke,_paarig"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pferdeschoner"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rungen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seitenbrett,_paarig"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagenleiter,_paarig"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fuhrwerke_(Landwirtschaft)",
+    "prefLabel": {
+      "de": "Fuhrwerke (Landwirtschaft)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

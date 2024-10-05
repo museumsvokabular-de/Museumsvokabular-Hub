@@ -11,72 +11,116 @@
       "Rundhobel - Schiffhobel - Hohlhobel"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel_(Tischlerwerkzeug)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Doppelhohlkehlhobel",
+      "prefLabel": {
+        "de": "Doppelhohlkehlhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Doppelrundstabhobel",
+      "prefLabel": {
+        "de": "Doppelrundstabhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Doppelschiffhobel",
+      "prefLabel": {
+        "de": "Doppelschiffhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Falzschiffhobel",
+      "prefLabel": {
+        "de": "Falzschiffhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gesimshohlkehlhobel",
+      "prefLabel": {
+        "de": "Gesimshohlkehlhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gesimsrundstahlhobel",
+      "prefLabel": {
+        "de": "Gesimsrundstahlhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gesimsschiffhobel",
+      "prefLabel": {
+        "de": "Gesimsschiffhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kehlhobel,_klein",
+      "prefLabel": {
+        "de": "Kehlhobel, klein"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schiffhobel,_kurz",
+      "prefLabel": {
+        "de": "Schiffhobel, kurz"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlichthohlkehlhobel",
+      "prefLabel": {
+        "de": "Schlichthohlkehlhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlichtrundstabhobel",
+      "prefLabel": {
+        "de": "Schlichtrundstabhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlichtschiffhobel",
+      "prefLabel": {
+        "de": "Schlichtschiffhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schroppschlichthobel",
+      "prefLabel": {
+        "de": "Schroppschlichthobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zahnhohlkehlhobel",
+      "prefLabel": {
+        "de": "Zahnhohlkehlhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zahnrundstahlhobel",
+      "prefLabel": {
+        "de": "Zahnrundstahlhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zahnschiffhobel",
+      "prefLabel": {
+        "de": "Zahnschiffhobel"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelhohlkehlhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelrundstabhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelschiffhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzschiffhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesimshohlkehlhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesimsrundstahlhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesimsschiffhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kehlhobel,_klein"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schiffhobel,_kurz"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlichthohlkehlhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlichtrundstabhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlichtschiffhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schroppschlichthobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zahnhohlkehlhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zahnrundstahlhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zahnschiffhobel"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hobel_(Tischlerwerkzeug)",
+    "prefLabel": {
+      "de": "Hobel (Tischlerwerkzeug)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -14,27 +14,26 @@
   "definition": {
     "de": "Das grundlegende Konstruktionsmerkmal des Klapptisches ist der Klappmechanismus, mit dessen Hilfe die Gestalt des Tisches verändert wird. Das heißt, dass entweder die Tischfläche vergrößert bzw. verkleinert oder der ganze Tisch zur besseren Aufbewahrung zusammengeklappt wird."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000831"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000839",
+      "prefLabel": {
+        "de": "Drehklapptisch"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000839"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000831",
+    "prefLabel": {
+      "de": "Tisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

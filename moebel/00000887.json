@@ -7,30 +7,32 @@
   "definition": {
     "de": "Der Aufbauschrank besteht aus mindestens zwei konstruktiv getrennten, formal ähnlichen Teilen, die aufeinander stehen."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000883"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000888"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000888",
+      "prefLabel": {
+        "de": "Brandschrank"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000889"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000889",
+      "prefLabel": {
+        "de": "Mehrgeschossiger Schrank"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000883",
+    "prefLabel": {
+      "de": "Schrank"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

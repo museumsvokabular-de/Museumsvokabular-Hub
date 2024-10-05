@@ -7,22 +7,18 @@
   "definition": {
     "de": "Es sind Aufnäharbeiten, die sich sehr mit den Arten der Gold- und Chenillestickerei verbinden. Stoffgebundene Stickerei mit zählbaren Fäden. Runde farbige Glasperlen werden im Charakter der Gobelinstickerei eng nebeneinander aufgenäht. Die Muster sind flächenhaft, stilisiert oder geometrisch. Es kann frei oder mit vorgezeichnetem Muster im Rahmen gearbeitet werden. Es werden Perlen verschiedenster Form verwendet. Flitter werden einzeln oder übereinander geschoben in Reihen festgenäht.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.329"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000014"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000014",
+    "prefLabel": {
+      "de": "Handgearbeitete Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

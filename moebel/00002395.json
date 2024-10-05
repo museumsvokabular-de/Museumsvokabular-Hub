@@ -7,22 +7,18 @@
   "definition": {
     "de": "Das Kommodenbett gehört zu den Blender-Möbeln. Zusammengeschoben sieht es aus wie eine Kommode. Zur Nutzung als Liegemöbel wird die Bettlade seitlich herausgezogen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000995"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000995",
+    "prefLabel": {
+      "de": "Auszugbett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

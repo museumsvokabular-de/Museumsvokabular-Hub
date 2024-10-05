@@ -7,22 +7,18 @@
   "definition": {
     "de": "Eine Stickerei mit Musterungen vornehmlich aus Schneidlöchereffekten (lange schmale spitze Löcher), florale naturalistische Musterung.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 21"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000290"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000290",
+    "prefLabel": {
+      "de": "Ausschneidstickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

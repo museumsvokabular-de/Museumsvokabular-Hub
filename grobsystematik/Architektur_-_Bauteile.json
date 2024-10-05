@@ -9,33 +9,60 @@
       "Bauteile - Architektur"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Architekturteile"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Installation",
+      "prefLabel": {
+        "de": "Installation"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Installation"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Architekturteile",
+      "prefLabel": {
+        "de": "Architekturteile"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Architekturmodell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlösser_-_Beschläge",
+      "prefLabel": {
+        "de": "Schlösser - Beschläge"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baumaterial"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fenster:_Sachgruppe",
+      "prefLabel": {
+        "de": "Fenster: Sachgruppe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bauteile"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bauteile",
+      "prefLabel": {
+        "de": "Bauteile"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fenster:_Sachgruppe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wand-_und_Bodenbelag",
+      "prefLabel": {
+        "de": "Wand- und Bodenbelag"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlösser_-_Beschläge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Türen_-_Tore",
+      "prefLabel": {
+        "de": "Türen - Tore"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Türen_-_Tore"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Baumaterial",
+      "prefLabel": {
+        "de": "Baumaterial"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wand-_und_Bodenbelag"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Architekturmodell",
+      "prefLabel": {
+        "de": "Architekturmodell"
+      }
     }
   ],
   "inScheme": [

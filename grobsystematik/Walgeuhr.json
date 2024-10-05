@@ -13,22 +13,18 @@
   "definition": {
     "de": "Die Uhr bestand aus einem Gestell, in dem sich an zwei Schnüren eine Trommel von oben nach unten bewegen konnte. Die Achsenden der Trommel wiesen auf die an zwei Säulen angebrachten Zeitmarken. Durch eine besondere Fachanordnung im Inneren lief die Trommel langsam ab."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Auslaufuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Auslaufuhr",
+    "prefLabel": {
+      "de": "Auslaufuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

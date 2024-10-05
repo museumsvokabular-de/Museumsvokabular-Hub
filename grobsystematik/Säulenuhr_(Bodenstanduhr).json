@@ -12,22 +12,18 @@
   "definition": {
     "de": "Dies ist wohl die ursprüngliche Art der Aufstellung von Uhren im Innenraum, häufig hatten diese auf zwei oder vier Seiten Zifferblätter. Bis in das 17. Jahrhundert stand die Säule allseitig frei, dann wurde sie zum Beginn des 17. Jahrhunderts an die Wand gerückt und die Uhr eingesichtig.+Der Unterbau der Uhr muß nicht zwingend rund, sondern kann auch pfeilerartig sein."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bodenstanduhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bodenstanduhr",
+    "prefLabel": {
+      "de": "Bodenstanduhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

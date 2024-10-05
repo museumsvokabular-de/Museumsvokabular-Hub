@@ -13,48 +13,68 @@
   "definition": {
     "de": "Das Regal ist ein vorn offenes Gestell mit mehreren Böden. Es kann stehen oder hängen und ist nach mindestens einer Seite offen.Konstruktiv sind folgende Haupttypen zu unterscheiden:1) Pfostenregal2) Seitenteil- bzw. Steckregal3) KragarmregalRegale, die - besonders im Klassizismus und im Biedermeier - für reine Repräsentationszwecke gebaut wurden, sind unter den Bezeichnungen \"Servante\" oder \"Desserte\" bekannt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000814",
+      "prefLabel": {
+        "de": "Drehregal"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000815",
+      "prefLabel": {
+        "de": "Eckregal"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000816",
+      "prefLabel": {
+        "de": "Etagère"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000817",
+      "prefLabel": {
+        "de": "Flaschenregal"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000820",
+      "prefLabel": {
+        "de": "Raumteiler"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000822",
+      "prefLabel": {
+        "de": "Servierwagen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000823",
+      "prefLabel": {
+        "de": "Setzkasten"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000825",
+      "prefLabel": {
+        "de": "Tellerbord"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000814"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000815"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000816"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000817"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000820"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000822"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000823"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000825"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+    "prefLabel": {
+      "de": "Gestell"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

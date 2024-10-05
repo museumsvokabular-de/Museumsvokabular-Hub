@@ -17,27 +17,26 @@
   "definition": {
     "de": "Das Bord ist ein an der Wand zu befestigendes Brett zur Ablage von Gegenständen, das mit einer Stützkonstruktion versehen ist."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002285",
+      "prefLabel": {
+        "de": "Topfbrett"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002285"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+    "prefLabel": {
+      "de": "Gestell"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

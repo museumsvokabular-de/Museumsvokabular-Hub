@@ -4,18 +4,30 @@
   "prefLabel": {
     "de": "Textilien"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zeugdrucke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zeugdrucke",
+      "prefLabel": {
+        "de": "Zeugdrucke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gewebe_-_Stoffe_-_Tücher"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gewebe_-_Stoffe_-_Tücher",
+      "prefLabel": {
+        "de": "Gewebe - Stoffe - Tücher"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Textilien_-_Haustextilien"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Naturfaser",
+      "prefLabel": {
+        "de": "Naturfaser"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Naturfaser"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Textilien_-_Haustextilien",
+      "prefLabel": {
+        "de": "Textilien - Haustextilien"
+      }
     }
   ],
   "inScheme": [

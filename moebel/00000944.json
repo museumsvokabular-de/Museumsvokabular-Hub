@@ -14,22 +14,18 @@
   "definition": {
     "de": "Die Schenkschive ist ein mindestens dreigeschossiger Schrank, dessen Mittelteil als Klapptür zu öffnen ist. Die namengebende Platte (Schive = Scheibe) diente zum Anrichten (Schenken) der Speisen und Getränke."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000883"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000883",
+    "prefLabel": {
+      "de": "Schrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

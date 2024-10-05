@@ -13,22 +13,18 @@
   "definition": {
     "de": "Eine vom Mittelalter bis ins Barock hinein verwendete Öllampe, deren fallender Ölpegel an einer Skala auf dem gläsernen Ölbehälter die Zeit anzeigen konnte."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feueruhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feueruhr",
+    "prefLabel": {
+      "de": "Feueruhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

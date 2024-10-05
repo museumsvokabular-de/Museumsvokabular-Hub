@@ -4,9 +4,12 @@
   "prefLabel": {
     "de": "Motoren"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Motor"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Motor",
+      "prefLabel": {
+        "de": "Motor"
+      }
     }
   ],
   "inScheme": [

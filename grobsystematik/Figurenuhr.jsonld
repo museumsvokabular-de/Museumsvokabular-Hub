@@ -12,33 +12,38 @@
   "definition": {
     "de": "1) Spätrenaissance, Gegenreformation: Zentrum der Herstellung war Augsburg. Vor allem wurden religiöse Motive dargestellt (Christus am Kreuz, Mutter Gottes mit Kind). Es gab aber auch solche mit Tier-, Krieger- und Trachtentypen.+2) Spätes Rokoko und Klassizismus: Entwicklung geht von Frankreich aus. Bronze-, Marmor- und Porzellanskulpturen wurden mit Uhren kombiniert.+3) Empire und folgendes 19. Jahrhundert: Streng aufgebaute Bronze -Marmorkombinationen mit Denkmalcharakter.+Im Unterschied zu Automaten, die - in welcher Gestalt auch immer - durch ein Federwerk bewegt die Illusion der Lebendigkeit vorspiegeln, besitzen die Figurenuhren zusätzlich zu ihrer szenischen Darstellung noch ein Uhrwerk für die Angabe der Zeit."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stutzuhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Automatenuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Automatenuhr",
+      "prefLabel": {
+        "de": "Automatenuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kruzifixuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Phantasieform-Uhr",
+      "prefLabel": {
+        "de": "Phantasieform-Uhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Phantasieform-Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kruzifixuhr",
+      "prefLabel": {
+        "de": "Kruzifixuhr"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stutzuhr",
+    "prefLabel": {
+      "de": "Stutzuhr"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

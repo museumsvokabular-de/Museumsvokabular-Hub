@@ -7,22 +7,18 @@
   "definition": {
     "de": "Beim Aufsatzbett ist im Gegensatz zum Fußteil das Kopfteil deutlich erhöht durch einen stilistisch eigenständigen Aufsatz. Im Aufsatz kann eine kleine Verwahrlade eingebaut sein."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

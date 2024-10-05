@@ -12,45 +12,62 @@
       "Kloppetuig"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelger�t_-_Schleifger�t_-_Wetzger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Amboß_mit_Hammer_(Dengelgerät)",
+      "prefLabel": {
+        "de": "Amboß mit Hammer (Dengelgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dengelamboß",
+      "prefLabel": {
+        "de": "Dengelamboß"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dengelamboß_mit_Querstrebe",
+      "prefLabel": {
+        "de": "Dengelamboß mit Querstrebe"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dengelamboßeisen",
+      "prefLabel": {
+        "de": "Dengelamboßeisen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dengelhammer",
+      "prefLabel": {
+        "de": "Dengelhammer"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenhammer",
+      "prefLabel": {
+        "de": "Sensenhammer"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenstreichholz",
+      "prefLabel": {
+        "de": "Sensenstreichholz"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ambo�_mit_Hammer_(Dengelger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelambo�"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelambo�_mit_Querstrebe"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelambo�eisen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelhammer"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenhammer"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenstreichholz"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dengelgerät_-_Schleifgerät_-_Wetzgerät",
+    "prefLabel": {
+      "de": "Dengelgerät - Schleifgerät - Wetzgerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

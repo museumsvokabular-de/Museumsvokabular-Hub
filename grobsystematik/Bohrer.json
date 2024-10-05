@@ -4,140 +4,264 @@
   "prefLabel": {
     "de": "Bohrer"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausreiber",
+      "prefLabel": {
+        "de": "Ausreiber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsgerät_allgemein"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausreiber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausreiber,_flachkonisch",
+      "prefLabel": {
+        "de": "Ausreiber, flachkonisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausreiber,_flachkonisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausreiber,_lang",
+      "prefLabel": {
+        "de": "Ausreiber, lang"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausreiber,_lang"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausreiber,_spitzkonisch",
+      "prefLabel": {
+        "de": "Ausreiber, spitzkonisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausreiber,_spitzkonisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Balkenholzbohrer",
+      "prefLabel": {
+        "de": "Balkenholzbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Balkenholzbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ballbohrer",
+      "prefLabel": {
+        "de": "Ballbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ballbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bohrer,_gedrehter",
+      "prefLabel": {
+        "de": "Bohrer, gedrehter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrer,_gedrehter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brunnbohrer",
+      "prefLabel": {
+        "de": "Brunnbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrwinde"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brustleier",
+      "prefLabel": {
+        "de": "Brustleier"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brunnbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Büchsenbohrer",
+      "prefLabel": {
+        "de": "Büchsenbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brustleier"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Drillbohrer",
+      "prefLabel": {
+        "de": "Drillbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Büchsenbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gewindebohrer",
+      "prefLabel": {
+        "de": "Gewindebohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Drillbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handbohrer",
+      "prefLabel": {
+        "de": "Handbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Bohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handbohrer_mit_Griff",
+      "prefLabel": {
+        "de": "Handbohrer mit Griff"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gewindebohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handbohrmaschine,_elektrisch",
+      "prefLabel": {
+        "de": "Handbohrmaschine, elektrisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handspiralbohrer",
+      "prefLabel": {
+        "de": "Handspiralbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handbohrer_mit_Griff"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handtaufelbohrer",
+      "prefLabel": {
+        "de": "Handtaufelbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handspiralbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzbohrer",
+      "prefLabel": {
+        "de": "Holzbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handtaufelbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Leierbohrer",
+      "prefLabel": {
+        "de": "Leierbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Löffelbohrer",
+      "prefLabel": {
+        "de": "Löffelbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Leierbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nagelbohrer_mit_Heft",
+      "prefLabel": {
+        "de": "Nagelbohrer mit Heft"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Löffelbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Radbohrer",
+      "prefLabel": {
+        "de": "Radbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nagelbohrer_mit_Heft"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Röhrenbohrer",
+      "prefLabel": {
+        "de": "Röhrenbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Radbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlangenbohrer",
+      "prefLabel": {
+        "de": "Schlangenbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Röhrenbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schneckenbohrer",
+      "prefLabel": {
+        "de": "Schneckenbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlangenbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schneideisen",
+      "prefLabel": {
+        "de": "Schneideisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneckenbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schraubbohrer",
+      "prefLabel": {
+        "de": "Schraubbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneideisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spindelbohrer",
+      "prefLabel": {
+        "de": "Spindelbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spiralbohrer",
+      "prefLabel": {
+        "de": "Spiralbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spindelbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sprenglochbohrer",
+      "prefLabel": {
+        "de": "Sprenglochbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spiralbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spundbohrer",
+      "prefLabel": {
+        "de": "Spundbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sprenglochbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spundheber",
+      "prefLabel": {
+        "de": "Spundheber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spundbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spundheber_mit_Stellschraube",
+      "prefLabel": {
+        "de": "Spundheber mit Stellschraube"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spundheber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spundlochbohrer",
+      "prefLabel": {
+        "de": "Spundlochbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spundheber_mit_Stellschraube"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Säulenbohrmaschine",
+      "prefLabel": {
+        "de": "Säulenbohrmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spundlochbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zapfenbohrer",
+      "prefLabel": {
+        "de": "Zapfenbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Säulenbohrmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zentrumbohrer",
+      "prefLabel": {
+        "de": "Zentrumbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zapfenbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zentrumbohrer,_amerikanisch",
+      "prefLabel": {
+        "de": "Zentrumbohrer, amerikanisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zentrumbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zentrumbohrer,_verstellbar",
+      "prefLabel": {
+        "de": "Zentrumbohrer, verstellbar"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zentrumbohrer,_amerikanisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zentrumbohrer_mit_runden_Stiel",
+      "prefLabel": {
+        "de": "Zentrumbohrer mit runden Stiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zentrumbohrer,_verstellbar"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zweihandbohrer",
+      "prefLabel": {
+        "de": "Zweihandbohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zentrumbohrer_mit_runden_Stiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bohrwinde",
+      "prefLabel": {
+        "de": "Bohrwinde"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zweihandbohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Bohrer",
+      "prefLabel": {
+        "de": "Feuerstein-Bohrer"
+      }
     }
   ],
   "inScheme": [
@@ -146,11 +270,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

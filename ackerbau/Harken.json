@@ -4,60 +4,92 @@
   "prefLabel": {
     "de": "Harken"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bodenbearbeitungsger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Ernteharke",
+      "prefLabel": {
+        "de": "Ernteharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Ernteharke_mit_Holzzinken_und_-stiel",
+      "prefLabel": {
+        "de": "Ernteharke mit Holzzinken und -stiel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gartenharke",
+      "prefLabel": {
+        "de": "Gartenharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Harke",
+      "prefLabel": {
+        "de": "Harke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Heuharke",
+      "prefLabel": {
+        "de": "Heuharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Kränzelharke",
+      "prefLabel": {
+        "de": "Kränzelharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Rechen",
+      "prefLabel": {
+        "de": "Rechen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schleppharke",
+      "prefLabel": {
+        "de": "Schleppharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Tiefhacke",
+      "prefLabel": {
+        "de": "Tiefhacke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wellenharke",
+      "prefLabel": {
+        "de": "Wellenharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wiesenharke",
+      "prefLabel": {
+        "de": "Wiesenharke"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Zugharke",
+      "prefLabel": {
+        "de": "Zugharke"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ernteharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ernteharke_mit_Holzzinken_und_-stiel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gartenharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Harke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heuharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kr�nzelharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rechen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schleppharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tiefhacke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wellenharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wiesenharke"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zugharke"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bodenbearbeitungsgerät",
+    "prefLabel": {
+      "de": "Bodenbearbeitungsgerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

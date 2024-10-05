@@ -7,22 +7,18 @@
   "definition": {
     "de": "Stricken ist das Verschlingen eines Fadens durch ineinander greifende Maschen mittels Stricknadeln. Das Stricken von Spitzen wird \"Kunststricken\" genannt. Es bedient sich vor allem der Methoden des Umschlagens, des Verschränkens und der Kreuzung von Maschen. Der Anteil der gestrickten Spitzen ist gering, eine gewerbsmäßige Herstellung hat sich kaum herausgebildet.LIT.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S. 89f."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000080"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000080",
+    "prefLabel": {
+      "de": "Handgearbeitete Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

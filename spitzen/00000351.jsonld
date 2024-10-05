@@ -10,30 +10,32 @@
   "example": {
     "de": "Weißstickerei"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000112"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000352"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000352",
+      "prefLabel": {
+        "de": "Lochstickerei mit Stoff-Figuren"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000353"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000353",
+      "prefLabel": {
+        "de": "Madeira-Stickerei"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000112",
+    "prefLabel": {
+      "de": "Durchbrucharbeiten"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

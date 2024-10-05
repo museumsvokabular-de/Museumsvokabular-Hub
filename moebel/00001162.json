@@ -16,22 +16,18 @@
   "definition": {
     "de": "Der Stellschirm ist einteilig. Licht- und Ofenschirme, die in der Regel aus einem Rahmengestell auf gespreizten Füßen und einer häufig textilen Schutzfläche bestehen, sind zierlicher als Kaminschirme."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001161"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001161",
+    "prefLabel": {
+      "de": "Trennwand, bewegliche"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

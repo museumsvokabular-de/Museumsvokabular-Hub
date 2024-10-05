@@ -4,21 +4,36 @@
   "prefLabel": {
     "de": "Milchwirtschaft"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Milchgewinnung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Butterherstellung",
+      "prefLabel": {
+        "de": "Butterherstellung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Milchverarbeitung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Milchverarbeitung",
+      "prefLabel": {
+        "de": "Milchverarbeitung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Butterherstellung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Käseherstellung",
+      "prefLabel": {
+        "de": "Käseherstellung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Käseherstellung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Milchaufbewahrung",
+      "prefLabel": {
+        "de": "Milchaufbewahrung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Milchaufbewahrung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Milchgewinnung",
+      "prefLabel": {
+        "de": "Milchgewinnung"
+      }
     }
   ],
   "inScheme": [

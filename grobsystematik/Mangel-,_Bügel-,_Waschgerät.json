@@ -4,201 +4,402 @@
   "prefLabel": {
     "de": "Mangel-, Bügel-, Waschgerät"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bleichlöffel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mangel",
+      "prefLabel": {
+        "de": "Mangel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bolzenbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bleichlöffel",
+      "prefLabel": {
+        "de": "Bleichlöffel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bolzenbügelgerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bolzenbügeleisen",
+      "prefLabel": {
+        "de": "Bolzenbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brett_mit_Handgriff"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bolzenbügelgerät",
+      "prefLabel": {
+        "de": "Bolzenbügelgerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brett_mit_Handgriff",
+      "prefLabel": {
+        "de": "Brett mit Handgriff"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen,_elektrisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen",
+      "prefLabel": {
+        "de": "Bügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(Bolzeneisen)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen,_elektrisch",
+      "prefLabel": {
+        "de": "Bügeleisen, elektrisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(Puppenhaus)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen_(Bolzeneisen)",
+      "prefLabel": {
+        "de": "Bügeleisen (Bolzeneisen)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(Setzeisen)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen_(Setzeisen)",
+      "prefLabel": {
+        "de": "Bügeleisen (Setzeisen)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_(mit_Feuerbolzen)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen_(mit_Feuerbolzen)",
+      "prefLabel": {
+        "de": "Bügeleisen (mit Feuerbolzen)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_für_Holzkohle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen_für_Holzkohle",
+      "prefLabel": {
+        "de": "Bügeleisen für Holzkohle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisen_mit_Feuerbolzen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen_mit_Feuerbolzen",
+      "prefLabel": {
+        "de": "Bügeleisen mit Feuerbolzen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisenbolzen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisenbolzen",
+      "prefLabel": {
+        "de": "Bügeleisenbolzen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleiseneinsatz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleiseneinsatz",
+      "prefLabel": {
+        "de": "Bügeleiseneinsatz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisenofen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisenofen",
+      "prefLabel": {
+        "de": "Bügeleisenofen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bügeleisenuntersatz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisenuntersatz",
+      "prefLabel": {
+        "de": "Bügeleisenuntersatz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dampfbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dampfbügeleisen",
+      "prefLabel": {
+        "de": "Dampfbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elektrobügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Elektrobügeleisen",
+      "prefLabel": {
+        "de": "Elektrobügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glättholz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glättholz",
+      "prefLabel": {
+        "de": "Glättholz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Herdbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Herdbügeleisen",
+      "prefLabel": {
+        "de": "Herdbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzkohlebügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzkohlebügeleisen",
+      "prefLabel": {
+        "de": "Holzkohlebügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzkohlen-Bügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzkohlen-Bügeleisen",
+      "prefLabel": {
+        "de": "Holzkohlen-Bügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kaltmangel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kaltmangel",
+      "prefLabel": {
+        "de": "Kaltmangel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kleinbügeleisen",
+      "prefLabel": {
+        "de": "Kleinbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kleinbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kohlebügeleisen",
+      "prefLabel": {
+        "de": "Kohlebügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlebügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mangelbrett",
+      "prefLabel": {
+        "de": "Mangelbrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mangelbrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mangelrolle",
+      "prefLabel": {
+        "de": "Mangelrolle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mangelrolle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Manschettenbügeleisen",
+      "prefLabel": {
+        "de": "Manschettenbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Manschettenbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Messing-Bügeleisen",
+      "prefLabel": {
+        "de": "Messing-Bügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messing-Bügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ochsenzunge_(Bolzenbügeleisen)",
+      "prefLabel": {
+        "de": "Ochsenzunge (Bolzenbügeleisen)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ochsenzunge_(Bolzenbügeleisen)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Plättbrett",
+      "prefLabel": {
+        "de": "Plättbrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plättbrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Plätteisen",
+      "prefLabel": {
+        "de": "Plätteisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plätteisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Plätter",
+      "prefLabel": {
+        "de": "Plätter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plätter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reisebügeleisen",
+      "prefLabel": {
+        "de": "Reisebügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reisebügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rolltuch",
+      "prefLabel": {
+        "de": "Rolltuch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rolltuch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rolltuch_(Wäsche_mangeln)",
+      "prefLabel": {
+        "de": "Rolltuch (Wäsche mangeln)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rolltuch_(Wäsche_mangeln)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schneiderbügeleisen",
+      "prefLabel": {
+        "de": "Schneiderbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneiderbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schneidereisen",
+      "prefLabel": {
+        "de": "Schneidereisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidereisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Setzbügeleisen",
+      "prefLabel": {
+        "de": "Setzbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Setzbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tischmangel",
+      "prefLabel": {
+        "de": "Tischmangel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischmangel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tischwäschemangel",
+      "prefLabel": {
+        "de": "Tischwäschemangel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischwäschemangel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschbottich",
+      "prefLabel": {
+        "de": "Waschbottich"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschbottich"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschbrett",
+      "prefLabel": {
+        "de": "Waschbrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschbrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschholz",
+      "prefLabel": {
+        "de": "Waschholz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschholz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschkübel",
+      "prefLabel": {
+        "de": "Waschkübel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschkübel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschtrog",
+      "prefLabel": {
+        "de": "Waschtrog"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschzuber",
+      "prefLabel": {
+        "de": "Waschzuber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschtrog"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschebrett",
+      "prefLabel": {
+        "de": "Wäschebrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschzuber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschehalter",
+      "prefLabel": {
+        "de": "Wäschehalter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschebrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäscheholz",
+      "prefLabel": {
+        "de": "Wäscheholz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschehalter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäscheklopfer",
+      "prefLabel": {
+        "de": "Wäscheklopfer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheholz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäscheklöppel",
+      "prefLabel": {
+        "de": "Wäscheklöppel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheklopfer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäscheknüppel",
+      "prefLabel": {
+        "de": "Wäscheknüppel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheklöppel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschekorb",
+      "prefLabel": {
+        "de": "Wäschekorb"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheknüppel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschemangel",
+      "prefLabel": {
+        "de": "Wäschemangel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschekorb"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschepresse",
+      "prefLabel": {
+        "de": "Wäschepresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschemangel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäscheschaukel",
+      "prefLabel": {
+        "de": "Wäscheschaukel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschepresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäscheschleuder",
+      "prefLabel": {
+        "de": "Wäscheschleuder"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheschaukel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschestampfer",
+      "prefLabel": {
+        "de": "Wäschestampfer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäscheschleuder"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschestock",
+      "prefLabel": {
+        "de": "Wäschestock"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschespülmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ärmelbügelbrett",
+      "prefLabel": {
+        "de": "Ärmelbügelbrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschestampfer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bügeleisen_(Puppenhaus)",
+      "prefLabel": {
+        "de": "Bügeleisen (Puppenhaus)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschestock"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderbügeleisen",
+      "prefLabel": {
+        "de": "Kinderbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschewringermaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschmaschine",
+      "prefLabel": {
+        "de": "Waschmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ärmelbügelbrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschespülmaschine",
+      "prefLabel": {
+        "de": "Wäschespülmaschine"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschewringermaschine",
+      "prefLabel": {
+        "de": "Wäschewringermaschine"
+      }
     }
   ],
   "inScheme": [

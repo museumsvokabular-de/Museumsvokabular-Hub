@@ -7,22 +7,18 @@
   "definition": {
     "de": "Bei der Kufentruhe sind seitlich unter dem Kastenboden als Kufen hochkant gestellte Hölzer angebracht, die meist über die Vorderwand hinaus vorstehen. Zwischen den Kufen ist an der Schauseite oft als Verblendung ein Brett montiert."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000969"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000969",
+    "prefLabel": {
+      "de": "Kastentruhe"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

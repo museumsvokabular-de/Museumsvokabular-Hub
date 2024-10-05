@@ -7,22 +7,18 @@
   "definition": {
     "de": "ist norwegisches Durchbruchmuster auf grobflächigem Leinen (Volkskunst-Stickerei). Das Fadengitter entsteht durch Bündeln von Gewebefäden in oftmals unterschiedlicher Anzahl. Zierelemente, wie Pikots oder Nadelspitzen werden in den Durchbruch eingefügt. An den Außenseiten befinden sich meist größere Durchbruchfelder, die stufenweise angeordnet und mit Plattstich umnäht sind.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.364"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000301"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000301",
+    "prefLabel": {
+      "de": "Doppeldurchbrucharbeit"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

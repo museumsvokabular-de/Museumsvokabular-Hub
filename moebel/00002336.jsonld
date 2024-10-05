@@ -12,22 +12,18 @@
   "definition": {
     "de": "Die äußere Hülle des Faltschrankes besteht aus Textil oder Kunststoff. An den Seiten- und zumeist auch den an Unter- und Oberkanten werden durch den Saum oder durch entsprechend eingearbeitete Schlaufen Metallstangen geführt, Ober- und Unterboden sind durch feste Pappen oder dünne Holzplatten geformt. Durch Zusammenstecken oder -schrauben der metallstangen und deren Verbindung mit den Bodenplatten erhält der Schrank Stabilität. Die vordere Seite ist entweder mit Reißverschluss oder Knöpfen zu verschließen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000883"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000883",
+    "prefLabel": {
+      "de": "Schrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

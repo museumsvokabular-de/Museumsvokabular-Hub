@@ -7,22 +7,18 @@
   "definition": {
     "de": "ist eine maschinelle Technik und kommt nur in Kombination mit der Technik \"gestickt, maschinell\" vor.Mit Hilfe von Schneidinstrumenten (Bohrern) wird während des Stickprozesses der Stickboden zerschnitten und die stehengebliebenen Reste umstickt. Dadurch wird der Rand um die Bohrlöcher verfestigt.Beispiel: Bohrspitze (Die Bohrlöcher spielen eine untergeordnete Rolle, d. h. sie bringen die im Stoff verbliebenen Musterelemente zur Geltung.); Stickerei mit Bohreffekten (Die Löcher existieren selbständig und sind musterbildend.).Mit den Techniken \"gestickt, maschinell\" und \"gebohrt\" ist es möglich, klassische handgearbeitete Lochstickereien zu imitieren, wie z.Bsp. Madeira-Stickerei.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.348Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.236"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000001",
+    "prefLabel": {
+      "de": "Technik der Herstellung von Spitzen und Stickereien"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

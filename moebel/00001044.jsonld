@@ -7,27 +7,26 @@
   "definition": {
     "de": "Im Gegensatz zum Stehpult ist der Pultsekretär wesentlich breiter als tief. Die Schreibfläche ist etwa in Tischhöhe angebracht, so dass im Sitzen geschrieben werden kann."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001042"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002421",
+      "prefLabel": {
+        "de": "Partnerpultsekretär"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002421"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001042",
+    "prefLabel": {
+      "de": "Schreibpult"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

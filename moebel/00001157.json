@@ -7,33 +7,38 @@
   "definition": {
     "de": "Wandspiegel sind entweder an eine Wand montiert oder angelehnt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001150"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001158"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001158",
+      "prefLabel": {
+        "de": "Flügelspiegel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001159"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001159",
+      "prefLabel": {
+        "de": "Kugelspiegel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001160"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001160",
+      "prefLabel": {
+        "de": "Pfeilerspiegel"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001150",
+    "prefLabel": {
+      "de": "Spiegel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

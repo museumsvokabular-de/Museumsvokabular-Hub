@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Kulissentisch ist auf ein Mehrfaches - bei einigen Exemplaren bis auf das Achtfache - seiner Tischgröße verlängerbar. Beim Vergrößern werden die sogenannten Kulissen teleskopartig auseinander gezogen. Die dabei entstehenden Lücken werden mit einzelnen Tischplatten ausgefüllt, die in der Regel durch Zapfen verbunden sind."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000864"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000864",
+    "prefLabel": {
+      "de": "Ausziehtisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

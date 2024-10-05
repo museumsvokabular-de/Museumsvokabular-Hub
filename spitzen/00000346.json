@@ -7,22 +7,18 @@
   "definition": {
     "de": "Die Spitze ist benannt nach einer Stadt in der irischen Provinz Munster. Sie ist eine irische Tülldurchzugsarbeit floraler und ornamentaler Art. Die Musterelemente sind oft mit Ziehgründen (Fadenanzugseffekte) gefüllt. Zierstiche aus der Weißstickerei finden Verwendung.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.170Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.30Lenning, Gertrud: Unsterbliche Spitze, Berlin, S.126"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000345"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000345",
+    "prefLabel": {
+      "de": "Handgestickte Tüllspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

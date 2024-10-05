@@ -7,22 +7,18 @@
   "definition": {
     "de": "Auf einer Leinenunterlage werden vorgezeichnete Linien mit dicken Baumwollfaden gestickt, über die dann die Goldfäden in Querrichtung gelegt werden. Zwischen den Baumwollfäden werden die Goldfäden festgestickt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.288f"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000316"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000316",
+    "prefLabel": {
+      "de": "Gold- und Metallstickereien"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

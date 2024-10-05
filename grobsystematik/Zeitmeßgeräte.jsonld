@@ -4,18 +4,30 @@
   "prefLabel": {
     "de": "Zeitmeßgeräte"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Uhr",
+      "prefLabel": {
+        "de": "Uhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elementaruhren"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Uhr:_Einzelteile,_Zubehör",
+      "prefLabel": {
+        "de": "Uhr: Einzelteile, Zubehör"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr:_Einzelteile,_Zubehör"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Räderuhren",
+      "prefLabel": {
+        "de": "Räderuhren"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Räderuhren"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Elementaruhren",
+      "prefLabel": {
+        "de": "Elementaruhren"
+      }
     }
   ],
   "inScheme": [

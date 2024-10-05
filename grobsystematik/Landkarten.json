@@ -9,63 +9,98 @@
       "Karten (Land-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Archivgut_außer_Büchern_usw."
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Deutsche_Eisenbahnkarte",
+      "prefLabel": {
+        "de": "Deutsche Eisenbahnkarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eisenbahnkarte",
+      "prefLabel": {
+        "de": "Eisenbahnkarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Erdkundekarte",
+      "prefLabel": {
+        "de": "Erdkundekarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flurkarten-Kopie",
+      "prefLabel": {
+        "de": "Flurkarten-Kopie"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Geognostische_Übersichtskarte_Westfalen",
+      "prefLabel": {
+        "de": "Geognostische Übersichtskarte Westfalen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Karte_(topographische)",
+      "prefLabel": {
+        "de": "Karte (topographische)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Karte_des_deutschen_Eisenbahnsystems",
+      "prefLabel": {
+        "de": "Karte des deutschen Eisenbahnsystems"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kreiskarte",
+      "prefLabel": {
+        "de": "Kreiskarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Landkarte",
+      "prefLabel": {
+        "de": "Landkarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Panoramakarte",
+      "prefLabel": {
+        "de": "Panoramakarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Profilskizze_(geologisch)",
+      "prefLabel": {
+        "de": "Profilskizze (geologisch)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reliefkarte",
+      "prefLabel": {
+        "de": "Reliefkarte"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schaubildlandkarte",
+      "prefLabel": {
+        "de": "Schaubildlandkarte"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Deutsche_Eisenbahnkarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenbahnkarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Erdkundekarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flurkarten-Kopie"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Geognostische_Übersichtskarte_Westfalen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Karte_(topographische)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Karte_des_deutschen_Eisenbahnsystems"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kreiskarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Landkarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Panoramakarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Profilskizze_(geologisch)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reliefkarte"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schaubildlandkarte"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Archivgut_außer_Büchern_usw.",
+    "prefLabel": {
+      "de": "Archivgut außer Büchern usw."
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

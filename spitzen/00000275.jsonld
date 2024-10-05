@@ -7,22 +7,18 @@
   "definition": {
     "de": "Feinste Form der Brüsseler Nadelspitze. Seit Anfang des 19. Jahrhunderts hergestellt, ab 1862 auch mit erhabenen Formen. Die Ornament- und Pflanzenformen sind mit Ziernetzen gefüllt. Es ist eine feine verspielte Spitze mit Rosen, Sträußchen und Zweigen als beliebteste Motive. Ein typisches Merkmal ist, dass die Spitze keine Pikots aufweist.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 27"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+    "prefLabel": {
+      "de": "Nadelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

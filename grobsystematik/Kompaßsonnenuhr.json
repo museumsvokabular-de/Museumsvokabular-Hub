@@ -12,22 +12,18 @@
   "definition": {
     "de": "Sie ist meist im gedrechselten Holzdöschen untergebracht. Auf der Kompaßrose sind neben den Angaben der Himmelsrichtungen zusätzliche Stundenangaben. In der Mitte befindet sich der Schattenwerfer. Diese Sonnenuhr stellt sich selbst ein."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Horizontalsonnenuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Horizontalsonnenuhr",
+    "prefLabel": {
+      "de": "Horizontalsonnenuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -9,69 +9,110 @@
       "Sägen (Grat-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gefa�te_S�gen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Adernsäge,_verstellbar",
+      "prefLabel": {
+        "de": "Adernsäge, verstellbar"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Baumsäge",
+      "prefLabel": {
+        "de": "Baumsäge"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Baumsäge_zum_Schrauben",
+      "prefLabel": {
+        "de": "Baumsäge zum Schrauben"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Fuchsschwanz_mit_Rücken",
+      "prefLabel": {
+        "de": "Fuchsschwanz mit Rücken"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Fuchsschwanz_ohne_Rücken",
+      "prefLabel": {
+        "de": "Fuchsschwanz ohne Rücken"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gratsäge_mit_Wand",
+      "prefLabel": {
+        "de": "Gratsäge mit Wand"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gratsäge_mit_zwei_Wänden",
+      "prefLabel": {
+        "de": "Gratsäge mit zwei Wänden"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Laubsägebogen",
+      "prefLabel": {
+        "de": "Laubsägebogen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Lochsäge_mit_Griff",
+      "prefLabel": {
+        "de": "Lochsäge mit Griff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Lochsäge_mit_Heft",
+      "prefLabel": {
+        "de": "Lochsäge mit Heft"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Metallbogensäge",
+      "prefLabel": {
+        "de": "Metallbogensäge"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Metallsäge_mit_Eisenbogen",
+      "prefLabel": {
+        "de": "Metallsäge mit Eisenbogen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Metallsäge_mit_Holzfassung",
+      "prefLabel": {
+        "de": "Metallsäge mit Holzfassung"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Nutsäge,_verstellbar",
+      "prefLabel": {
+        "de": "Nutsäge, verstellbar"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Stiftsäge",
+      "prefLabel": {
+        "de": "Stiftsäge"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aderns�ge,_verstellbar"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baums�ge"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baums�ge_zum_Schrauben"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuchsschwanz_mit_R�cken"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuchsschwanz_ohne_R�cken"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grats�ge_mit_Wand"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grats�ge_mit_zwei_W�nden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Laubs�gebogen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochs�ge_mit_Griff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochs�ge_mit_Heft"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metallbogens�ge"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metalls�ge_mit_Eisenbogen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metalls�ge_mit_Holzfassung"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nuts�ge,_verstellbar"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stifts�ge"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gefaßte_Sägen",
+    "prefLabel": {
+      "de": "Gefaßte Sägen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

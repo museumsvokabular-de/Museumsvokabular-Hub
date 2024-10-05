@@ -4,15 +4,24 @@
   "prefLabel": {
     "de": "Archivgut"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Archivgut:_Bücher_usw."
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wappen_-_Siegel",
+      "prefLabel": {
+        "de": "Wappen - Siegel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wappen_-_Siegel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Archivgut:_Bücher_usw.",
+      "prefLabel": {
+        "de": "Archivgut: Bücher usw."
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Archivgut_außer_Büchern_usw."
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Archivgut_außer_Büchern_usw.",
+      "prefLabel": {
+        "de": "Archivgut außer Büchern usw."
+      }
     }
   ],
   "inScheme": [

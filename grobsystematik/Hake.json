@@ -4,26 +4,30 @@
   "prefLabel": {
     "de": "Hake"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bodenbearbeitungsgerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Misthaken",
+      "prefLabel": {
+        "de": "Misthaken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hacken_-_Haken_(hakenförmige_Hacken)"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Misthaken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ringhaken_zum_Bäumewenden",
+      "prefLabel": {
+        "de": "Ringhaken zum Bäumewenden"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haken_zum_Anheben_der_Egge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Räumhaken",
+      "prefLabel": {
+        "de": "Räumhaken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ringhaken_zum_Bäumewenden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Räumhaken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Haken_zum_Anheben_der_Egge",
+      "prefLabel": {
+        "de": "Haken zum Anheben der Egge"
+      }
     }
   ],
   "inScheme": [
@@ -32,11 +36,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

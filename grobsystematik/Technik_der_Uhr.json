@@ -12,24 +12,42 @@
   "definition": {
     "de": "In diesem Abschnitt werden die wichtigsten Indikationen (von der astronomischen bis zur kalendarischen Angabe) und Komplikationen (wie Musik- und Schlagwerke), sowie die wichtigsten Hemmungsarten, sowohl für Groß- wie auch Kleinuhren, vorgestellt. Diese Auflistung erhebt keinen Anspruch auf Vollständigkeit, da es unmöglich wäre alle technischen Komplikationen und jede Hemmungsart aufzuführen."
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sekundenindikation"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sekundenindikation",
+      "prefLabel": {
+        "de": "Sekundenindikation"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kalendarische_Angaben"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kalendarische_Angaben",
+      "prefLabel": {
+        "de": "Kalendarische Angaben"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Musikwerke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Musikwerke",
+      "prefLabel": {
+        "de": "Musikwerke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hemmungen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Astronomische_Indikationen",
+      "prefLabel": {
+        "de": "Astronomische Indikationen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Astronomische_Indikationen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagwerk",
+      "prefLabel": {
+        "de": "Schlagwerk"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hemmungen",
+      "prefLabel": {
+        "de": "Hemmungen"
+      }
     }
   ],
   "inScheme": [

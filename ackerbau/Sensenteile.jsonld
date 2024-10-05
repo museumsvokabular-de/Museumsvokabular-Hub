@@ -4,39 +4,50 @@
   "prefLabel": {
     "de": "Sensenteile"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenstiel",
+      "prefLabel": {
+        "de": "Sensenstiel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Reff",
+      "prefLabel": {
+        "de": "Reff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenbaum",
+      "prefLabel": {
+        "de": "Sensenbaum"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenblatt",
+      "prefLabel": {
+        "de": "Sensenblatt"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenring_mit_Imbusschlüssel",
+      "prefLabel": {
+        "de": "Sensenring mit Imbusschlüssel"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenstiel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenbaum"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenblatt"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenring_mit_Imbusschl�ssel"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensen",
+    "prefLabel": {
+      "de": "Sensen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

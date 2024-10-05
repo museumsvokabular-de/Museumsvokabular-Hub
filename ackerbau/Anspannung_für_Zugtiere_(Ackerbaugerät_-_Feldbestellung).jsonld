@@ -9,39 +9,50 @@
       "Zugtiere (Anspannung für, Ackerbaugerät - Feldbestellung)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ackerbauger�t_-_Feldbestellung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Zuggeschirr_-_Zaumzeug_(Ackerbaugerät_-_Feldbestellung)",
+      "prefLabel": {
+        "de": "Zuggeschirr - Zaumzeug (Ackerbaugerät - Feldbestellung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Anspannungszubehör_für_Zugtiere",
+      "prefLabel": {
+        "de": "Anspannungszubehör für Zugtiere"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Rinderkummet_-_Pferdekummet",
+      "prefLabel": {
+        "de": "Rinderkummet - Pferdekummet"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Riemenzeug_für_Zugtiere",
+      "prefLabel": {
+        "de": "Riemenzeug für Zugtiere"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Joche_für_Zugtiere",
+      "prefLabel": {
+        "de": "Joche für Zugtiere"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zuggeschirr_-_Zaumzeug_(Ackerbauger�t_-_Feldbestellung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anspannungszubeh�r_f�r_Zugtiere"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Joche_f�r_Zugtiere"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Riemenzeug_f�r_Zugtiere"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rinderkummet_-_Pferdekummet"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Ackerbaugerät_-_Feldbestellung",
+    "prefLabel": {
+      "de": "Ackerbaugerät - Feldbestellung"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

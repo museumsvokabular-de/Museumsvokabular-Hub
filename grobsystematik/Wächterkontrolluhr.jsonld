@@ -12,22 +12,18 @@
   "definition": {
     "de": "Große Taschenuhr in derem Inneren sich ein Papierstreifen befindet, der mit dem Zeitwerk gekoppelt ist. Diese Uhr wurde von Mitarbeitern des Wachdiestes benutzt und funktioniert nach dem Stechuhrprinzip."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Taschenuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Taschenuhr",
+    "prefLabel": {
+      "de": "Taschenuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

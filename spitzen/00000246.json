@@ -7,22 +7,18 @@
   "definition": {
     "de": "Formenschlagspitze, hauptsächlich in Seide gearbeitet. Häufiges Motiv ist das Malteser Kreuz, dazu kommen kleine dicke ovale Formenschlagmuster, Abart der Cluny-Spitze. Durch die Weltausstellung 1851 wurde die Spitze sehr populär und auch in weißer Baumwolle als \"Bedfordshire Maltese\" in England imitiert.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 31"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

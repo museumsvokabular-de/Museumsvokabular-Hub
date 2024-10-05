@@ -7,22 +7,18 @@
   "definition": {
     "de": "Sie ist die höchste Form der schattierten Plattstichstickerei. Es wird nach Vorlagen oder natürlichen Vorbildern gearbeitet. Das Ineinanderfügen von Stichen unterschiedlicher Farbe und Größe schattiert die Musterelemente ab. Man sticht von der schon bestickten Seite des Musters in das unbestickte Teil, um eine effektvolle Schattierung zu erzeugen. Als Material nimmt man Seide.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.182Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.192ff"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000309"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000309",
+    "prefLabel": {
+      "de": "Flächenfüllende Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

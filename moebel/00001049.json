@@ -12,30 +12,32 @@
   "definition": {
     "de": "Der Schreibtisch ist ein Tisch mit waagerechter oder schräger Schreibplatte. Er besitzt Ablagen für Schreibgeräte und/oder Schubladen und kann einen Aufsatz haben.Zierliche Schreibtische mit einem niedrigen zurückgesetzten Aufbau werden \"Bonheur du jour\" genannt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001034"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001050"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001050",
+      "prefLabel": {
+        "de": "Bureau plat"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001051"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001051",
+      "prefLabel": {
+        "de": "Piedestalschreibtisch"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001034",
+    "prefLabel": {
+      "de": "Schreibmöbel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

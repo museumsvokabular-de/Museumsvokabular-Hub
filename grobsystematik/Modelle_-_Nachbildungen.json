@@ -9,105 +9,204 @@
       "Nachbildungen - Modelle"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Architekturmodell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Becher_mit_Fuß_(Nachbildung)",
+      "prefLabel": {
+        "de": "Becher mit Fuß (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmiede-Hammerwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronzeabguß",
+      "prefLabel": {
+        "de": "Bronzeabguß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Diptychon-Oberteil_(Replik)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eisenhütte",
+      "prefLabel": {
+        "de": "Eisenhütte"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Becher_mit_Fuß_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fachwerkhausmodell",
+      "prefLabel": {
+        "de": "Fachwerkhausmodell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronzeabguß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fränkischer_Rüsselbecher_(Nachbildung)",
+      "prefLabel": {
+        "de": "Fränkischer Rüsselbecher (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenhütte"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gemmenabdruck",
+      "prefLabel": {
+        "de": "Gemmenabdruck"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fachwerkhausmodell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gipsabdruck",
+      "prefLabel": {
+        "de": "Gipsabdruck"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fränkischer_Rüsselbecher_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gipsabguß",
+      "prefLabel": {
+        "de": "Gipsabguß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gemmenabdruck"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gradierwerk",
+      "prefLabel": {
+        "de": "Gradierwerk"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gewehrattrappe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hammerwerk-Modell",
+      "prefLabel": {
+        "de": "Hammerwerk-Modell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gipsabdruck"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hochaltar_(Rekonstruktion)",
+      "prefLabel": {
+        "de": "Hochaltar (Rekonstruktion)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gipsabguß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzmodell_(Klosteranlage)",
+      "prefLabel": {
+        "de": "Holzmodell (Klosteranlage)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gradierwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Krautstrunk_(Nachbildung)",
+      "prefLabel": {
+        "de": "Krautstrunk (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hammerwerk-Modell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Miniatur-Spinnrad",
+      "prefLabel": {
+        "de": "Miniatur-Spinnrad"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hochaltar_(Rekonstruktion)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Miniatur-Turmwindmühle",
+      "prefLabel": {
+        "de": "Miniatur-Turmwindmühle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzmodell_(Klosteranlage)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Miniaturkessel",
+      "prefLabel": {
+        "de": "Miniaturkessel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Krautstrunk_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Modell",
+      "prefLabel": {
+        "de": "Modell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Miniatur-Spinnrad"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nuppenbecher_(Nachbildung)",
+      "prefLabel": {
+        "de": "Nuppenbecher (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Miniatur-Turmwindmühle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nuppenzylinderglas_(Nachbildung)",
+      "prefLabel": {
+        "de": "Nuppenzylinderglas (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Miniaturkessel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Orangeriemodell",
+      "prefLabel": {
+        "de": "Orangeriemodell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Modell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pappmodell_der_früheren_Pfarrkirche_Westerholt",
+      "prefLabel": {
+        "de": "Pappmodell der früheren Pfarrkirche Westerholt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nuppenbecher_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Paßglas_(Nachbildung)",
+      "prefLabel": {
+        "de": "Paßglas (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nuppenzylinderglas_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Scheuer_(Nachbildung)",
+      "prefLabel": {
+        "de": "Scheuer (Nachbildung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Orangeriemodell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Scheunenmodell",
+      "prefLabel": {
+        "de": "Scheunenmodell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pappmodell_der_früheren_Pfarrkirche_Westerholt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schifferboot",
+      "prefLabel": {
+        "de": "Schifferboot"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Paßglas_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tellurium",
+      "prefLabel": {
+        "de": "Tellurium"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Scheuer_(Nachbildung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ton-Nachbildung",
+      "prefLabel": {
+        "de": "Ton-Nachbildung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Scheunenmodell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Topographie-Modell",
+      "prefLabel": {
+        "de": "Topographie-Modell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schifferboot"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Windmühlenmodell",
+      "prefLabel": {
+        "de": "Windmühlenmodell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tellurium"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Architekturmodell",
+      "prefLabel": {
+        "de": "Architekturmodell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Nachbildung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Diptychon-Oberteil_(Replik)",
+      "prefLabel": {
+        "de": "Diptychon-Oberteil (Replik)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Topographie-Modell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gewehrattrappe",
+      "prefLabel": {
+        "de": "Gewehrattrappe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Windmühlenmodell"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schmiede-Hammerwerk",
+      "prefLabel": {
+        "de": "Schmiede-Hammerwerk"
+      }
     }
   ],
   "inScheme": [

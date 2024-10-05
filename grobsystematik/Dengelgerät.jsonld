@@ -12,38 +12,54 @@
       "Kloppetuig"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelgerät_-_Schleifgerät_-_Wetzgerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Amboß_mit_Hammer_(Dengelgerät)",
+      "prefLabel": {
+        "de": "Amboß mit Hammer (Dengelgerät)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug:_Wortfeld"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelamboß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dengelamboß_mit_Querstrebe",
+      "prefLabel": {
+        "de": "Dengelamboß mit Querstrebe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Amboß_mit_Hammer_(Dengelgerät)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dengelamboßeisen",
+      "prefLabel": {
+        "de": "Dengelamboßeisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelamboß_mit_Querstrebe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dengelbock",
+      "prefLabel": {
+        "de": "Dengelbock"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelamboßeisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dengelhammer",
+      "prefLabel": {
+        "de": "Dengelhammer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelbock"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sensenhammer",
+      "prefLabel": {
+        "de": "Sensenhammer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelhammer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sensenstreichholz",
+      "prefLabel": {
+        "de": "Sensenstreichholz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenhammer"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenstreichholz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dengelamboß",
+      "prefLabel": {
+        "de": "Dengelamboß"
+      }
     }
   ],
   "inScheme": [
@@ -52,11 +68,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Gebräuchlich sind auch die Begriffe \"Webspitze\" und \"Bobinetgewebe\".Als Bobinetspitzen bezeichnet man auf Bobinet-Spitzenmaschinen oder Bobinet-Gardinenmaschinen erzeugte Spitzen, die auf der Grundlage des maschinellen Verflechtens von mindestens 2 Fadensystemen entstehen. Die Technik verfügt über zahlreiche Bindungsarten (Schienen-, Muster- und Jacquardschienengrundbindungen), mit denen sowohl Netzstrukturen als auch Musterformen unterschiedlicher Art und Dichte erzeugt werden können.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.187ff"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000032"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000032",
+    "prefLabel": {
+      "de": "Maschinenspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

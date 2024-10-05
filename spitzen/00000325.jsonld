@@ -7,22 +7,18 @@
   "definition": {
     "de": "Mit Hilfe von Schneidinstrumenten (Bohrern) wird während des Stickprozesses der Stickboden zerschnitten und die stehengebliebenen Reste umstickt. Dadurch wird der Rand um die Bohrlöcher verfestigt. Im Gegensatz zur Stickerei mit Bohreffekten spricht man von Bohrspitze dann, wenn die Bohrlöcher selbst eine untergeordnete Rolle spielen, d. h. daß sie die im Stoff verbliebenen Musterelemente zur Geltung bringen.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.348;Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.236"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000129"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000129",
+    "prefLabel": {
+      "de": "Maschinengestickte Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

@@ -12,33 +12,38 @@
   "definition": {
     "de": "Die Unruh ist gleichzeitig Bestandteil eines elektromagnetischen Antriebssystems, das wiederum von der Unruh selbst durch mechanische Berührungskontakte oder über einen Transistor geschaltet werden kann. Die Stromquellen sind kleine Batterien, die im Uhrengehäuse untergebracht sind."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Armbanduhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Digital-Quarzuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Digital-Quarzuhr",
+      "prefLabel": {
+        "de": "Digital-Quarzuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Quarzuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Quarzuhr",
+      "prefLabel": {
+        "de": "Quarzuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stimmgabelarmbanduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stimmgabelarmbanduhr",
+      "prefLabel": {
+        "de": "Stimmgabelarmbanduhr"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Armbanduhr",
+    "prefLabel": {
+      "de": "Armbanduhr"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

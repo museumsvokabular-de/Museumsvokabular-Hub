@@ -7,36 +7,44 @@
   "definition": {
     "de": "Durchbruch entsteht durch Herstellen von Öffnungen. Die Wirkung des Durchbruches hängt von der Anzahl und Intensität der Öffnungen ab. Der Stickereieffekt entsteht mittels Nadel und Faden durch Bündeln und Umnähen der Fäden bzw. Fadengruppen. Diese bilden Stege. Durch die unterschiedliche Anordnung der Fadengruppen entstehen verschieden Muster und Füllungen, wobei auch spitzenartige Effekte erzielt werden können.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.337-422"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000014"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000290",
+      "prefLabel": {
+        "de": "Ausschneidstickerei"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000300",
+      "prefLabel": {
+        "de": "Fadenauszugsarbeit"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000349",
+      "prefLabel": {
+        "de": "Fadenanzugsarbeit"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000351",
+      "prefLabel": {
+        "de": "Lochstickerei"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000290"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000300"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000349"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000351"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000014",
+    "prefLabel": {
+      "de": "Handgearbeitete Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

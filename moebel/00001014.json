@@ -7,30 +7,32 @@
   "definition": {
     "de": "Die Liege ist ein flaches, einfaches und schmales Liegemöbel. Ihre Liegefläche besteht entweder aus textiler Bespannung oder ist gepolstert ausgeführt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000992"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001015"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001015",
+      "prefLabel": {
+        "de": "Feldbett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002404"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002404",
+      "prefLabel": {
+        "de": "Relaxliege"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000992",
+    "prefLabel": {
+      "de": "Liegemöbel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Diese Spitze setzt sich aus Knüpf- und Nadelarbeit zusammen. Sie entstand aus der Fischernetz-Knüpferei und -Stopferei. Bereits in der Renaissance wurden hervorragende Filetspitzen gearbeitet. Filet ist damit eine der ältesten Spitzenformen und entsteht durch Stopfen oder Sticken auf handgeknüpftem bzw. maschinengeknüpftem Netzgrund. Das regelmäßige geometrische Netz wird überwiegend mit geometrischen Musterelementen bestickt. Die Anzahl der Sticharten und Effekte sind begrenzt. Oft sind die Konturen mit Schnur umrandet. Filet antik entsteht durch die gleichen Techniken, stellt aber Figürliches aller Art dar. Die Musterelemente wirken durch das geometrische Netz unkünstlerisch und geschmacklos.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 25f."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000261"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000261",
+    "prefLabel": {
+      "de": "Kombinierte Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

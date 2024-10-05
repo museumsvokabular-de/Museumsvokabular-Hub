@@ -13,38 +13,54 @@
   "definition": {
     "de": "Sie waren unter den elementaren Zeitmessern am bequemsten zu handhaben, weil man keiner mathematischen Voraussetzung bedurfte. Sie sind seit dem 13./14._Jahrhundert bekannt. Man verband zwei Glaskörper so, daß durch eine enge Öffnung eine genau bestimmte Menge Marmor-, Zinn-, oder Bleisand von einem Glas ins andere rinnen konnte. An der, am Glas angebrachten Skala konnte man die Zeit ablesen."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glasenuhr",
+      "prefLabel": {
+        "de": "Glasenuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elementaruhren"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eieruhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kanzelsanduhr",
+      "prefLabel": {
+        "de": "Kanzelsanduhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glasenuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Loguhr",
+      "prefLabel": {
+        "de": "Loguhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kanzelsanduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pulsuhr",
+      "prefLabel": {
+        "de": "Pulsuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Loguhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reisesanduhr",
+      "prefLabel": {
+        "de": "Reisesanduhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pulsuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Taschensanduhr",
+      "prefLabel": {
+        "de": "Taschensanduhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reisesanduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Viertelstunden-Sanduhr",
+      "prefLabel": {
+        "de": "Viertelstunden-Sanduhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Taschensanduhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Viertelstunden-Sanduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eieruhr",
+      "prefLabel": {
+        "de": "Eieruhr"
+      }
     }
   ],
   "inScheme": [
@@ -53,11 +69,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

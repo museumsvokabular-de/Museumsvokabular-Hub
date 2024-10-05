@@ -4,15 +4,24 @@
   "prefLabel": {
     "de": "Teppiche"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Teppiche:_geknüpft"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Teppiche:_geknüpft",
+      "prefLabel": {
+        "de": "Teppiche: geknüpft"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Teppiche:_nicht_geknüpft"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Teppiche:_nicht_geknüpft",
+      "prefLabel": {
+        "de": "Teppiche: nicht geknüpft"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wandteppich"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wandteppich",
+      "prefLabel": {
+        "de": "Wandteppich"
+      }
     }
   ],
   "inScheme": [

@@ -12,33 +12,38 @@
   "definition": {
     "de": "Die Bettfläche des Auszugbettes ist durch einen ausziehbaren Teil zu vergrößern."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000996"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000996",
+      "prefLabel": {
+        "de": "Schiebebett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000997"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000997",
+      "prefLabel": {
+        "de": "Unterzugbett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002395"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002395",
+      "prefLabel": {
+        "de": "Kommodenbett"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

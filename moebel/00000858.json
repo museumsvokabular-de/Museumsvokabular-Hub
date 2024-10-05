@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Ecktisch ist auf Grund seiner Konstruktion - mit drei oder mehr Beinen, einer dreieckig ausgeformten Rückseite und einer dekorativ gestalteten Vorder- bzw. Schauseite - zur Aufstellung in einer Raumecke vorgesehen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000857"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000857",
+    "prefLabel": {
+      "de": "Wandtisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

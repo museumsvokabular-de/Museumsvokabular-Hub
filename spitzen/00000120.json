@@ -7,22 +7,18 @@
   "definition": {
     "de": "Unter dem Begriff Stickerei faßt man rapportierende Bestickung und rapportlose Stickereien in Weißstickerei oder Buntstickerei ohne kombinierte Effekte und besondere Zusatztechniken zusammen. Sie werden in den verschiedensten Sticharten ausgeführt, der Stickboden kann sowohl gewebt als auch gewirkt sein .* Maschinell hergestellte rapportlose Stickerei auf einnadeligen Kleinstickmaschinen im Einfadensystem (Kurbelstickmaschine) oder Zweifadensystem (Singer-, Adlerstickmaschine).* Maschinell hergestellte Stickerei mit mehrnadligen Rapport-Stickmaschinen im Einfadensystem (Handstickmaschine) und Zweifadensystem (Großstickmaschine, Mehrkopfautomat).Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.102ff"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000116"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000116",
+    "prefLabel": {
+      "de": "Maschinenstickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

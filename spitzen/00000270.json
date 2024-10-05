@@ -7,22 +7,18 @@
   "definition": {
     "de": "Französische Nadelspitze, kleine Gruppe von Spitzen um 1720/1730, deren sechseckiger Maschengrund mit einem zweiten Sechseck mit Zierstichen ausgefüllt ist. Leichte florale Motive."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+    "prefLabel": {
+      "de": "Nadelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

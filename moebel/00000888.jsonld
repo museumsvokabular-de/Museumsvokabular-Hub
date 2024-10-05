@@ -12,22 +12,18 @@
   "definition": {
     "de": "Der Brandschrank besteht aus mehreren getrennten, in sich geschlossenen (querrechteckigen kastenähnlichen) Elementen, mit frontseitigen Türen und seitlichen Handhaben. Im Gegensatz zum mehrgeschossigen Schrank fehlen gliedernde Teile wie Sockel, Zwischenzone und Kranz."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000887"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000887",
+    "prefLabel": {
+      "de": "Aufbauschrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

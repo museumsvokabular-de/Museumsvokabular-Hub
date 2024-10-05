@@ -10,33 +10,38 @@
       "Seussenbaum"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenteile"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenbaum_mit_Griff"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenbaum_mit_Griff",
+      "prefLabel": {
+        "de": "Sensenbaum mit Griff"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenbaum_mit_zwei_Griffen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenbaum_mit_zwei_Griffen",
+      "prefLabel": {
+        "de": "Sensenbaum mit zwei Griffen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenbaum_ohne_Griff"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenbaum_ohne_Griff",
+      "prefLabel": {
+        "de": "Sensenbaum ohne Griff"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenteile",
+    "prefLabel": {
+      "de": "Sensenteile"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

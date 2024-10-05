@@ -12,22 +12,18 @@
   "definition": {
     "de": "Rufschlagwerke sind stets Rechenschlagwerke und schlagen nur auf ein erteiltes Kommando hin die Zeit (entweder durch Drücken eines Knopfes oder Ziehen einer Kordel).+Der große Vorteil dieses Schlagwerkes lag darin, daß man sich auch im Dunkeln, die Zeit ansagen lassen konnte. Es gab zahllose verschiedene Konstruktionen; vom 4/4-Schlag bis zur Minutenangabe."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagwerk"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagwerk",
+    "prefLabel": {
+      "de": "Schlagwerk"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

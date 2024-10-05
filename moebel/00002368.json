@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Schuhkipper ist ein Behältnismöbel, das unterschiedlich hoch sein kann, mit Kippfächern in geringer Tiefe zur platzsparenden Aufbewahrung von Schuhen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000870"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000870",
+    "prefLabel": {
+      "de": "Behältnismöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

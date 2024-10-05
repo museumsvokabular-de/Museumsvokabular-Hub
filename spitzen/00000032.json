@@ -7,36 +7,44 @@
   "definition": {
     "de": "Maschinenspitzen sind Spitzen, die durch das Mechanisieren von Handarbeitstechniken auf Bobinet-, Wirk-, Klöppel- und Stickmaschinen erzeugt werden. Mit Einschränkungen bei Spitzenklöppelmaschine und Häkelgalonmaschine (eine Art der Wirkmaschinen) kann nahezu jedes Ornament und jede Textur gebildet werden."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000127",
+      "prefLabel": {
+        "de": "Maschinengeklöppelte Spitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000130",
+      "prefLabel": {
+        "de": "Bobinetspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000129",
+      "prefLabel": {
+        "de": "Maschinengestickte Spitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000327",
+      "prefLabel": {
+        "de": "Wirkspitze"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000127"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000129"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000130"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000327"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000001",
+    "prefLabel": {
+      "de": "Spitzen/Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

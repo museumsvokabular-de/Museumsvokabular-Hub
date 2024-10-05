@@ -7,30 +7,32 @@
   "definition": {
     "de": "Ausschneidstickerei ist die Kombination von Stickerei und dem Ausschneiden von Teilen des Stickbodens. Die Stiche zum Einfassen der auszuschneidenden Stoffteile sind Schlingstich (überwiegend), Stielstich, Schnurstich, Plattstich oder Kettstich (Tambourierstich). Stege werden über dem Stoff gearbeitet. Das Ausschneiden des Stoffes geschieht nach dem Sticken von der Rückseite her. Die so entstehenden Durchbrüche spielen bei der Musterbildung eine aktive Rolle.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.405ff"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000112"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000291"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000291",
+      "prefLabel": {
+        "de": "Broderie Anglaise"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000292"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000292",
+      "prefLabel": {
+        "de": "Hedebo-Arbeit"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000112",
+    "prefLabel": {
+      "de": "Durchbrucharbeiten"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

@@ -12,30 +12,32 @@
   "definition": {
     "de": "Uhren, die selbsttätig auf mechanische Weise den Ablauf der Zeit ohne zwingenden Zusammenhang mit astronomischen Gegebenheiten zu messen vermögen und hierbei im Gehwerk Zahnräder benützen, werden Räderuhren genannt. Sie werden konsequent in Hauptgruppen und Familien nach der äußeren Erscheinung bzw. nach der Verwendungsart eingeteilt. Nicht empfehlenswert ist die Uhrenbezeichnung nach Verzierungstechniken, wie Lackuhr, Holzuhr, Schmiedeeisenuhr usw."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zeitmeßgeräte"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kleinuhren"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Großuhren",
+      "prefLabel": {
+        "de": "Großuhren"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Großuhren"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kleinuhren",
+      "prefLabel": {
+        "de": "Kleinuhren"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zeitmeßgeräte",
+    "prefLabel": {
+      "de": "Zeitmeßgeräte"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

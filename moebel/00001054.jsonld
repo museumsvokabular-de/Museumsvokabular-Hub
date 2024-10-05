@@ -14,27 +14,26 @@
   "definition": {
     "de": "Der Aufsatzsekretär besteht optisch aus drei Teilen: dem Unterbau, dem Mittelteil mit schräggestellter Schreibplatte und dem Aufsatz."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001053"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001055",
+      "prefLabel": {
+        "de": "Tabernakelsekretär"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001055"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001053",
+    "prefLabel": {
+      "de": "Sekretär"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

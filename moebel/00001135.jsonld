@@ -7,30 +7,32 @@
   "definition": {
     "de": "Der Stuhl hat eine gepolsterte Sitzfläche; auch die Lehne kann gepolstert sein. Das Stuhlgestell ist in der Regel sichtbar. Der Polsterstuhl hat meist eine höhere Sitzfläche als der Sessel. Der Übergang zum Sessel ist fließend."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001136"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001136",
+      "prefLabel": {
+        "de": "Schreib- und Lesestuhl"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002448"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002448",
+      "prefLabel": {
+        "de": "Voyelle"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

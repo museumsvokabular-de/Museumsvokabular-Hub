@@ -7,27 +7,26 @@
   "definition": {
     "de": "Beruht auf der Grundlage von Tülldurchzugsarbeit oder Tüllstickerei. Der Tüll ist ein feines Netz, das früher geklöppelt und 1808 erstmals in der französischen Stadt Tulle maschinell hergestellt wurde. Tülldurchzugsarbeit ist eine dem Tüll angepaßte Sticktechnik. Sie bedeutet das Einflechten des Fadens in das Netz. Beim organischer Tülldurchzug geschieht das Durchziehen des Fadens entlang der Netzfeldreihen des Tülls, also in drei Richtungen. Der anorganische Durchzug folgt in freier Zeichnung dem Ornament. Oft angewandte Mittel der Effektbereicherung sind Applikationen, Ausschneideffekte und Kettstich (gestickt oder tambouriert).Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.165-170Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.279f"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000226"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000346",
+      "prefLabel": {
+        "de": "Limerick"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000346"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000226",
+    "prefLabel": {
+      "de": "Handgestickte Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

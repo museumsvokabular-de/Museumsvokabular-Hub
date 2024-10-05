@@ -4,72 +4,116 @@
   "prefLabel": {
     "de": "Wetzgerät"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dengelger�t_-_Schleifger�t_-_Wetzger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Blechbehältnis_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Blechbehältnis (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Drehschleifstein_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Drehschleifstein (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Feilbank_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Feilbank (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzbüchse_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Holzbüchse (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzköcher_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Holzköcher (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzschachtel_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Holzschachtel (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Kuhhorn_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Kuhhorn (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schmirgelstab_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Schmirgelstab (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensenstreichholz_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Sensenstreichholz (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Streichbrett_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Streichbrett (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Täschchen_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Täschchen (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wetzstahl_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Wetzstahl (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wetzstein,_groß_in_Holzlade_mit_Zinnwasserkasten_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Wetzstein, groß in Holzlade mit Zinnwasserkasten (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wetzstein_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Wetzstein (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wetzstein_mit_Köcher_(Wetzgerät)",
+      "prefLabel": {
+        "de": "Wetzstein mit Köcher (Wetzgerät)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wetzsteinbehälter",
+      "prefLabel": {
+        "de": "Wetzsteinbehälter"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blechbeh�ltnis_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Drehschleifstein_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feilbank_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzb�chse_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzk�cher_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzschachtel_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kuhhorn_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmirgelstab_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensenstreichholz_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichbrett_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/T�schchen_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wetzstahl_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wetzstein,_gro�_in_Holzlade_mit_Zinnwasserkasten_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wetzstein_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wetzstein_mit_K�cher_(Wetzger�t)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wetzsteinbeh�lter"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Dengelgerät_-_Schleifgerät_-_Wetzgerät",
+    "prefLabel": {
+      "de": "Dengelgerät - Schleifgerät - Wetzgerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

@@ -13,27 +13,26 @@
   "definition": {
     "de": "In sehr starker Anlehnung an den gotischen Baustil wurden diese Wanduhren bis in die Mitte des 17. Jahrhunderts in kaum veränderter Form vor allem in Süddeutschland, der Schweiz und Oberitalien gebaut. Es entwickeln sich zwei Bauformen:+1) Prismenbauweise+2) Flachrahmenbauweise"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wanduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Türmeruhr",
+      "prefLabel": {
+        "de": "Türmeruhr"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Türmeruhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wanduhr",
+    "prefLabel": {
+      "de": "Wanduhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

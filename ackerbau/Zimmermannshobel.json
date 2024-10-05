@@ -9,63 +9,98 @@
       "Hobel (Zimmermanns-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel_(Zimmermannswerkzeug)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Doppeleisen",
+      "prefLabel": {
+        "de": "Doppeleisen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Doppelgriffhobel",
+      "prefLabel": {
+        "de": "Doppelgriffhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzhobel,_lang",
+      "prefLabel": {
+        "de": "Falzhobel, lang"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzhobel,_verstellbar_(Zimmermannshobel)",
+      "prefLabel": {
+        "de": "Falzhobel, verstellbar (Zimmermannshobel)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Federnuthobel_mit_Eisensohle",
+      "prefLabel": {
+        "de": "Federnuthobel mit Eisensohle"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Fughobel,_doppelter_mit_Griffen",
+      "prefLabel": {
+        "de": "Fughobel, doppelter mit Griffen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Fughobel,_einfacher_mit_Griffen",
+      "prefLabel": {
+        "de": "Fughobel, einfacher mit Griffen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gesimshobel",
+      "prefLabel": {
+        "de": "Gesimshobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Nuthobel,_verstellbar",
+      "prefLabel": {
+        "de": "Nuthobel, verstellbar"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schindelzieheisen",
+      "prefLabel": {
+        "de": "Schindelzieheisen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schroppdoppelgriffhobel",
+      "prefLabel": {
+        "de": "Schroppdoppelgriffhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Spundhobel,_verstellbar",
+      "prefLabel": {
+        "de": "Spundhobel, verstellbar"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Zwiemandel",
+      "prefLabel": {
+        "de": "Zwiemandel"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppeleisen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Doppelgriffhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzhobel,_lang"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzhobel,_verstellbar_(Zimmermannshobel)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Federnuthobel_mit_Eisensohle"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fughobel,_doppelter_mit_Griffen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fughobel,_einfacher_mit_Griffen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesimshobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nuthobel,_verstellbar"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schindelzieheisen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schroppdoppelgriffhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spundhobel,_verstellbar"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zwiemandel"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hobel_(Zimmermannswerkzeug)",
+    "prefLabel": {
+      "de": "Hobel (Zimmermannswerkzeug)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

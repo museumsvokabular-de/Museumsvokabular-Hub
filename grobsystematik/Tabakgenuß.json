@@ -4,18 +4,30 @@
   "prefLabel": {
     "de": "Tabakgenuß"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tabakverarbeitung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tabakverarbeitung",
+      "prefLabel": {
+        "de": "Tabakverarbeitung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tabakkauen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tabakkauen",
+      "prefLabel": {
+        "de": "Tabakkauen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tabakrauchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tabakschnupfen",
+      "prefLabel": {
+        "de": "Tabakschnupfen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tabakschnupfen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tabakrauchen",
+      "prefLabel": {
+        "de": "Tabakrauchen"
+      }
     }
   ],
   "inScheme": [

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Bei der Knüpfstickerei handelt es sich um Sticharten, bei denen Schlaufen gebildet bzw. Fadenbündel in einfacher und doppelter Auführung eingezogen werden. Die Schlaufen können stehen bleiben oder aufgeschnitten werden. Die Bezeichnung \"Knüpfstiche\" ist irreführend, weil nicht geknüpft sondern gestickt wird. Knüpfstickerei gehört ausschließlich zur Buntstickerei.* Knüpfstiche mit stehenbleibenden Schlaufen: Schlaufenkreuzstich, Velourstich, Smyrnastich, Lockenstich* Knüpfstiche, bei denen die Schlaufen aufgeschnitten werden: Smyrnastich, Perserstich, Plüschstich, Quastenstich* Knüpfstiche, bei denen Fadenbündel eingezogen werden: Malta- oder Büschelstich (Die Fadenbündel selbst bilden das Muster. Sie werden nicht zur Füllung von Figuren oder Flächen benutzt.)Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.237-242"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000014"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000014",
+    "prefLabel": {
+      "de": "Handgearbeitete Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

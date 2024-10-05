@@ -13,22 +13,18 @@
   "definition": {
     "de": "Der Zickzackstuhl hat keine Beine, sondern er besteht aus Brettern, die durch Schwalbenschwanzverbindungen spitz- bzw. rechtwinklig miteinander verzahnt sind."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001112"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001112",
+    "prefLabel": {
+      "de": "Brettstuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

@@ -7,30 +7,32 @@
   "definition": {
     "de": "Das Sticken dient im Gegensatz zum Nähen rein dekorativen Zwecken. Ein Grundstoff wird durch das Sticken verziert. Gearbeitet wird mit Nadel und Faden. Die kleinste Einheit ist der Stich. Wird der Grundstoff oder Teile von ihm nach dem oder während des Stickprozesses entfernt bzw. durchbrochen, wird aus der Stickerei eine Spitze. Die Übergänge können fließend sein."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000030"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000030",
+      "prefLabel": {
+        "de": "gestickt, manuell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000031"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000031",
+      "prefLabel": {
+        "de": "gestickt, maschinell"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000001",
+    "prefLabel": {
+      "de": "Technik der Herstellung von Spitzen und Stickereien"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

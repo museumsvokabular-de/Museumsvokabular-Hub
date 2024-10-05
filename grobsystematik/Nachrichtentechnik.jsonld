@@ -4,27 +4,48 @@
   "prefLabel": {
     "de": "Nachrichtentechnik"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feldtelefon"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feldtelefon",
+      "prefLabel": {
+        "de": "Feldtelefon"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fernschreiber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fernschreiber",
+      "prefLabel": {
+        "de": "Fernschreiber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fernschreiber_(Streifenschreiber)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fernschreiber_(Streifenschreiber)",
+      "prefLabel": {
+        "de": "Fernschreiber (Streifenschreiber)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kasten-Feldtelefon"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kasten-Feldtelefon",
+      "prefLabel": {
+        "de": "Kasten-Feldtelefon"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Telefongerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Telefongerät",
+      "prefLabel": {
+        "de": "Telefongerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischtelefon"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tischtelefon",
+      "prefLabel": {
+        "de": "Tischtelefon"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wandtelefon"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wandtelefon",
+      "prefLabel": {
+        "de": "Wandtelefon"
+      }
     }
   ],
   "inScheme": [

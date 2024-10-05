@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Davenport ist zweigegliedert: Die aufklappbare Schreibfläche bildet das Oberteil zu einem kommodenähnlichen Unterteil. Es ist mit seitlichen Schubladen bzw. Türen und symmetrisch gegenüberliegenden Blindschubladen bzw. -türen versehen und steht häufig auf Rollen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001042"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001042",
+    "prefLabel": {
+      "de": "Schreibpult"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

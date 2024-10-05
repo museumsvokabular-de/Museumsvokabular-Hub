@@ -12,30 +12,32 @@
   "definition": {
     "de": "Ableseskala horizontal; Einstellung nach der N-S-Richtung notwendig; meist mit Kompaß."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sonnenuhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klappsonnenuhr_(Horizontalsonnenuhr)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Klappsonnenuhr_(Horizontalsonnenuhr)",
+      "prefLabel": {
+        "de": "Klappsonnenuhr (Horizontalsonnenuhr)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kompaßsonnenuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kompaßsonnenuhr",
+      "prefLabel": {
+        "de": "Kompaßsonnenuhr"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sonnenuhr",
+    "prefLabel": {
+      "de": "Sonnenuhr"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

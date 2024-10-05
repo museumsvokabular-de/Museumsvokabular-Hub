@@ -12,35 +12,48 @@
   "definition": {
     "de": "Dosen- oder kassettenförmige Uhren, bei denen das Zifferblatt parallel der Standfläche angebracht ist und die ihrer Größe nach für den Gebrauch auf Tischen geeignet waren. Es handelt sich um Federzuguhren, die vom 16. bis zum Beginn des 18. Jahrhunderts sehr beliebt waren.+1) Süddeutsch - Österreichische Entwicklungen mit ebener Oberseite.+2) Französische Richtung mit kuppelförmigen Aufbauten."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Atmos_Uhr",
+      "prefLabel": {
+        "de": "Atmos Uhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stutzuhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reiseuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reiseuhr",
+      "prefLabel": {
+        "de": "Reiseuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Atmos_Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Marinechronometer",
+      "prefLabel": {
+        "de": "Marinechronometer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Marinechronometer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Polygonale_Tischuhr",
+      "prefLabel": {
+        "de": "Polygonale Tischuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Polygonale_Tischuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Quadratische_Tischuhr",
+      "prefLabel": {
+        "de": "Quadratische Tischuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Quadratische_Tischuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rechteckige_Tischuhr",
+      "prefLabel": {
+        "de": "Rechteckige Tischuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rechteckige_Tischuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Runde_Tischuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Runde_Tischuhr",
+      "prefLabel": {
+        "de": "Runde Tischuhr"
+      }
     }
   ],
   "inScheme": [
@@ -49,11 +62,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

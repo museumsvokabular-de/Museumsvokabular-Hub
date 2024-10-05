@@ -4,30 +4,32 @@
   "prefLabel": {
     "de": "Schaufelteile"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schaufeln"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schaufelblatt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schaufelblatt",
+      "prefLabel": {
+        "de": "Schaufelblatt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schaufelstiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schaufelstiel",
+      "prefLabel": {
+        "de": "Schaufelstiel"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schaufeln",
+    "prefLabel": {
+      "de": "Schaufeln"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

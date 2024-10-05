@@ -7,33 +7,38 @@
   "definition": {
     "de": "Das Astrolabium ist eine kreisförmige Scheibe, bei der Vorder- und Rückseite mit genau berechneten astronomischen Angaben und Skalen bedeckt sind. Ein derartiges Gerät ist wohl die vollkommenste Art von Sonnen-, Mond- oder Sternuhr und kann der Lösung vielfältiger astronomischer Probleme dienen, jedoch auch zur Ortsbestimmung und zur Zeitmessung verwendet werden."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elementaruhren"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Safea"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Safea",
+      "prefLabel": {
+        "de": "Safea"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sonnenquadrant"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sonnenquadrant",
+      "prefLabel": {
+        "de": "Sonnenquadrant"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Äquatorium"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Äquatorium",
+      "prefLabel": {
+        "de": "Äquatorium"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Elementaruhren",
+    "prefLabel": {
+      "de": "Elementaruhren"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

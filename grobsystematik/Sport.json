@@ -4,30 +4,54 @@
   "prefLabel": {
     "de": "Sport"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlittengeschirrglocke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlitten",
+      "prefLabel": {
+        "de": "Schlitten"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlitten"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagball",
+      "prefLabel": {
+        "de": "Schlagball"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagball"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagballstock",
+      "prefLabel": {
+        "de": "Schlagballstock"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagballstock"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlitten_(Rodel)",
+      "prefLabel": {
+        "de": "Schlitten (Rodel)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlitten_(Rodel)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schwimmhilfe",
+      "prefLabel": {
+        "de": "Schwimmhilfe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schwimmhilfe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stuhlschlitten",
+      "prefLabel": {
+        "de": "Stuhlschlitten"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stuhlschlitten"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tierknochen-Schlittschuhe",
+      "prefLabel": {
+        "de": "Tierknochen-Schlittschuhe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tierknochen-Schlittschuhe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlittengeschirrglocke",
+      "prefLabel": {
+        "de": "Schlittengeschirrglocke"
+      }
     }
   ],
   "inScheme": [

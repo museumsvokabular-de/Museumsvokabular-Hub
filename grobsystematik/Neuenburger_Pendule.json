@@ -12,22 +12,18 @@
   "definition": {
     "de": "Wurden in der zweiten Hälfte des 18._Jahrhunderts im Kanton Neuenburg in der Schweiz hergestellt. Sie besitzen fast immer ein 3/4-Schlagwerk, oft auch ein 4/4-Schlagwerk. Einige haben Flöten- oder Glockenspielwerk."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pendule"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pendule",
+    "prefLabel": {
+      "de": "Pendule"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

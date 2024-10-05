@@ -12,22 +12,18 @@
   "definition": {
     "de": "Hierbei wird ein Quarz als Schwingungsnormal -_anstatt der Unruh_- eingesetzt; er wird elektrisch über eine elektronische Verstärkung in Schwingung versetzt. Die Schwingungsfrequenz wird derart reduziert, daß diese Methode zur Zeitanzeige mit hervorragenden Gangergebnissen benutzt werden kann.+Die erste Quarzuhr soll 1933/34 von den beiden Physikern Scheibe und Adelsberger gebaut worden sein. 1967 kam die erste Quarzuhr auf den Markt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Armbanduhr,_elektrische"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Armbanduhr,_elektrische",
+    "prefLabel": {
+      "de": "Armbanduhr, elektrische"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Das Sitzkissen ist ein meist zylindrisch geformtes Bodenkissen, das aus Leder, Stoff oder Kunststoff hergestellt sein kann und eine festgestopfte Füllung besitzt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001058"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001058",
+    "prefLabel": {
+      "de": "Sitzmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

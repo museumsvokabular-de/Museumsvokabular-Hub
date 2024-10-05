@@ -7,22 +7,18 @@
   "definition": {
     "de": "Bei dem Drehklapptisch liegen die Klappen nach entsprechender Plattendrehung unmittelbar auf dem Zargenkranz auf, das heißt, das Tischgestell selbst übernimmt die Stützung der Klappen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000838"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000838",
+    "prefLabel": {
+      "de": "Klapptisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

@@ -7,33 +7,38 @@
   "definition": {
     "de": "Hauptsächliche Kontruktionsmerkmale des Schreibpultes sind die schräggestellte Schreibfläche und die Ablagefläche für Schreibutensilien."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001034"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001043"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001043",
+      "prefLabel": {
+        "de": "Davenport"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001044"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001044",
+      "prefLabel": {
+        "de": "Pultsekretär"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001045"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001045",
+      "prefLabel": {
+        "de": "Stehpult"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001034",
+    "prefLabel": {
+      "de": "Schreibmöbel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

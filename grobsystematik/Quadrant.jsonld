@@ -7,20 +7,18 @@
   "definition": {
     "de": "Eine schon im 10._Jahrhundert gebräuchliche Form einer Sonnenuhr in Quadrantform (Viertelkreis). Vervollkommnet wurde dieses System im 15._Jahrhundert. Der Quadrant muß in eine lotrechte Lage gebracht und dann so geneigt werden, daß Sonnenstrahlen durch die beiden Öhre fallen."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maße_-_Meßgeräte"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gevierte_Quadrant",
+      "prefLabel": {
+        "de": "Gevierte Quadrant"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sonnenuhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gevierte_Quadrant"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhrentäfelchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Uhrentäfelchen",
+      "prefLabel": {
+        "de": "Uhrentäfelchen"
+      }
     }
   ],
   "inScheme": [
@@ -29,11 +27,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

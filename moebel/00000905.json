@@ -13,27 +13,26 @@
   "definition": {
     "de": "Der Dressoir ist ein hochrechteckiger zweigegliederter Schrank. Der untere Teil ist stets offen."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000883"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000906",
+      "prefLabel": {
+        "de": "Stollenschrank"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000906"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000883",
+    "prefLabel": {
+      "de": "Schrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

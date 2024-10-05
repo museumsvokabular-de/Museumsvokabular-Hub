@@ -7,22 +7,18 @@
   "definition": {
     "de": "Die Feldwiege hängt an einem mobilen Gestell. Die Aufhängevorrichtung besteht entweder aus drei pyramidal zusammengestellten Stangen oder aus zwei in die Erde gestoßenen Stangen mit Gabeln am oberen Ende, über die eine Querstange gelegt wird."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001018"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001018",
+    "prefLabel": {
+      "de": "Hängewiege"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

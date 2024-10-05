@@ -9,24 +9,42 @@
       "Verarbeitung (Textil-)"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Weben"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Weben",
+      "prefLabel": {
+        "de": "Weben"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spinnen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spinnen",
+      "prefLabel": {
+        "de": "Spinnen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haspeln_-_Spulen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Buiken",
+      "prefLabel": {
+        "de": "Buiken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wollkratze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Haspeln_-_Spulen",
+      "prefLabel": {
+        "de": "Haspeln - Spulen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buiken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kamm_für_Wolle",
+      "prefLabel": {
+        "de": "Kamm für Wolle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kamm_für_Wolle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wollkratze",
+      "prefLabel": {
+        "de": "Wollkratze"
+      }
     }
   ],
   "inScheme": [

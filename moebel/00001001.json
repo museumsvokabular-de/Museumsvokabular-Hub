@@ -7,22 +7,18 @@
   "definition": {
     "de": "Mindestens eine Seite des Gitterbettes wird aus einem großflächigen Gitter gebildet. Von der Konstruktion her sind Gitterbetten zumeist Pfostenbetten. Es gibt jedoch viele Ausnahmen, darunter die zusammenfaltbaren Reisekinderbetten."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

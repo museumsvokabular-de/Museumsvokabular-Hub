@@ -7,27 +7,26 @@
   "definition": {
     "de": "Durch starken Fadenanzug, der die Gewebefäden verschiebt, entstehen die eigentlichen A-jour-Arbeiten. Der zu erzielende Durchbruch entsteht direkt beim Sticken. Die Öffnungen werden nicht umrandet, da der Stickboden nicht verletzt wird. Anzugeffekte treten als Linien, Flächen und selbständige Musterelemente auf und werden durch verschiedene Sticharten gebildet.Synonym: A-jour-ArbeitLit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.338-350; Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.227"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000112"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000350",
+      "prefLabel": {
+        "de": "Appenzeller Stickerei"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000350"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000112",
+    "prefLabel": {
+      "de": "Durchbrucharbeiten"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

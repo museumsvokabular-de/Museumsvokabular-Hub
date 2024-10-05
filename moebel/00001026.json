@@ -7,33 +7,38 @@
   "definition": {
     "de": "Der Wiegenkorpus ist auf quer oder längs schaukelnden Kufen montiert."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001017"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001027"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001027",
+      "prefLabel": {
+        "de": "Doppelschwinger"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001028"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001028",
+      "prefLabel": {
+        "de": "Längsschwinger"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001029"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001029",
+      "prefLabel": {
+        "de": "Querschwinger"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001017",
+    "prefLabel": {
+      "de": "Wiege"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

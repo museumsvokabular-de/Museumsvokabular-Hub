@@ -13,27 +13,26 @@
   "definition": {
     "de": "Der Kastentisch besteht aus Gestell, Kasten und Tischplatte. Meistens ist der Kasten fest mit dem Untergestell verbunden. Die Tischplatte ist beweglich: Sie kann verschoben oder aufgeklappt werden. Bisweilen sind unter dem Kasten noch zusätzliche Schubladen angebracht."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000831"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000837",
+      "prefLabel": {
+        "de": "Tischbett"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000837"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000831",
+    "prefLabel": {
+      "de": "Tisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

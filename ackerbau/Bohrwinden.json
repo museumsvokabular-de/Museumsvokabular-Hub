@@ -9,39 +9,50 @@
       "Winden (Bohr-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischlerwerkzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bohrhülse",
+      "prefLabel": {
+        "de": "Bohrhülse"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bohrwinde,_englisch_mit_24_Einsätzen",
+      "prefLabel": {
+        "de": "Bohrwinde, englisch mit 24 Einsätzen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bohrwinde_mit_Feder_und_Bohrhülse",
+      "prefLabel": {
+        "de": "Bohrwinde mit Feder und Bohrhülse"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bohrwinde_mit_Gewinde",
+      "prefLabel": {
+        "de": "Bohrwinde mit Gewinde"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Eisenbohrwinde_mit_Einsatz",
+      "prefLabel": {
+        "de": "Eisenbohrwinde mit Einsatz"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrh�lse"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrwinde,_englisch_mit_24_Eins�tzen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrwinde_mit_Feder_und_Bohrh�lse"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrwinde_mit_Gewinde"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenbohrwinde_mit_Einsatz"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Tischlerwerkzeug",
+    "prefLabel": {
+      "de": "Tischlerwerkzeug"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

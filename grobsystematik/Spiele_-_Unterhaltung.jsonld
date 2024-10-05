@@ -9,180 +9,354 @@
       "Unterhaltung - Spiele"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielzeug",
+      "prefLabel": {
+        "de": "Spielzeug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Puppen_-_Puppensachen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Puppen_-_Puppensachen",
+      "prefLabel": {
+        "de": "Puppen - Puppensachen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bilderbuch_für_Kleinkinder"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Domino",
+      "prefLabel": {
+        "de": "Domino"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderspielbuch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flöte_(Spielzeug)",
+      "prefLabel": {
+        "de": "Flöte (Spielzeug)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielkarte"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gesellschaft-Jagdspiel",
+      "prefLabel": {
+        "de": "Gesellschaft-Jagdspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderbügeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gesellschafts-Pfänderspiel",
+      "prefLabel": {
+        "de": "Gesellschafts-Pfänderspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderschützenfestplakette"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gesellschaftsspiel",
+      "prefLabel": {
+        "de": "Gesellschaftsspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderschützenkette"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glas-Spielkarte",
+      "prefLabel": {
+        "de": "Glas-Spielkarte"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderfriseurstuhl"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glas-Spielkugel",
+      "prefLabel": {
+        "de": "Glas-Spielkugel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielstuhl"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glaskugel",
+      "prefLabel": {
+        "de": "Glaskugel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Domino"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handwerker-Quartett",
+      "prefLabel": {
+        "de": "Handwerker-Quartett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flöte_(Spielzeug)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Helter",
+      "prefLabel": {
+        "de": "Helter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesellschaft-Jagdspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hilpe",
+      "prefLabel": {
+        "de": "Hilpe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesellschafts-Pfänderspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hopplaspiel",
+      "prefLabel": {
+        "de": "Hopplaspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gesellschaftsspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Jahrmarktsglücksrad",
+      "prefLabel": {
+        "de": "Jahrmarktsglücksrad"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glas-Spielkarte"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kartenspiel",
+      "prefLabel": {
+        "de": "Kartenspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glas-Spielkugel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinder-Theater",
+      "prefLabel": {
+        "de": "Kinder-Theater"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glaskugel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderkarren",
+      "prefLabel": {
+        "de": "Kinderkarren"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handwerker-Quartett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderspiel",
+      "prefLabel": {
+        "de": "Kinderspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Helter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderspieldarstellung",
+      "prefLabel": {
+        "de": "Kinderspieldarstellung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hilpe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Knochen-Spielwürfel",
+      "prefLabel": {
+        "de": "Knochen-Spielwürfel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hopplaspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Knöchelspiel",
+      "prefLabel": {
+        "de": "Knöchelspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Jahrmarktsglücksrad"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lotto-Unterhaltungsspiel",
+      "prefLabel": {
+        "de": "Lotto-Unterhaltungsspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kartenspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ludospiel",
+      "prefLabel": {
+        "de": "Ludospiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinder-Theater"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Läufer-Schachfigur",
+      "prefLabel": {
+        "de": "Läufer-Schachfigur"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderkarren"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Märchenquartett",
+      "prefLabel": {
+        "de": "Märchenquartett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Patience-Spielkartensatz",
+      "prefLabel": {
+        "de": "Patience-Spielkartensatz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderspieldarstellung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Perlmutt-Whistspielmarken",
+      "prefLabel": {
+        "de": "Perlmutt-Whistspielmarken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Knochen-Spielwürfel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Peterle_rat!",
+      "prefLabel": {
+        "de": "Peterle rat!"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Knöchelspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Roulette-Spiel",
+      "prefLabel": {
+        "de": "Roulette-Spiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lotto-Unterhaltungsspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schachbrett",
+      "prefLabel": {
+        "de": "Schachbrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ludospiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schachfigur",
+      "prefLabel": {
+        "de": "Schachfigur"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Läufer-Schachfigur"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schachfiguren",
+      "prefLabel": {
+        "de": "Schachfiguren"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Märchenquartett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Scharzer_Peter-Kartenspiel",
+      "prefLabel": {
+        "de": "Scharzer Peter-Kartenspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Patience-Spielkartensatz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schnapp-Spiel",
+      "prefLabel": {
+        "de": "Schnapp-Spiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Perlmutt-Whistspielmarken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Skatpresse",
+      "prefLabel": {
+        "de": "Skatpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Peterle_rat!"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielbrett",
+      "prefLabel": {
+        "de": "Spielbrett"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Roulette-Spiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielkartensatz",
+      "prefLabel": {
+        "de": "Spielkartensatz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schachbrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielkartensatz_(französisch)",
+      "prefLabel": {
+        "de": "Spielkartensatz (französisch)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schachfigur"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielreifen",
+      "prefLabel": {
+        "de": "Spielreifen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schachfiguren"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielstein",
+      "prefLabel": {
+        "de": "Spielstein"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Scharzer_Peter-Kartenspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielzeug-Gesichtskrug",
+      "prefLabel": {
+        "de": "Spielzeug-Gesichtskrug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schnapp-Spiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielzeug-Teekännchen",
+      "prefLabel": {
+        "de": "Spielzeug-Teekännchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Skatpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spindelspiel",
+      "prefLabel": {
+        "de": "Spindelspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielbrett"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spinne-Spiel",
+      "prefLabel": {
+        "de": "Spinne-Spiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielkartensatz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinzeugkugel",
+      "prefLabel": {
+        "de": "Steinzeugkugel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielkartensatz_(französisch)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tonwiege_mit_Kind",
+      "prefLabel": {
+        "de": "Tonwiege mit Kind"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielreifen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Würfelspiel",
+      "prefLabel": {
+        "de": "Würfelspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielstein"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zusammensetzspiel",
+      "prefLabel": {
+        "de": "Zusammensetzspiel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spieltisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bilderbuch_für_Kleinkinder",
+      "prefLabel": {
+        "de": "Bilderbuch für Kleinkinder"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielzeug-Gesichtskrug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderbügeleisen",
+      "prefLabel": {
+        "de": "Kinderbügeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spielzeug-Teekännchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderfriseurstuhl",
+      "prefLabel": {
+        "de": "Kinderfriseurstuhl"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spindelspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderschützenfestplakette",
+      "prefLabel": {
+        "de": "Kinderschützenfestplakette"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spinne-Spiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderschützenkette",
+      "prefLabel": {
+        "de": "Kinderschützenkette"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinzeugkugel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderspielbuch",
+      "prefLabel": {
+        "de": "Kinderspielbuch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tonwiege_mit_Kind"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielkarte",
+      "prefLabel": {
+        "de": "Spielkarte"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Würfelspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spielstuhl",
+      "prefLabel": {
+        "de": "Spielstuhl"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zusammensetzspiel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spieltisch",
+      "prefLabel": {
+        "de": "Spieltisch"
+      }
     }
   ],
   "inScheme": [

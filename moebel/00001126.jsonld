@@ -7,27 +7,26 @@
   "definition": {
     "de": "Der Klappstuhl besteht im Gegensatz zum Faltstuhl aus starren Konstruktionsteilen, die klappbar sind."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001127",
+      "prefLabel": {
+        "de": "Scherenstuhl"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001127"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

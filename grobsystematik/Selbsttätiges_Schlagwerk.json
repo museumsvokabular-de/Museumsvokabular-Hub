@@ -12,30 +12,32 @@
   "definition": {
     "de": "Selbsttätige Schlagwerke werden wie das Gehwerk mittels Federn oder Gewichten, angetrieben. Im Räderwerk des Schlagwerks befindet sich ein langsam laufendes Rad -_das sog. Hebnägelrad_- dessen Stifte zur Betätigung des Hammers dienen. Als Ablaufregulierung des Schlagwerks dient in der Regel seit dem 17._Jahrhundert der Windfang."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagwerk"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rechenschlagwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rechenschlagwerk",
+      "prefLabel": {
+        "de": "Rechenschlagwerk"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schloßscheibenschlagwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schloßscheibenschlagwerk",
+      "prefLabel": {
+        "de": "Schloßscheibenschlagwerk"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagwerk",
+    "prefLabel": {
+      "de": "Schlagwerk"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

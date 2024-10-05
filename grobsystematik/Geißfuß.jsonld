@@ -4,22 +4,18 @@
   "prefLabel": {
     "de": "Geißfuß"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hohleisen_-_Stecheisen_-_Einlasseisen_-_Drehstähle_aus_Gußstahl"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hohleisen_-_Stecheisen_-_Einlasseisen_-_Drehstähle_aus_Gußstahl",
+    "prefLabel": {
+      "de": "Hohleisen - Stecheisen - Einlasseisen - Drehstähle aus Gußstahl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

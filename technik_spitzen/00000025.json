@@ -7,22 +7,18 @@
   "definition": {
     "de": "Die Fäden sind auf hölzerne Klöppel, z. T. mit einer Schutzhülse versehen, gewickelt Die Position der entstehenden Kreuzungspunkte beim Verflechten wird durch Stecknadeln provisorisch gehalten. Die Nadeln stecken in dem Klöppelbrief (Patrone), der auf dem Klöppelkissen befestigt ist. Der Klöppelbrief zeigt das Muster. Es können jederzeit die Anzahl der Klöppel beliebig vermehrt oder verringert, und die Arbeitsrichtung der Fadenanzug verändert werden.Beispiel: Zu den klassischen handgearbeiteten Klöppelspitzen gehören:Angleterre, Point d'; Baby lace; Bandspitze; Binche-Spitze; Blonde; Bretonne; Bruges, Dentelle de; Chantilly, Dentelle de; Cluny; Honiton; Idrianer Spitze; Lille-Spitze; Malines; Malteser Spitze; Melangées, Dentelles; Milano, Punto di; Mirecourtspitze; Paraguay; Pottenkant; Ragusaner Spitze; Schneeberger Spitze; Torchon-Spitze; Trollkante; Valenciennes.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.54-74"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000004"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000004",
+    "prefLabel": {
+      "de": "geklöppelt"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

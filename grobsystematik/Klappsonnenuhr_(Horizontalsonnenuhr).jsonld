@@ -12,22 +12,18 @@
   "definition": {
     "de": "Meist rechteckige Form. Bestehend meist aus einer Horizontalsonnenuhr, einer Vertikalsonnenuhr im Deckel und einem eingelassenen Kompaß im Boden. Der Schattenwerfer ist ein zwischen den Platten gespannter Faden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Horizontalsonnenuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Horizontalsonnenuhr",
+    "prefLabel": {
+      "de": "Horizontalsonnenuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

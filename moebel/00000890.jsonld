@@ -12,36 +12,44 @@
   "definition": {
     "de": "Der Aufsatzschrank besteht aus mindestens zwei übereinander angeordneten Teilen, wobei sich die Teile formal deutlich unterscheiden: Der obere Teil ist häufig eingezogen und/oder zurückgesetzt. Der untere Teil ähnelt häufig einer anderen Möbelform (Kommode, Anrichte, Tisch)."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000883"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000891",
+      "prefLabel": {
+        "de": "Büffet"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000893",
+      "prefLabel": {
+        "de": "Überbauschrank"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000894",
+      "prefLabel": {
+        "de": "Windellade"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002324",
+      "prefLabel": {
+        "de": "Truhenschrank"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000891"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000893"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000894"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002324"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000883",
+    "prefLabel": {
+      "de": "Schrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

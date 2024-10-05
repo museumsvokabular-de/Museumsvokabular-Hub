@@ -12,22 +12,18 @@
   "definition": {
     "de": "Die Fußschaukel besteht aus einem auf Kufen stehenden Untergestell, das eine leicht abgeschrägte Platte zum Auflegen der Beine trägt, an der am unteren Ende im 90-Grad-Winkel das Fußbrett angebracht ist. Zuweilen ist sie zusammenklappbar."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+    "prefLabel": {
+      "de": "Gestell"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

@@ -12,22 +12,18 @@
   "definition": {
     "de": "Unter Wecker versteht man Uhren, die zu einer vorbestimmten Zeit ein akustisches Signal ertönen lassen. Für die Weckereinstellung gibt es drei grundsätzliche Arten:+1) Zentrale Einstellscheibe in der Mitte des Zifferblattes+2) Zentraler Einstellzeiger+3) Separates Weckerzifferblatt"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagwerk"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagwerk",
+    "prefLabel": {
+      "de": "Schlagwerk"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

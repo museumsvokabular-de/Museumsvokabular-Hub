@@ -4,48 +4,90 @@
   "prefLabel": {
     "de": "Aufzüge - Hebegeräte"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aufzugrad"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Aufzugrad",
+      "prefLabel": {
+        "de": "Aufzugrad"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aufzugrolle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Aufzugrolle",
+      "prefLabel": {
+        "de": "Aufzugrolle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aufzugsbalken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Aufzugsbalken",
+      "prefLabel": {
+        "de": "Aufzugsbalken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aufzugsrad"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Aufzugsrad",
+      "prefLabel": {
+        "de": "Aufzugsrad"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bodenaufzug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bodenaufzug",
+      "prefLabel": {
+        "de": "Bodenaufzug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brunnenaufzug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brunnenaufzug",
+      "prefLabel": {
+        "de": "Brunnenaufzug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brunnenwinde"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brunnenwinde",
+      "prefLabel": {
+        "de": "Brunnenwinde"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flaschenzug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flaschenzug",
+      "prefLabel": {
+        "de": "Flaschenzug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lastenaufzug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lastenaufzug",
+      "prefLabel": {
+        "de": "Lastenaufzug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mauerzange"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mauerzange",
+      "prefLabel": {
+        "de": "Mauerzange"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Scheibenrad_(Aufzug)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Scheibenrad_(Aufzug)",
+      "prefLabel": {
+        "de": "Scheibenrad (Aufzug)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seilwinde"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Seilwinde",
+      "prefLabel": {
+        "de": "Seilwinde"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seilwindevorrichtung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Seilwindevorrichtung",
+      "prefLabel": {
+        "de": "Seilwindevorrichtung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäng"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäng",
+      "prefLabel": {
+        "de": "Wäng"
+      }
     }
   ],
   "inScheme": [

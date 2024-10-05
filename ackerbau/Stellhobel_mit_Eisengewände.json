@@ -10,60 +10,92 @@
       "Hobel mit Eisengewände (Stell-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel_(Tischlerwerkzeug)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzhobel,_schräg_mit_einer_Wand",
+      "prefLabel": {
+        "de": "Falzhobel, schräg mit einer Wand"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzhobel,_schräg_mit_zwei_Wänden",
+      "prefLabel": {
+        "de": "Falzhobel, schräg mit zwei Wänden"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzhobel_mit_einer_Wand",
+      "prefLabel": {
+        "de": "Falzhobel mit einer Wand"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzhobel_mit_zwei_Wänden",
+      "prefLabel": {
+        "de": "Falzhobel mit zwei Wänden"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Grathobel_mit_Vorscheider_und_einer_Wand",
+      "prefLabel": {
+        "de": "Grathobel mit Vorscheider und einer Wand"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Grathobel_mit_Vorscheider_und_zwei_Wänden",
+      "prefLabel": {
+        "de": "Grathobel mit Vorscheider und zwei Wänden"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Grathobel_mit_einer_Wand",
+      "prefLabel": {
+        "de": "Grathobel mit einer Wand"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Grathobel_mit_zwei_Wänden",
+      "prefLabel": {
+        "de": "Grathobel mit zwei Wänden"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Plattbankhobel,_gerade",
+      "prefLabel": {
+        "de": "Plattbankhobel, gerade"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Plattbankhobel,_schräg",
+      "prefLabel": {
+        "de": "Plattbankhobel, schräg"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Plattbankhobel_mit_Doppeleisen",
+      "prefLabel": {
+        "de": "Plattbankhobel mit Doppeleisen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wandhobel,_verstellbar",
+      "prefLabel": {
+        "de": "Wandhobel, verstellbar"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzhobel,_schr�g_mit_einer_Wand"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzhobel,_schr�g_mit_zwei_W�nden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzhobel_mit_einer_Wand"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Falzhobel_mit_zwei_W�nden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grathobel_mit_Vorscheider_und_einer_Wand"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grathobel_mit_Vorscheider_und_zwei_W�nden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grathobel_mit_einer_Wand"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grathobel_mit_zwei_W�nden"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plattbankhobel,_gerade"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plattbankhobel,_schr�g"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Plattbankhobel_mit_Doppeleisen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wandhobel,_verstellbar"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hobel_(Tischlerwerkzeug)",
+    "prefLabel": {
+      "de": "Hobel (Tischlerwerkzeug)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

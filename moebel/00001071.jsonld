@@ -13,22 +13,18 @@
   "definition": {
     "de": "Die Chaiselongue ist ein aus dem Sessel entwickeltes Möbel, das durch die Verlängerung der Sitzfläche eine halb sitzende, halb liegende Körperhaltung ermöglicht. Der Begriff ersetzte im späten 18. Jahrhundert den älteren Lit de jour."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001058"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001058",
+    "prefLabel": {
+      "de": "Sitzmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

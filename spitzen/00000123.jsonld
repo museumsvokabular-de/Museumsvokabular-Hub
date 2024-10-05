@@ -7,22 +7,18 @@
   "definition": {
     "de": "Diese Stickerei wird mit dem Orientstickkopf maschinell hergestellt. Es werden flor- oder büschelartige Effekte gebildet. Das Muster ist vorgezeichnet und der Stickkopf wird mit der Hand entlang geführt. Die Stichbreite ist fest eingestellt. Der Orientstickkopf bildet mit der einstechenden Nadel und dem Faden eine Schlaufe, wobei die vorhergehende Schlaufe gleichzeitig durchgeschnitten wird. Es entsteht ein teppichartiger Flor. Diese Stickerei findet Verwendung bei der Herstellung von Teppichen, deren Muster mit der Technik Weben zu aufwendig ist.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.237"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000116"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000116",
+    "prefLabel": {
+      "de": "Maschinenstickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

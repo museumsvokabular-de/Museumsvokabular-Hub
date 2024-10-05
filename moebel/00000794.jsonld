@@ -4,30 +4,32 @@
   "prefLabel": {
     "de": "Ablage"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000793"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+      "prefLabel": {
+        "de": "Gestell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000831"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000831",
+      "prefLabel": {
+        "de": "Tisch"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000793",
+    "prefLabel": {
+      "de": "Möbel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

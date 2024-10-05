@@ -13,18 +13,30 @@
       "Uhren (Spiel-) - Musikautomaten - Musikspielwerke"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heim-Musikautomat"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Heim-Musikautomat",
+      "prefLabel": {
+        "de": "Heim-Musikautomat"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Musikwalze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Musikwalze",
+      "prefLabel": {
+        "de": "Musikwalze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spieluhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spieluhr",
+      "prefLabel": {
+        "de": "Spieluhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Walzenspieluhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Walzenspieluhr",
+      "prefLabel": {
+        "de": "Walzenspieluhr"
+      }
     }
   ],
   "inScheme": [

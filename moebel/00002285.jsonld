@@ -12,22 +12,18 @@
   "definition": {
     "de": "Zwei Bretter bilden beim Topfbrett Rückwand und darüber liegende Ablagefläche. An den Seiten sind sie durch je ein zumeist dreieckiges Brettstück miteinander verbunden. An der Rückwand sind Haken angebracht."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000798"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000798",
+    "prefLabel": {
+      "de": "Bord"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

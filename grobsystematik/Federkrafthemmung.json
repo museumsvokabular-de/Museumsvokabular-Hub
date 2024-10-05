@@ -12,22 +12,18 @@
   "definition": {
     "de": "Bei der Federkrafthemmung wird das Pendel durch die Aufhängefeder angetrieben. Diese Feder wird gespannt, wenn das Pendel seine Null-Lage überschreitet; beim Rückschwung erfolgt die Impulsübertragung. Der Impuls wird stoßfrei und in immer gleicher Stärke übermittelt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Freie_Hemmungen"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Freie_Hemmungen",
+    "prefLabel": {
+      "de": "Freie Hemmungen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -12,22 +12,18 @@
   "definition": {
     "de": "Sonderform der ersten Hälfte des 19._Jahrhunderts die in Wien und Graz hergestellt wurde. Es handelt sich hierbei um kleine bis winzig kleine Uhren (zwei bis zehn Zentimeter Höhe)."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zappler"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zappler",
+    "prefLabel": {
+      "de": "Zappler"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Sie wird von einem doppelt gelegten Faden aus gearbeitet. Die Ornamentation dieser weißen, aus Seiden- oder Leinenfaden hergestellten Spitzen, ist stets primitiv. Ihr Aussehen wirkt netzartig (lockere Textur)."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+    "prefLabel": {
+      "de": "Nadelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

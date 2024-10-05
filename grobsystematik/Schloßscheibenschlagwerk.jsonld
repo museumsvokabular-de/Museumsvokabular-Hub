@@ -13,22 +13,18 @@
   "definition": {
     "de": "Bei Schlagwerksuhren des 16. und 17._Jahrhunderts findet man das Schloßscheibenschlagwerk. Der große Nachteil dieses vom Aufbau her einfachen Systems liegt darin, daß Schlagwerk und Zeigerwerk leicht außer Tritt geraten können und dann nicht mehr synchron laufen.+Die Schlagfolge wird an einer Scheibe, der Schloßscheibe, die fest mit dem Räderwerk verbunden ist, abgetastet. Wird z.B. vergessen das Schlagwerk aufzuziehen, dann tritt obiger Effekt ein.+Es gibt Schloßscheibenschlagwerke sowohl mit Stunden- wie auch mit Halbstundenschlag."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Selbsttätiges_Schlagwerk"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Selbsttätiges_Schlagwerk",
+    "prefLabel": {
+      "de": "Selbsttätiges Schlagwerk"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

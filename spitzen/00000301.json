@@ -10,30 +10,32 @@
   "example": {
     "de": "Punto tagliato"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000300"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000335"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000335",
+      "prefLabel": {
+        "de": "Hardanger Arbeit"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000336"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000336",
+      "prefLabel": {
+        "de": "Toledo"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000300",
+    "prefLabel": {
+      "de": "Fadenauszugsarbeit"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

@@ -4,33 +4,60 @@
   "prefLabel": {
     "de": "Transportgerät - Fahrzeuge"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagenteile_(Landwirtschaft)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagenteile_(Landwirtschaft)",
+      "prefLabel": {
+        "de": "Wagenteile (Landwirtschaft)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagen_-_Karren_(Landwirtschaft)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagen_-_Karren_(Landwirtschaft)",
+      "prefLabel": {
+        "de": "Wagen - Karren (Landwirtschaft)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tragegerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tragegerät",
+      "prefLabel": {
+        "de": "Tragegerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fahrräder"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fahrräder",
+      "prefLabel": {
+        "de": "Fahrräder"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagen_-_Wagenteile"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagen_-_Wagenteile",
+      "prefLabel": {
+        "de": "Wagen - Wagenteile"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagenzubehör"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Transportbehälter",
+      "prefLabel": {
+        "de": "Transportbehälter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Transportbehälter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schleppen_-_Schleifen_-_Schlitten",
+      "prefLabel": {
+        "de": "Schleppen - Schleifen - Schlitten"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schleppen_-_Schleifen_-_Schlitten"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagenzubehör",
+      "prefLabel": {
+        "de": "Wagenzubehör"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Landfahrzeuge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Landfahrzeuge",
+      "prefLabel": {
+        "de": "Landfahrzeuge"
+      }
     }
   ],
   "inScheme": [

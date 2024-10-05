@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Zargenkranz und die Beine des Zargenstuhls sind miteinander so verzapft oder verdübelt, dass der Stuhl ohne weitere Verstrebungen oder Stützen auskommt. Der Sitzrahmen liegt auf dem Zargenkranz."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

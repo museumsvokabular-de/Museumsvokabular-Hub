@@ -12,22 +12,18 @@
   "definition": {
     "de": "Der Sprossenhocker hat senkrecht stehende Beine, die durch eine Rahmenkonstruktion aus Stäben ihre Stabilität erhalten. Die Sitzfläche ist in die Beine eingezapft."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001072"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001072",
+    "prefLabel": {
+      "de": "Hocker"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

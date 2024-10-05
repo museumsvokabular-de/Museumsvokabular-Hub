@@ -7,22 +7,18 @@
   "definition": {
     "de": "Venezianische flache Nadelspitze mit Speichengrund, ihr einziges Mustermotiv sind verästelte Korallenzweige.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 25"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+    "prefLabel": {
+      "de": "Nadelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

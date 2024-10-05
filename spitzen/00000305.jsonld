@@ -10,33 +10,38 @@
   "example": {
     "de": "Piqué-Stickerei, Relieftechnik, "
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000014"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000306"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000306",
+      "prefLabel": {
+        "de": "Marseiller Stickerei"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000307"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000307",
+      "prefLabel": {
+        "de": "Steppen mit wattiertem Stoff"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000308"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000308",
+      "prefLabel": {
+        "de": "Stepperei mit Einzug von Dochtwolle oder Schnur"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000014",
+    "prefLabel": {
+      "de": "Handgearbeitete Stickerei"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

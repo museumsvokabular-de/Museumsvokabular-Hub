@@ -7,17 +7,12 @@
   "definition": {
     "de": "Präzisionspendeluhr (siehe auch Bodenregulator) die zur Vermeidung jeglicher Störung fest mit der Mauer verbunden ist. Der Regulator besitzt ein temperaturkompensiertes Pendel, ist äußerst präzis gearbeitet und weist hervorragende Ganggenauigkeit auf. Diese Uhren wurden in der Regel für wissenschaftliche Zwecke gebaut."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wanduhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tankuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tankuhr",
+      "prefLabel": {
+        "de": "Tankuhr"
+      }
     }
   ],
   "inScheme": [
@@ -26,11 +21,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

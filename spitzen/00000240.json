@@ -7,22 +7,18 @@
   "definition": {
     "de": "Französische Ziernetzspitze, Sammelbezeichnung für meist schwarze aus Seide oder Baumwolle hergestellte Spitze. Geschlossene Spitze auf Tüllgrund, meist point de Paris. Alle Formen sind von einem fortlaufenden Schnürchen umgeben. Die Chantilly wird nicht in ganzer Breite geklöppelt, sondern in Streifen. Die Musterung zeigt eine Verbindung von Barock- und Rokoko-Ornament mit sehr naturalistisch gehaltenen Pflanzengruppen (Blumensträuße).LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 23"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

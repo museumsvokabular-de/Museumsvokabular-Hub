@@ -12,33 +12,38 @@
   "definition": {
     "de": "Bei Schlagwerken handelt es sich um eine Zusatzeinrichtung die zu genau definierten Zeiten ein akustisches Signal ertönen lassen kann. Die Schlagwerke unterteilen sich in drei Gruppen:+1) Selbstätige Schlagwerke+2) Rufschlagwerke+3) Weckerwerke"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Technik_der_Uhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Selbsttätiges_Schlagwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Selbsttätiges_Schlagwerk",
+      "prefLabel": {
+        "de": "Selbsttätiges Schlagwerk"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rufschlagwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rufschlagwerk",
+      "prefLabel": {
+        "de": "Rufschlagwerk"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wecker-Schlagwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wecker-Schlagwerk",
+      "prefLabel": {
+        "de": "Wecker-Schlagwerk"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Technik_der_Uhr",
+    "prefLabel": {
+      "de": "Technik der Uhr"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Die Häkelgalonmaschine verfügt über ein geringe Arbeitsbreite. Die auf ihr erzeugten Häkelgalonspitzen sind meist grobfädige Spitzen (Posamenten und Borten) mit dicker Textur und geringer Ornamentation, deren Effekte durch besondere Schußlegungen und die verwendeten Materialien erzeugt werden. Charakteristisch sind Bögen, Oesen und Quasten, auch eingefügte Perlen und Flitter, sowie für die Schußlegungen verwendeten Materialien wie Gimpe, Litze, Schlauchkordel, Chenille und Lurex in Gold- und Silbertönung.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.295ff"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000327"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000327",
+    "prefLabel": {
+      "de": "Wirkspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

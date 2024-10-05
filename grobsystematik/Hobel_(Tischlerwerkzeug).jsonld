@@ -4,36 +4,44 @@
   "prefLabel": {
     "de": "Hobel (Tischlerwerkzeug)"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischlerwerkzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nuthobel_-_Falzhobel_-_Grathobel_-_Platthobel",
+      "prefLabel": {
+        "de": "Nuthobel - Falzhobel - Grathobel - Platthobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlichthobel_-_Schropphobel_-_Gesimshobel",
+      "prefLabel": {
+        "de": "Schlichthobel - Schropphobel - Gesimshobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schiffhobel_-_Hohlhobel_-_Rundhobel",
+      "prefLabel": {
+        "de": "Schiffhobel - Hohlhobel - Rundhobel"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stellhobel_mit_Eisengewände",
+      "prefLabel": {
+        "de": "Stellhobel mit Eisengewände"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nuthobel_-_Falzhobel_-_Grathobel_-_Platthobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlichthobel_-_Schropphobel_-_Gesimshobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schiffhobel_-_Hohlhobel_-_Rundhobel"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stellhobel_mit_Eisengewände"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tischlerwerkzeug",
+    "prefLabel": {
+      "de": "Tischlerwerkzeug"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

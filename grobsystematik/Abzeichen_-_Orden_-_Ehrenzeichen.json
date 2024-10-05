@@ -10,33 +10,60 @@
       "Orden - Ehrenzeichen - Abzeichen"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Armbinde"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Armbinde",
+      "prefLabel": {
+        "de": "Armbinde"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ehrengabe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ehrengabe",
+      "prefLabel": {
+        "de": "Ehrengabe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisernes_Kreuz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mutterehrenkreuz",
+      "prefLabel": {
+        "de": "Mutterehrenkreuz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kriegsverdienstkreuz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Orden",
+      "prefLabel": {
+        "de": "Orden"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mutterehrenkreuz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eisernes_Kreuz",
+      "prefLabel": {
+        "de": "Eisernes Kreuz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Orden"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kriegsverdienstkreuz",
+      "prefLabel": {
+        "de": "Kriegsverdienstkreuz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ordenschnalle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ordenschnalle",
+      "prefLabel": {
+        "de": "Ordenschnalle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ordensspange"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ordensspange",
+      "prefLabel": {
+        "de": "Ordensspange"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schützenhut-Abzeichen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schützenhut-Abzeichen",
+      "prefLabel": {
+        "de": "Schützenhut-Abzeichen"
+      }
     }
   ],
   "inScheme": [

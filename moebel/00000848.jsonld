@@ -14,27 +14,26 @@
   "definition": {
     "de": "Der Säulentisch besteht aus der Platte und der/den sie tragenden Säule(n). Viele Säulentische haben aus Stabilitätsgründen einen Zargenkranz. Kleine Säulentische werden als \"Guéridon\" oder \"Guéridonette\" bezeichnet."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000831"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000849",
+      "prefLabel": {
+        "de": "Trommeltisch"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000849"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000831",
+    "prefLabel": {
+      "de": "Tisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

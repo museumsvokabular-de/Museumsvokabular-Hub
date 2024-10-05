@@ -14,30 +14,32 @@
   "definition": {
     "de": "Beim Brettstuhl ist die Rückenlehne ein eigenständiges Element. Sie wird mit einem oder zwei Zapfen in den Sitz aus Vollholz gesteckt und verkeilt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001113"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001113",
+      "prefLabel": {
+        "de": "Sgabello"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001114"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001114",
+      "prefLabel": {
+        "de": "Zickzackstuhl"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

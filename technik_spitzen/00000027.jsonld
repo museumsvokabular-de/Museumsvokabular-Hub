@@ -7,22 +7,18 @@
   "definition": {
     "de": "Geknüpft werden Spitzen indem man Schlaufen (offen oder gekreuzt), Schlingen (auflösbar oder geschlossen) oder Knoten (unlösbare Schlingen oder Schlaufen) mit einem Faden, mehreren Fäden oder Fadenbündeln herstellt. Es kann jederzeit ein neuer Faden angeknüpft werden.Beispiel: Die klassischen handgearbeiteten Knüpfspitzen Macramé; Margareten-Spitze; Occy-Spitze.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.101-122Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.6,30,32Eine weitere Möglichkeit des Knüpfens ist die Herstellung eines geknoteten Netzes, mit viereckigen Netzfeldern, aus einem Faden mit Hilfe von Filiernadel und Stäbchen. Das manuell erstellte Netz hat Knoten, die im Wechsel verschieden aussehen, bedingt durch das Wenden nach jeder Schlingenreihe.- Kombination mit der Technik \"gestopft\":Mit der Technik \"gestopft\" wird das Ornament in das handgeknüpfte Grundnetz eingebracht. Erst jetzt kann man von Spitze sprechen.Beispiel: Filet (eine kombinierte Spitze).Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.101,122-130,132Lit.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S.8,25f"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000006"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000006",
+    "prefLabel": {
+      "de": "geknüpft"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

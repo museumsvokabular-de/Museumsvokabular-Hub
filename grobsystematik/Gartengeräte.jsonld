@@ -4,21 +4,36 @@
   "prefLabel": {
     "de": "Gartengeräte"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Astkneifer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Astkneifer",
+      "prefLabel": {
+        "de": "Astkneifer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Diestelstecher"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Diestelstecher",
+      "prefLabel": {
+        "de": "Diestelstecher"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gartenhacke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gartenhacke",
+      "prefLabel": {
+        "de": "Gartenhacke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heckenschere"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Heckenschere",
+      "prefLabel": {
+        "de": "Heckenschere"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Unkrautausstecher"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Unkrautausstecher",
+      "prefLabel": {
+        "de": "Unkrautausstecher"
+      }
     }
   ],
   "inScheme": [

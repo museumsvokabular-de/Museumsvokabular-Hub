@@ -13,33 +13,38 @@
   "definition": {
     "de": "Diese Wanduhr entstand Ende des 18. Jahrhunderts in Wien und erfreute sich vor allem in der ersten Hälfte des 19. Jahrhunderts großer Beliebtheit. Dreiteiliger Aufbau mit dachförmigen Abschluß."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wanduhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Banjo-Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Connecticut-Lyra",
+      "prefLabel": {
+        "de": "Connecticut-Lyra"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Connecticut-Lyra"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Banjo-Uhr",
+      "prefLabel": {
+        "de": "Banjo-Uhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wiener_Regulator"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wiener_Regulator",
+      "prefLabel": {
+        "de": "Wiener Regulator"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wanduhr",
+    "prefLabel": {
+      "de": "Wanduhr"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

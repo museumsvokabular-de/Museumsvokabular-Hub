@@ -12,22 +12,18 @@
   "definition": {
     "de": "Die Zylinderhemmung wurde 1695 von Thomas Tompion erfunden und von seinem Schüler George Graham um 1720 verbessert. Der Name der Hemmung kommt von der teils hohlen, zylindrischen Form der Unruhewelle. Charakteristisch für diese Hemmung sind die auf kleinen Hälsen sitzenden dreiecksförmigen Hemmradzähne.+Von der Mitte des 19. bis zu Beginn des 20._Jahrhunderts war sie eine der verbreitesten Hemmungen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ruhende_Hemmungen"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ruhende_Hemmungen",
+    "prefLabel": {
+      "de": "Ruhende Hemmungen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

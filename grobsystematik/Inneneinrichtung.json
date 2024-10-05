@@ -4,12 +4,18 @@
   "prefLabel": {
     "de": "Inneneinrichtung"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Möbel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Möbel",
+      "prefLabel": {
+        "de": "Möbel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausstattungsstücke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausstattungsstücke",
+      "prefLabel": {
+        "de": "Ausstattungsstücke"
+      }
     }
   ],
   "inScheme": [

@@ -12,30 +12,32 @@
   "definition": {
     "de": "Bei der Benützung ist das Lineal so zu stellen, daß die beiden letzten Sterne des großen Bären und der Polarstern in eine Linie kommen. Dann zählt man von links nach rechts die vorstehenden kleinen Zacken; ihre Zahl zeigt die Nachtstunde an."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elementaruhren"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Monduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Monduhr",
+      "prefLabel": {
+        "de": "Monduhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nokturnal"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nokturnal",
+      "prefLabel": {
+        "de": "Nokturnal"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Elementaruhren",
+    "prefLabel": {
+      "de": "Elementaruhren"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

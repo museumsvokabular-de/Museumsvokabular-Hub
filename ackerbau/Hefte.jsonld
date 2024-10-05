@@ -4,45 +4,62 @@
   "prefLabel": {
     "de": "Hefte"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischlerwerkzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bohrerheft",
+      "prefLabel": {
+        "de": "Bohrerheft"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Feilenheft_mit_Eisenring",
+      "prefLabel": {
+        "de": "Feilenheft mit Eisenring"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Feilenheft_mit_Messingring",
+      "prefLabel": {
+        "de": "Feilenheft mit Messingring"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Raubankgriff",
+      "prefLabel": {
+        "de": "Raubankgriff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schnitzerheft",
+      "prefLabel": {
+        "de": "Schnitzerheft"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Stemmeisenheft",
+      "prefLabel": {
+        "de": "Stemmeisenheft"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Stemmeisenheft_mit_Eisenring",
+      "prefLabel": {
+        "de": "Stemmeisenheft mit Eisenring"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrerheft"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feilenheft_mit_Eisenring"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feilenheft_mit_Messingring"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Raubankgriff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schnitzerheft"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stemmeisenheft"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stemmeisenheft_mit_Eisenring"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Tischlerwerkzeug",
+    "prefLabel": {
+      "de": "Tischlerwerkzeug"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

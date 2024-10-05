@@ -4,54 +4,102 @@
   "prefLabel": {
     "de": "Brauchtümliche Sachgüter"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Religiöses_Brauchtum"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Religiöses_Brauchtum",
+      "prefLabel": {
+        "de": "Religiöses Brauchtum"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Berufsständisches_Brauchtum"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Andenkenkranz",
+      "prefLabel": {
+        "de": "Andenkenkranz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zunftständer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lebensbrauchtum",
+      "prefLabel": {
+        "de": "Lebensbrauchtum"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Firmungsbildchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Jahresbrauchtum_-_Kirchliche_Feste",
+      "prefLabel": {
+        "de": "Jahresbrauchtum - Kirchliche Feste"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Andenkenkranz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gnadenbildumhang",
+      "prefLabel": {
+        "de": "Gnadenbildumhang"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Devotionalkreuz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Konfirmationszettel",
+      "prefLabel": {
+        "de": "Konfirmationszettel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gnadenbildumhang"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Berufsständisches_Brauchtum",
+      "prefLabel": {
+        "de": "Berufsständisches Brauchtum"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Jahresbrauchtum_-_Kirchliche_Feste"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Devotionalkreuz",
+      "prefLabel": {
+        "de": "Devotionalkreuz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kastenbild"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Firmungsbildchen",
+      "prefLabel": {
+        "de": "Firmungsbildchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kommunion-Glückwunschkarte"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kastenbild",
+      "prefLabel": {
+        "de": "Kastenbild"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kommunion-Klappbild"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kommunion-Glückwunschkarte",
+      "prefLabel": {
+        "de": "Kommunion-Glückwunschkarte"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kommunionbildchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kommunion-Klappbild",
+      "prefLabel": {
+        "de": "Kommunion-Klappbild"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Konfirmationszettel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kommunionbildchen",
+      "prefLabel": {
+        "de": "Kommunionbildchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lebensbrauchtum"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Totenbildchen",
+      "prefLabel": {
+        "de": "Totenbildchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Totenbildchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zelloloid-Kommunionbild",
+      "prefLabel": {
+        "de": "Zelloloid-Kommunionbild"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zelloloid-Kommunionbild"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zunftständer",
+      "prefLabel": {
+        "de": "Zunftständer"
+      }
     }
   ],
   "inScheme": [

@@ -4,12 +4,18 @@
   "prefLabel": {
     "de": "Religiöse Bauten"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ausstattung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ausstattung",
+      "prefLabel": {
+        "de": "Ausstattung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Inneneinrichtung_(religiöse_Bauten)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Inneneinrichtung_(religiöse_Bauten)",
+      "prefLabel": {
+        "de": "Inneneinrichtung (religiöse Bauten)"
+      }
     }
   ],
   "inScheme": [

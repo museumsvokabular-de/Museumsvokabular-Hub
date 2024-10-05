@@ -15,22 +15,18 @@
   "definition": {
     "de": "Hauptsächliches Merkmal des Flaschenkühlers ist sein mit Blech ausgeschlagener Kasten, in dem Flaschen temperiert werden. Der Kasten kann in Fächer eingeteilt sein."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000870"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000870",
+    "prefLabel": {
+      "de": "Behältnismöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

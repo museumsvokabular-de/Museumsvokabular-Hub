@@ -4,81 +4,134 @@
   "prefLabel": {
     "de": "Anhänger: Sachgruppe"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmuck"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Alpacca-Anhänger",
+      "prefLabel": {
+        "de": "Alpacca-Anhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Anhänger",
+      "prefLabel": {
+        "de": "Anhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Anhänger_(Kriegerverein)",
+      "prefLabel": {
+        "de": "Anhänger (Kriegerverein)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Anhänger_auf_Anstecknadel_(Kriegerverein)",
+      "prefLabel": {
+        "de": "Anhänger auf Anstecknadel (Kriegerverein)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schmuckanhänger",
+      "prefLabel": {
+        "de": "Schmuckanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glasanhänger",
+      "prefLabel": {
+        "de": "Glasanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Heiligen-Relief-Medaillon",
+      "prefLabel": {
+        "de": "Heiligen-Relief-Medaillon"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holz-Perlmutt-Anhänger",
+      "prefLabel": {
+        "de": "Holz-Perlmutt-Anhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kupfer-Anhänger",
+      "prefLabel": {
+        "de": "Kupfer-Anhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Münzanhänger",
+      "prefLabel": {
+        "de": "Münzanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Silber-Blumenkorb_(Anhänger)",
+      "prefLabel": {
+        "de": "Silber-Blumenkorb (Anhänger)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Silber-Rundanhänger",
+      "prefLabel": {
+        "de": "Silber-Rundanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Silberanhänger",
+      "prefLabel": {
+        "de": "Silberanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zinn-Anhänger",
+      "prefLabel": {
+        "de": "Zinn-Anhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Antoniuskreuzanhänger",
+      "prefLabel": {
+        "de": "Antoniuskreuzanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Elfenbein-Anhängerkreuz",
+      "prefLabel": {
+        "de": "Elfenbein-Anhängerkreuz"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kreuzanhänger",
+      "prefLabel": {
+        "de": "Kreuzanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Quirinusschildanhänger",
+      "prefLabel": {
+        "de": "Quirinusschildanhänger"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schmuckanhänger,_kreuzförmig",
+      "prefLabel": {
+        "de": "Schmuckanhänger, kreuzförmig"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Alpacca-Anhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anhänger_(Kriegerverein)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anhänger_auf_Anstecknadel_(Kriegerverein)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Antoniuskreuzanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Elfenbein-Anhängerkreuz"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glasanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heiligen-Relief-Medaillon"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holz-Perlmutt-Anhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kreuzanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kupfer-Anhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Münzanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Quirinusschildanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmuckanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schmuckanhänger,_kreuzförmig"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Silber-Blumenkorb_(Anhänger)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Silber-Rundanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Silberanhänger"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zinn-Anhänger"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schmuck",
+    "prefLabel": {
+      "de": "Schmuck"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

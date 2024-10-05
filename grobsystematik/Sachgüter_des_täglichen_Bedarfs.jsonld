@@ -11,51 +11,96 @@
       "Täglichen Bedarfs (Sachgüter des)"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hausrat"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sachgüter:_Vermischtes",
+      "prefLabel": {
+        "de": "Sachgüter: Vermischtes"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sachgüter:_Vermischtes"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Körperpflege_und_Hygiene",
+      "prefLabel": {
+        "de": "Körperpflege und Hygiene"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Körperpflege_und_Hygiene"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hausrat",
+      "prefLabel": {
+        "de": "Hausrat"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Geldbeutel:_Sachgruppe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Geldbeutel:_Sachgruppe",
+      "prefLabel": {
+        "de": "Geldbeutel: Sachgruppe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Brillen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Brillen",
+      "prefLabel": {
+        "de": "Brillen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schirme_-_Stöcke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schirme_-_Stöcke",
+      "prefLabel": {
+        "de": "Schirme - Stöcke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handarbeitsgerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handarbeitsgerät",
+      "prefLabel": {
+        "de": "Handarbeitsgerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gebrauchsgegenstände"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gebrauchsgegenstände",
+      "prefLabel": {
+        "de": "Gebrauchsgegenstände"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nähzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nähzeug",
+      "prefLabel": {
+        "de": "Nähzeug"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schreibzeuge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reinigungs-_und_Pflegemittel",
+      "prefLabel": {
+        "de": "Reinigungs- und Pflegemittel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reinigungs-_und_Pflegemittel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lesezeichen:_Sachgruppe",
+      "prefLabel": {
+        "de": "Lesezeichen: Sachgruppe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nahrungswesen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Noldeköker",
+      "prefLabel": {
+        "de": "Noldeköker"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lesezeichen:_Sachgruppe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Noldköker",
+      "prefLabel": {
+        "de": "Noldköker"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Noldeköker"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nahrungswesen",
+      "prefLabel": {
+        "de": "Nahrungswesen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Noldköker"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schreibzeuge",
+      "prefLabel": {
+        "de": "Schreibzeuge"
+      }
     }
   ],
   "inScheme": [

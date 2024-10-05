@@ -7,22 +7,18 @@
   "definition": {
     "de": "Die Gabelhäkelei erfordert als zusätzliches Werkzeug eine Gabel. Es werden spitzenartige Borten hergestellt. Schöne Spitzen erzielt man dadurch, daß an die eingefaßte Borte durch weitere Häkelarbeit neue Formenelemente hinzugefügt werden. Die Musterung ist auf geometrische Formen beschränkt.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.83f"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000083"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000083",
+    "prefLabel": {
+      "de": "Häkelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

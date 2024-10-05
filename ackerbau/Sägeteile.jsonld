@@ -4,30 +4,32 @@
   "prefLabel": {
     "de": "Sägeteile"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gefa�te_S�gen"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maschinens�gearm"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Maschinensägearm",
+      "prefLabel": {
+        "de": "Maschinensägearm"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/S�gearm"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sägearm",
+      "prefLabel": {
+        "de": "Sägearm"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gefaßte_Sägen",
+    "prefLabel": {
+      "de": "Gefaßte Sägen"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

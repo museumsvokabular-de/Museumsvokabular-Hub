@@ -16,27 +16,26 @@
   "definition": {
     "de": "Der Piedestalschreibtisch ist ein freistehender Schreibtisch. Die Schreibplatte liegt auf zwei, meist mit Schubladen versehenen Kästen, den sogenannten Piedestalen. Dazwischen befindet sich oft eine unter der Schreibplatte hängende Schublade.Bei einer Sonderform sind in den unter der Schreibplatte befindlichen Zargenkranz Schubladen integriert."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001049"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001052",
+      "prefLabel": {
+        "de": "Partnerschreibtisch"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001052"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001049",
+    "prefLabel": {
+      "de": "Schreibtisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

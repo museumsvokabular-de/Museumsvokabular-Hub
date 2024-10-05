@@ -4,30 +4,32 @@
   "prefLabel": {
     "de": "Tafeln"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000793"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001188"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001188",
+      "prefLabel": {
+        "de": "Tafel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001189"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001189",
+      "prefLabel": {
+        "de": "Wandtafel"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000793",
+    "prefLabel": {
+      "de": "Möbel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

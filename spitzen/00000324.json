@@ -7,22 +7,18 @@
   "definition": {
     "de": "(auch Spachtelspitze genannt). Spitze, bei der nach dem Sticken Teile des Grundstoffes von Hand mittels Schere bzw. Glühfaden entfernt werden. Die auszuschneidenden Felder müssen eine gewisse Mindestgröße haben und mit Stielstich oder Plattstich umrandet sein. Speichen sind selten. Sie ersetzt man durch breite Stoffstege.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.351;Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.254"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000129"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000129",
+    "prefLabel": {
+      "de": "Maschinengestickte Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

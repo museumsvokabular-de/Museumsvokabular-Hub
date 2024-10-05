@@ -12,22 +12,18 @@
   "definition": {
     "de": "Um 1730 wurde die Duplexhemmung von Jean Baptiste Dutertre erfunden und später von Pierre Le Roy so verbessert, daß sie in der Zeit zwischen 1780 und 1840 vorallem bei hochwertigen Uhren eingebaut wurde."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ruhende_Hemmungen"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ruhende_Hemmungen",
+    "prefLabel": {
+      "de": "Ruhende Hemmungen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

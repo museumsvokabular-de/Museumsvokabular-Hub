@@ -14,22 +14,18 @@
   "definition": {
     "de": "Der Pouf ist ein großes zylindrisches Tabouret, dessen Stützkonstruktion durch die langen und dicken Fransen der Polsterung verborgen wird. Mit integriertem Behälter wird er \"Wäschepuff\" genannt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001080"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001080",
+    "prefLabel": {
+      "de": "Tabouret"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

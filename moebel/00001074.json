@@ -7,22 +7,18 @@
   "definition": {
     "de": "Das tragende Gestell des Bretthockers bilden entweder zwei oder mehr aufrecht stehende Brettflächen. Besteht die Stützkonstruktion nur aus zwei Bretter, so sind diese durch einen Quersteg miteinander verbunden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001072"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001072",
+    "prefLabel": {
+      "de": "Hocker"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

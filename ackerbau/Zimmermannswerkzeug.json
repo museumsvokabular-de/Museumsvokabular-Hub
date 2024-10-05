@@ -9,30 +9,32 @@
       "Werkzeug (Zimmermanns-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsger�t"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel_(Zimmermannswerkzeug)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Winkeleisen",
+      "prefLabel": {
+        "de": "Winkeleisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Winkeleisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hobel_(Zimmermannswerkzeug)",
+      "prefLabel": {
+        "de": "Hobel (Zimmermannswerkzeug)"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzbearbeitungsgerät",
+    "prefLabel": {
+      "de": "Holzbearbeitungsgerät"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

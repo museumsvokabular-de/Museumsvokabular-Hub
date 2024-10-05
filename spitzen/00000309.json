@@ -7,36 +7,44 @@
   "definition": {
     "de": "Unter flächenfüllender Stickerei versteht man eine Arbeit, bei der die ganze Fläche bzw. komplette Musterformen mit nur einer Stichart gefüllt sind. Beispiele dafür sind u.a.: Stickerei aus beidseitigem Sternstich, Zopfstichstickerei und Lockenstich-stickerei, Nadelmalerei.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.182ff;Schöner, Friedrich, Klaus: Stickerei-Techniken, Leipzig 1982, S.155ff"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000014"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000310",
+      "prefLabel": {
+        "de": "Gobelinstickerei"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000313",
+      "prefLabel": {
+        "de": "Kreuzstichstickerei"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000314",
+      "prefLabel": {
+        "de": "Nadelmalerei"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000315",
+      "prefLabel": {
+        "de": "Plattstichstickerei"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000310"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000313"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000314"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000315"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000014",
+    "prefLabel": {
+      "de": "Handgearbeitete Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

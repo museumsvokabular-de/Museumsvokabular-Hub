@@ -9,24 +9,42 @@
       "Handwerkszeug - Handwerk"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkstattbedarf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Werkstattbedarf",
+      "prefLabel": {
+        "de": "Werkstattbedarf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schusterwerkstatt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schusterwerkstatt",
+      "prefLabel": {
+        "de": "Schusterwerkstatt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkstattausstattung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Werkstattausstattung",
+      "prefLabel": {
+        "de": "Werkstattausstattung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzschuhmacherwerkstatt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzschuhmacherwerkstatt",
+      "prefLabel": {
+        "de": "Holzschuhmacherwerkstatt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkstücke_-_Werkstoffe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Werkstücke_-_Werkstoffe",
+      "prefLabel": {
+        "de": "Werkstücke - Werkstoffe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug:_Wortfeld"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Werkzeug:_Wortfeld",
+      "prefLabel": {
+        "de": "Werkzeug: Wortfeld"
+      }
     }
   ],
   "inScheme": [

@@ -12,22 +12,18 @@
   "definition": {
     "de": "Die Koffertruhe hat einen gewölbten Deckel und metallne Tragegriffe an den Seitenwänden. In der Regel ist die Wölbung des Deckels mit einem Zargenkranz verbunden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000969"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000969",
+    "prefLabel": {
+      "de": "Kastentruhe"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

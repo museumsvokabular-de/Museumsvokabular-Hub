@@ -4,45 +4,84 @@
   "prefLabel": {
     "de": "Bergbau - Hüttenwesen"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bergeisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bergeisen",
+      "prefLabel": {
+        "de": "Bergeisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bergmannshammer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bergmannshammer",
+      "prefLabel": {
+        "de": "Bergmannshammer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bergmannspicke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bergmannspicke",
+      "prefLabel": {
+        "de": "Bergmannspicke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bergmannsschaufel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bergmannsschaufel",
+      "prefLabel": {
+        "de": "Bergmannsschaufel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Froschmaul"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Froschmaul",
+      "prefLabel": {
+        "de": "Froschmaul"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Förderwagen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Förderwagen",
+      "prefLabel": {
+        "de": "Förderwagen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hüttenbewurfstück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hüttenbewurfstück",
+      "prefLabel": {
+        "de": "Hüttenbewurfstück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kohlestück_mit_Inschrift"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kohlestück_mit_Inschrift",
+      "prefLabel": {
+        "de": "Kohlestück mit Inschrift"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schachtgerüst"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schachtgerüst",
+      "prefLabel": {
+        "de": "Schachtgerüst"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spannsäule"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spannsäule",
+      "prefLabel": {
+        "de": "Spannsäule"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sprenglochreiniger"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sprenglochreiniger",
+      "prefLabel": {
+        "de": "Sprenglochreiniger"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wasserhaltungsmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wasserhaltungsmaschine",
+      "prefLabel": {
+        "de": "Wasserhaltungsmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wetterlutten"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wetterlutten",
+      "prefLabel": {
+        "de": "Wetterlutten"
+      }
     }
   ],
   "inScheme": [

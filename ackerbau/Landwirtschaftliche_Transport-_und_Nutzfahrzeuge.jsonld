@@ -4,9 +4,12 @@
   "prefLabel": {
     "de": "Landwirtschaftliche Transport- und Nutzfahrzeuge"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fuhrwerke_(Landwirtschaft)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Fuhrwerke_(Landwirtschaft)",
+      "prefLabel": {
+        "de": "Fuhrwerke (Landwirtschaft)"
+      }
     }
   ],
   "inScheme": [

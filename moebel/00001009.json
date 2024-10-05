@@ -7,22 +7,18 @@
   "definition": {
     "de": "Vier aus Hölzern verzapfte Rahmen zwischen den vier Eckpfosten bilden die Seiten des Rahmenbettes. Die Zwischenräume in den Rahmen sind mit Flechtwerk oder mit Holzplatten gefüllt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

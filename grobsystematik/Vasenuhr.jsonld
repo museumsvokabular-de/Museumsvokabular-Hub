@@ -12,22 +12,18 @@
   "definition": {
     "de": "Das Gehäuse der Uhr ist in Form einer Vase gearbeitet. Die Zeitanzeige wird meist durch umlaufende Zifferbänder und einen feststehenden Zeiger vorgenommen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Phantasieform-Uhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Phantasieform-Uhr",
+    "prefLabel": {
+      "de": "Phantasieform-Uhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

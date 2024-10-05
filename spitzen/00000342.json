@@ -7,22 +7,18 @@
   "definition": {
     "de": "Historische Spitzenart der Renaissance, als Nachahmung der kostbaren Nadelspitze entstanden. Die durch Ausschneidarbeit im Stoff verbliebenen Figuren berühren sich meistens unmittelbar, nur selten sind Stege zu sehen . Die Anlage ist symetrisch und enthält bandartige, derbe Ranken mit Voluten und stilisierten Blättern. Die Formen sind mit kleinen und größeren viereckigen Durchbrüchen und Plattstich-Vierecken besetzt. In den Öffnungen und an den Formrändern sitzen Pikots.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.414"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000338"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000338",
+    "prefLabel": {
+      "de": "Handgestickte Ausschneidspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

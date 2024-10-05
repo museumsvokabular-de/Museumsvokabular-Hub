@@ -12,33 +12,38 @@
   "definition": {
     "de": "Die Kastentruhe besteht aus einem für sich geschlossenen Korpus, der zumeist auf Sockel, Kufen und/oder Füßen aufsitzt. Der Deckel ist entweder flach oder erhoben gestaltet."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000964"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000973"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000973",
+      "prefLabel": {
+        "de": "Koffertruhe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000974"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000974",
+      "prefLabel": {
+        "de": "Kufentruhe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000975"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000975",
+      "prefLabel": {
+        "de": "Sockeltruhe"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000964",
+    "prefLabel": {
+      "de": "Truhe"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

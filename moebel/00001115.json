@@ -14,22 +14,18 @@
   "definition": {
     "de": "Der Bugholzstuhl besteht aus massiven Rundhölzern, die über Wasserdampf elastisch gemacht und in Stahlformen gebogen wurden. Die konstruktiven Einzelteile sind zumeist verschraubt. Der klassische Bugholzstuhl ist der sogenannte Thonet-Stuhl."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

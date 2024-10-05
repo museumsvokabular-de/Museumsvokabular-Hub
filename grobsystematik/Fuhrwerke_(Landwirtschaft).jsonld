@@ -4,42 +4,56 @@
   "prefLabel": {
     "de": "Fuhrwerke (Landwirtschaft)"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Landwirtschaftliche_Transport-_und_Nutzfahrzeuge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Karren_(Landwirtschaft)",
+      "prefLabel": {
+        "de": "Karren (Landwirtschaft)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagenzubehör_und_Zusatzteile",
+      "prefLabel": {
+        "de": "Wagenzubehör und Zusatzteile"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagen_(Landwirtschaft)",
+      "prefLabel": {
+        "de": "Wagen (Landwirtschaft)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlitten",
+      "prefLabel": {
+        "de": "Schlitten"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagenzubehör",
+      "prefLabel": {
+        "de": "Wagenzubehör"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wagenteile:_Heu-_bzw._Ernte-Wagenteile",
+      "prefLabel": {
+        "de": "Wagenteile: Heu- bzw. Ernte-Wagenteile"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagen_(Landwirtschaft)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Karren_(Landwirtschaft)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagenteile:_Heu-_bzw._Ernte-Wagenteile"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagenzubehör_und_Zusatzteile"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlitten"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagenzubehör"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Landwirtschaftliche_Transport-_und_Nutzfahrzeuge",
+    "prefLabel": {
+      "de": "Landwirtschaftliche Transport- und Nutzfahrzeuge"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

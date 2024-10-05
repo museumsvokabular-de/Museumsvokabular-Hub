@@ -4,21 +4,36 @@
   "prefLabel": {
     "de": "Textile Rohstoffe und Materialien"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baumwolle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Baumwolle",
+      "prefLabel": {
+        "de": "Baumwolle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baumwollgarn"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Baumwollgarn",
+      "prefLabel": {
+        "de": "Baumwollgarn"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Filz"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Filz",
+      "prefLabel": {
+        "de": "Filz"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Jutegarn"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Jutegarn",
+      "prefLabel": {
+        "de": "Jutegarn"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rohbaumwolle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rohbaumwolle",
+      "prefLabel": {
+        "de": "Rohbaumwolle"
+      }
     }
   ],
   "inScheme": [

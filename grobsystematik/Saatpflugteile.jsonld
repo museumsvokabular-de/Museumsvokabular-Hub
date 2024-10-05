@@ -9,72 +9,116 @@
       "Pflugteile (Saat-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflüge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Achse_(Saatpflug)",
+      "prefLabel": {
+        "de": "Achse (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Grindel_(Saatpflug)",
+      "prefLabel": {
+        "de": "Grindel (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Grindelhalter_(Saatpflug)",
+      "prefLabel": {
+        "de": "Grindelhalter (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lichte_(Saatpflug)",
+      "prefLabel": {
+        "de": "Lichte (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pflugbaum_(Saatpflug)",
+      "prefLabel": {
+        "de": "Pflugbaum (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pflugbrücke_(Saatpflug)",
+      "prefLabel": {
+        "de": "Pflugbrücke (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pflugkette_(Saatpflug)",
+      "prefLabel": {
+        "de": "Pflugkette (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pflugmaul_(Saatpflug)",
+      "prefLabel": {
+        "de": "Pflugmaul (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pflugstock_(Saatpflug)",
+      "prefLabel": {
+        "de": "Pflugstock (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rad_(Saatpflug)",
+      "prefLabel": {
+        "de": "Rad (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schar_(Saatpflug)",
+      "prefLabel": {
+        "de": "Schar (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sech_(Saatpflug)",
+      "prefLabel": {
+        "de": "Sech (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sterz_(Saatpflug)",
+      "prefLabel": {
+        "de": "Sterz (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Streichblech_(Saatpflug)",
+      "prefLabel": {
+        "de": "Streichblech (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Streichbrett_(Saatpflug)",
+      "prefLabel": {
+        "de": "Streichbrett (Saatpflug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Vorpflug_(Saatpflug)",
+      "prefLabel": {
+        "de": "Vorpflug (Saatpflug)"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Achse_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grindel_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grindelhalter_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lichte_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflugbaum_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflugbrücke_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflugkette_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflugmaul_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pflugstock_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rad_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schar_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sech_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sterz_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichblech_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichbrett_(Saatpflug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Vorpflug_(Saatpflug)"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pflüge",
+    "prefLabel": {
+      "de": "Pflüge"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

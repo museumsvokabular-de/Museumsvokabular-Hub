@@ -7,27 +7,26 @@
   "definition": {
     "de": "Das Kastenbett besteht aus einem für sich gearbeiteten Bettkasten, der auf Füßen, Sockeln oder Kufen aufsitzt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001005",
+      "prefLabel": {
+        "de": "Truhenbett"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001005"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

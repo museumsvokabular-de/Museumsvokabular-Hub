@@ -13,22 +13,18 @@
   "definition": {
     "de": "Kommt in der zweiten Hälfte des 18._Jahrhunderts auf. War die Capucine zuerst nur als Reiseuhr gedacht und mit einer Unruhehemmung versehen, so wird sie ab 1790 häufig auch mit einer Pendelhemmung ausgerüstet und so zu einer stationären Uhr, die auf Schreibtischen oder Nachtkästchen ihren Platz fand. Die Gehäuseform ist immer schlicht, stets rechteckig mit zwei seitlichen Türchen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reiseuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reiseuhr",
+    "prefLabel": {
+      "de": "Reiseuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

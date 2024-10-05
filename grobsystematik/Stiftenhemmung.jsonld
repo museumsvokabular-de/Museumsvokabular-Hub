@@ -14,22 +14,18 @@
   "definition": {
     "de": "Der Franzose Louis Amant erfand 1741 die Stiften- oder Scherenhemmung. Es handelt sich um eine Abänderung der Graham-Hemmung und zwar dergestalt, daß+1) runde Stifte seitlich aus dem Ankerrad herausragen,+2) die Ankerarme eng zusammengelegt wurden, so daß ein Stift von einer Palette gleich auf die andere fiel.+Diese Hemmung findet sich hauptsächlich in Präzisions- und Turmuhren."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ruhende_Hemmungen"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ruhende_Hemmungen",
+    "prefLabel": {
+      "de": "Ruhende Hemmungen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

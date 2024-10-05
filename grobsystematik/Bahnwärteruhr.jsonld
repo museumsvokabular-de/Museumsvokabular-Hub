@@ -13,22 +13,18 @@
   "definition": {
     "de": "Erstmals um 1870 wird dieser Uhrentyp von Friedrich Eisenlohr gebaut. Die Verzierungen des Giebels und des Häuschens bestehen aus Laubsägearbeiten."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schwarzwälder_Uhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schwarzwälder_Uhr",
+    "prefLabel": {
+      "de": "Schwarzwälder Uhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -13,22 +13,18 @@
   "definition": {
     "de": "Das Gestell für Holzteller besteht aus Leiste oder Brett, in welche(s) paarweise Holzstäbe übereinander eingelassen sind, auf denen Holzteller abgelegt werden können. Zuweilen ist ein Löffelbrett integriert."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+    "prefLabel": {
+      "de": "Gestell"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

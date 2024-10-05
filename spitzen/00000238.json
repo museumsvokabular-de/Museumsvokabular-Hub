@@ -7,22 +7,18 @@
   "definition": {
     "de": "Französische Klöppelspitze auf Maschengrund, Musterformen von mehr oder weniger starker Schnur umgeben. In der maschinengestickten Bretonne sind Ziehgrundeffekte und feinfädige Steppstichfüllungen charakteristisch.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 23"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

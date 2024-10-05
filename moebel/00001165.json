@@ -4,30 +4,32 @@
   "prefLabel": {
     "de": "Altäre"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000793"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001166"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001166",
+      "prefLabel": {
+        "de": "Altar"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001168"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001168",
+      "prefLabel": {
+        "de": "Tragealtar"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000793",
+    "prefLabel": {
+      "de": "Möbel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

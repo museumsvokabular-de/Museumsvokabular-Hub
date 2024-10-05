@@ -12,22 +12,18 @@
   "definition": {
     "de": "Das Rechenschlagwerk wurde 1676 von Edward Barlow in London erfunden und durch Thomas Tompion und Daniel Quare weiter verbessert.+Die Anzahl der Stundenschläge wird hier nicht durch eine Schloßscheibe, sondern durch die Stundenstaffel, die vom Rechen abgetastet wird, bestimmt. Da die Stundenstaffel mit dem Zeigerwerk verbunden ist, ist Schlagfolge und Stundenangabe immer synchron."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Selbsttätiges_Schlagwerk"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Selbsttätiges_Schlagwerk",
+    "prefLabel": {
+      "de": "Selbsttätiges Schlagwerk"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

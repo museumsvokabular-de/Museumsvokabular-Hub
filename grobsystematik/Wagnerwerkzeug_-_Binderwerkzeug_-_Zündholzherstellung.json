@@ -10,27 +10,26 @@
       "Zündholzherstellung - Wagnerwerkzeug - Binderwerkzeug"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsgerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hobel_(Wagnerwerkzeug_-_Binderwerkzeug_-_Zündholzherstellung)",
+      "prefLabel": {
+        "de": "Hobel (Wagnerwerkzeug - Binderwerkzeug - Zündholzherstellung)"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel_(Wagnerwerkzeug_-_Binderwerkzeug_-_Zündholzherstellung)"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzbearbeitungsgerät",
+    "prefLabel": {
+      "de": "Holzbearbeitungsgerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

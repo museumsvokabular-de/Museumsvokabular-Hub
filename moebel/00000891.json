@@ -12,22 +12,18 @@
   "definition": {
     "de": "Das Büffet hat ein meist mehrtüriges und querrechteckiges Unterteil, oft mit darüberliegenden Schubladen und zurückgesetztem Oberteil. Konstruktives Merkmal des Büffets ist die durch geschlossene Seitenteile gebildete Mittelnische."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000890"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000890",
+    "prefLabel": {
+      "de": "Aufsatzschrank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

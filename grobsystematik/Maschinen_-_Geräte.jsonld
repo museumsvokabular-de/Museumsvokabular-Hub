@@ -9,234 +9,462 @@
       "Geräte - Maschinen"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maschinen-_und_Geräteteile"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Maschinen-_und_Geräteteile",
+      "prefLabel": {
+        "de": "Maschinen- und Geräteteile"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pumpen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apparat_zur_Herstellung_von_Brauselimonade",
+      "prefLabel": {
+        "de": "Apparat zur Herstellung von Brauselimonade"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohnenschneidemaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Buchungsmaschine",
+      "prefLabel": {
+        "de": "Buchungsmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haarschneidegerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bürohandpresse",
+      "prefLabel": {
+        "de": "Bürohandpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Waschmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dampfhammer",
+      "prefLabel": {
+        "de": "Dampfhammer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschespülmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dampfmaschine",
+      "prefLabel": {
+        "de": "Dampfmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wäschewringermaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Einsteckkerbgerät",
+      "prefLabel": {
+        "de": "Einsteckkerbgerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apparat_zur_Herstellung_von_Brauselimonade"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eisengerät",
+      "prefLabel": {
+        "de": "Eisengerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buchungsmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Farbenmühle",
+      "prefLabel": {
+        "de": "Farbenmühle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bürohandpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pumpen",
+      "prefLabel": {
+        "de": "Pumpen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dampfhammer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fingerrechenmaschine",
+      "prefLabel": {
+        "de": "Fingerrechenmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dampfmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Frankiermaschine",
+      "prefLabel": {
+        "de": "Frankiermaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Einsteckkerbgerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Färbemaschine",
+      "prefLabel": {
+        "de": "Färbemaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisengerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Gerät",
+      "prefLabel": {
+        "de": "Gerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Farbenmühle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Haarschneidemaschine",
+      "prefLabel": {
+        "de": "Haarschneidemaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fingerrechenmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handbohrmaschine,_elektrisch",
+      "prefLabel": {
+        "de": "Handbohrmaschine, elektrisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Frankiermaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handdruckmaschine",
+      "prefLabel": {
+        "de": "Handdruckmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Färbemaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handmühle",
+      "prefLabel": {
+        "de": "Handmühle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handnähmaschine",
+      "prefLabel": {
+        "de": "Handnähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grünfutterschneider"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hebelpresse",
+      "prefLabel": {
+        "de": "Hebelpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haarschneidemaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Heftmaschine",
+      "prefLabel": {
+        "de": "Heftmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handbohrmaschine,_elektrisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holznagelmaschine_(Schusterwerkstatt)",
+      "prefLabel": {
+        "de": "Holznagelmaschine (Schusterwerkstatt)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handdruckmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hunde-Laufrad",
+      "prefLabel": {
+        "de": "Hunde-Laufrad"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handfuttermühle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hächselmaschine",
+      "prefLabel": {
+        "de": "Hächselmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handmühle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Häcksellade",
+      "prefLabel": {
+        "de": "Häcksellade"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handnähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Häckselmaschine",
+      "prefLabel": {
+        "de": "Häckselmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hebelpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/JUPITER_Universal-Küchenmaschine",
+      "prefLabel": {
+        "de": "JUPITER_Universal-Küchenmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heftmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Klebemaschine",
+      "prefLabel": {
+        "de": "Klebemaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holznagelmaschine_(Schusterwerkstatt)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Koffernähmaschine",
+      "prefLabel": {
+        "de": "Koffernähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Honigpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kugelkopfschreibmaschine",
+      "prefLabel": {
+        "de": "Kugelkopfschreibmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hunde-Laufrad"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ledernähmaschine",
+      "prefLabel": {
+        "de": "Ledernähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hächselmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lederspaltmaschine",
+      "prefLabel": {
+        "de": "Lederspaltmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Häcksellade"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lochmaschine",
+      "prefLabel": {
+        "de": "Lochmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Häckselmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Maschinenschlüssel",
+      "prefLabel": {
+        "de": "Maschinenschlüssel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/JUPITER_Universal-Küchenmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nietmaschine",
+      "prefLabel": {
+        "de": "Nietmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klebemaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nähmaschine",
+      "prefLabel": {
+        "de": "Nähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Koffernähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ornamentpresse",
+      "prefLabel": {
+        "de": "Ornamentpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kugelkopfschreibmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/PVC-Spritzgußmaschine",
+      "prefLabel": {
+        "de": "PVC-Spritzgußmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ledernähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Patronenfertigungsmaschine",
+      "prefLabel": {
+        "de": "Patronenfertigungsmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederspaltmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Patronenmaschine",
+      "prefLabel": {
+        "de": "Patronenmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lochmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Polsterzupfmaschine",
+      "prefLabel": {
+        "de": "Polsterzupfmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Maschinenschlüssel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Presse",
+      "prefLabel": {
+        "de": "Presse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nietmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rapspresse",
+      "prefLabel": {
+        "de": "Rapspresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rechenmaschine",
+      "prefLabel": {
+        "de": "Rechenmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ornamentpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Registrierkasse",
+      "prefLabel": {
+        "de": "Registrierkasse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/PVC-Spritzgußmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Runkelmaschine",
+      "prefLabel": {
+        "de": "Runkelmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Patronenfertigungsmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sack-Ausklopfmaschine",
+      "prefLabel": {
+        "de": "Sack-Ausklopfmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Patronenmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schlagmaschine",
+      "prefLabel": {
+        "de": "Schlagmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Polsterzupfmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schneidemaschine",
+      "prefLabel": {
+        "de": "Schneidemaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Presse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schraubenpresse",
+      "prefLabel": {
+        "de": "Schraubenpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rapspresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schreibmaschine",
+      "prefLabel": {
+        "de": "Schreibmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rechenmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Seilerei-Maschinen_und_Zubehör",
+      "prefLabel": {
+        "de": "Seilerei-Maschinen und Zubehör"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Registrierkasse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Strickmaschine",
+      "prefLabel": {
+        "de": "Strickmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Runkelmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tischnähmaschine",
+      "prefLabel": {
+        "de": "Tischnähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sack-Ausklopfmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tret-Nähmaschine",
+      "prefLabel": {
+        "de": "Tret-Nähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schlagmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wachspresse",
+      "prefLabel": {
+        "de": "Wachspresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidemaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wickelmaschine",
+      "prefLabel": {
+        "de": "Wickelmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schraubenpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wickelpresse",
+      "prefLabel": {
+        "de": "Wickelpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schreibmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wömmelwerk",
+      "prefLabel": {
+        "de": "Wömmelwerk"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schuhmachernähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zapfenpoliermaschine",
+      "prefLabel": {
+        "de": "Zapfenpoliermaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schustermaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zerkleinerungsmaschine",
+      "prefLabel": {
+        "de": "Zerkleinerungsmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schusternähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zupfmaschine",
+      "prefLabel": {
+        "de": "Zupfmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Seilerei-Maschinen_und_Zubehör"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ösenmaschine",
+      "prefLabel": {
+        "de": "Ösenmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spaltmaschine_(Schusterwerkstatt)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bohnenschneidemaschine",
+      "prefLabel": {
+        "de": "Bohnenschneidemaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spintelpresse_(Schusterwerkstatt)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Grünfutterschneider",
+      "prefLabel": {
+        "de": "Grünfutterschneider"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Strickmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Haarschneidegerät",
+      "prefLabel": {
+        "de": "Haarschneidegerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischnähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handfuttermühle",
+      "prefLabel": {
+        "de": "Handfuttermühle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tret-Nähmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Honigpresse",
+      "prefLabel": {
+        "de": "Honigpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wachspresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schuhmachernähmaschine",
+      "prefLabel": {
+        "de": "Schuhmachernähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wickelmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schustermaschine",
+      "prefLabel": {
+        "de": "Schustermaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wickelpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schusternähmaschine",
+      "prefLabel": {
+        "de": "Schusternähmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wömmelwerk"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spaltmaschine_(Schusterwerkstatt)",
+      "prefLabel": {
+        "de": "Spaltmaschine (Schusterwerkstatt)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zapfenpoliermaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spintelpresse_(Schusterwerkstatt)",
+      "prefLabel": {
+        "de": "Spintelpresse (Schusterwerkstatt)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zerkleinerungsmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Waschmaschine",
+      "prefLabel": {
+        "de": "Waschmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zupfmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschespülmaschine",
+      "prefLabel": {
+        "de": "Wäschespülmaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ösenmaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wäschewringermaschine",
+      "prefLabel": {
+        "de": "Wäschewringermaschine"
+      }
     }
   ],
   "inScheme": [

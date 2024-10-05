@@ -4,45 +4,62 @@
   "prefLabel": {
     "de": "Holzbearbeitungsgerät allgemein"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hohleisen_-_Stecheisen_-_Einlasseisen_-_Drehstähle_aus_Gußstahl",
+      "prefLabel": {
+        "de": "Hohleisen - Stecheisen - Einlasseisen - Drehstähle aus Gußstahl"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Verstellte_Hämmer",
+      "prefLabel": {
+        "de": "Verstellte Hämmer"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bohrer",
+      "prefLabel": {
+        "de": "Bohrer"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Schneidzeug_-_Werkzeuge_zum_Einspannen",
+      "prefLabel": {
+        "de": "Schneidzeug - Werkzeuge zum Einspannen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Feilen_-_Raspeln",
+      "prefLabel": {
+        "de": "Feilen - Raspeln"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hobel_(Holzbearbeitungsgerät:_allgemein)",
+      "prefLabel": {
+        "de": "Hobel (Holzbearbeitungsgerät: allgemein)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gefaßte_Sägen",
+      "prefLabel": {
+        "de": "Gefaßte Sägen"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Verstellte_H�mmer"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hohleisen_-_Stecheisen_-_Einlasseisen_-_Drehst�hle_aus_Gu�stahl"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bohrer"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schneidzeug_-_Werkzeuge_zum_Einspannen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feilen_-_Raspeln"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gefa�te_S�gen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hobel_(Holzbearbeitungsger�t:_allgemein)"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzbearbeitungsgerät",
+    "prefLabel": {
+      "de": "Holzbearbeitungsgerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

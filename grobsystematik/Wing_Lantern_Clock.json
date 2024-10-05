@@ -13,22 +13,18 @@
   "definition": {
     "de": "Ein etwas im äußeren Aussehen abweichender Typus der Lantern Clock war die Flügel-Laternen-Uhr. Sie hatte seitlich je einen angesetzten Flügel, in den das wie ein Schiffsanker ausgebildete Pendel hineinschwingen konnte."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lantern_Clock"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lantern_Clock",
+    "prefLabel": {
+      "de": "Lantern Clock"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

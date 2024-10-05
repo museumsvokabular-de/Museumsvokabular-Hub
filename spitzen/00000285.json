@@ -7,22 +7,18 @@
   "definition": {
     "de": "Venezianische Nadelspitze. Das Muster nimmt nicht die gesamte Fläche ein, sondern befindet sich in einem gleichmäßigen Maschennetz, während Ziergründe die ornamentalen Musterelemente füllen.\"resau\": Netz, Geflecht. In verschiedenen Formen und Herstellungsarten."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+    "prefLabel": {
+      "de": "Nadelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

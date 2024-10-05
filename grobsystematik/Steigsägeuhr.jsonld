@@ -13,22 +13,18 @@
   "definition": {
     "de": "Im Gegensatz zur Sägeuhr ist die Steigsägeuhr keine Schwerkraftuhr, sondern federgetrieben. Zum Aufziehen wird sie an der Zahnstange nach unten gedrückt, wodurch sich eine Feder spannt. Die in der Feder gespeicherte Energie bewirkt, daß die Uhr nach oben geht."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sägeuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sägeuhr",
+    "prefLabel": {
+      "de": "Sägeuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

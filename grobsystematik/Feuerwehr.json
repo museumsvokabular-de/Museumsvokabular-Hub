@@ -4,27 +4,48 @@
   "prefLabel": {
     "de": "Feuerwehr"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerwehreimer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerwehreimer",
+      "prefLabel": {
+        "de": "Feuerwehreimer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerwehrfackel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerwehrfackel",
+      "prefLabel": {
+        "de": "Feuerwehrfackel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerwehrgurt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerwehrgurt",
+      "prefLabel": {
+        "de": "Feuerwehrgurt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerwehrleiter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerwehrleiter",
+      "prefLabel": {
+        "de": "Feuerwehrleiter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerwehrspritze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerwehrspritze",
+      "prefLabel": {
+        "de": "Feuerwehrspritze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lederschlauch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lederschlauch",
+      "prefLabel": {
+        "de": "Lederschlauch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nothaken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nothaken",
+      "prefLabel": {
+        "de": "Nothaken"
+      }
     }
   ],
   "inScheme": [

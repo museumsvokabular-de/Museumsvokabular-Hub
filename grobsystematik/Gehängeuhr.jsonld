@@ -12,27 +12,26 @@
   "definition": {
     "de": "Sie haben sich wohl aus der am Körper getragenen Bisamapfel-Uhr entwickelt. Es handelt sich um ball- oder korbartige Uhren größeren Formats, die man von der Decke herabhängen ließ, und bei welchen das Zifferblatt horizontal nach unten zeigte. Im 17. Jahrhundert kommt die Kombination einer solchen Gehängeuhr mit einem Kronleuchter auf."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wanduhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sinkuhr",
+      "prefLabel": {
+        "de": "Sinkuhr"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sinkuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wanduhr",
+    "prefLabel": {
+      "de": "Wanduhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

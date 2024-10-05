@@ -9,33 +9,38 @@
       "Sense (Gestell-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensen_mit_Reff_oder_Draht-_bzw._Weidenb�gel"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gestellsense_mit_Drahtb�gel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gestellsense_mit_Drahtbügel",
+      "prefLabel": {
+        "de": "Gestellsense mit Drahtbügel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gestellsense_mit_Reff"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gestellsense_mit_Reff",
+      "prefLabel": {
+        "de": "Gestellsense mit Reff"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Gestellsense_mit_Weidenb�gel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Gestellsense_mit_Weidenbügel",
+      "prefLabel": {
+        "de": "Gestellsense mit Weidenbügel"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensen_mit_Reff_oder_Draht-_bzw._Weidenbügel",
+    "prefLabel": {
+      "de": "Sensen mit Reff oder Draht- bzw. Weidenbügel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

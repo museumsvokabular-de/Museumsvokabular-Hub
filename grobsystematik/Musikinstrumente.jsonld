@@ -9,33 +9,60 @@
       "Instrumente (Musik-)"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Signalinstrumente"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Signalinstrumente",
+      "prefLabel": {
+        "de": "Signalinstrumente"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glocken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glocken",
+      "prefLabel": {
+        "de": "Glocken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blasinstrumente"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Blasinstrumente",
+      "prefLabel": {
+        "de": "Blasinstrumente"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tasteninstrumente"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tasteninstrumente",
+      "prefLabel": {
+        "de": "Tasteninstrumente"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streichinstrumente"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Streichinstrumente",
+      "prefLabel": {
+        "de": "Streichinstrumente"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lärm-_und_Schlaginstrumente"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lärm-_und_Schlaginstrumente",
+      "prefLabel": {
+        "de": "Lärm- und Schlaginstrumente"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kinderspielzeug-Xylophon"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kinderspielzeug-Xylophon",
+      "prefLabel": {
+        "de": "Kinderspielzeug-Xylophon"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Orgeln"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Orgeln",
+      "prefLabel": {
+        "de": "Orgeln"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zupfinstrumente"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zupfinstrumente",
+      "prefLabel": {
+        "de": "Zupfinstrumente"
+      }
     }
   ],
   "inScheme": [

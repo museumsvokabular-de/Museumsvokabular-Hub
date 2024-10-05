@@ -6,37 +6,36 @@
   },
   "altLabel": {
     "de": [
+      "Truhensitz",
       "Chaire",
       "Kastenbank",
       "Kastenhocker",
-      "Kastenstuhl",
-      "Truhensitz"
+      "Kastenstuhl"
     ]
   },
   "definition": {
     "de": "Hauptkonstruktionsmerkmal des Kastensitzes ist der Kasten unter der Sitzfläche. Wenn er mit einem Klappdeckel versehen ist, kann der Kasten als Behältnis benutzt werden. Er kann mit Rückenlehne und/oder Armlehnen versehen sein."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001058"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001087",
+      "prefLabel": {
+        "de": "Chayère"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001087"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001058",
+    "prefLabel": {
+      "de": "Sitzmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

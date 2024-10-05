@@ -7,22 +7,18 @@
   "definition": {
     "de": "Eine der ältesten flandrischen Spitzen. Klöppelspitze mit starker Schnurumrandung (Troll), ansonsten mit vielfältigen feinen und zarten Effekten.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 39f."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

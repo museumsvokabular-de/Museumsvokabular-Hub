@@ -12,22 +12,18 @@
   "definition": {
     "de": "Der Tütenstuhl besteht aus einem Kreiskegel aus Metall, dessen Spitze drehbar auf einem Fußkreuz befestigt ist. In Sitzhöhe ist der Kegel einseitig abgeschnitten und mit einem gepolsterten hölzernen Sitzdeckel verschlossen; die darüber fortgeführte Kegelwand ist zur Rückenlehne ausgeformt. Der Stuhlkörper ist mit Stoff überzogen. Der Hohlraum im Kegel ist als Behältnis zu nutzen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001058"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001058",
+    "prefLabel": {
+      "de": "Sitzmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

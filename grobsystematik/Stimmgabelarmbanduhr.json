@@ -12,22 +12,18 @@
   "definition": {
     "de": "Eine elektrische Uhr, bei der das Unruhschwingsystem durch eine Stimmgabel ersetzt wurde. Durch die hohe Schwingfrequenz der Stimmgabel konnte eine große Ganggenauigkeit erreicht werden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Armbanduhr,_elektrische"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Armbanduhr,_elektrische",
+    "prefLabel": {
+      "de": "Armbanduhr, elektrische"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

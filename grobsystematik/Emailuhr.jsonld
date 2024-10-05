@@ -12,22 +12,18 @@
   "definition": {
     "de": "Sammelbegriff für Uhren, deren Gehäuse mit Email überzogen ist. Die Produktionszeit reicht vom 17. bis zum 19._Jahrhundert.+Die Entwicklung beginnt Anfang des 17._Jahrhunderts in Blois. In der Zeit von ca. 1740 - 1780 kommen Emailuhren -_vorwiegend Pariser Herstellung_- wieder in Mode. Sie entsprechen dem Stil der Zeit und werden gern an einer Chatelaine offen getragen. Ende des 18. und im 19._Jahrhundert verlagert sich die Hauptproduktion dieser Uhren in die Schweiz. In jener Zeit wurden hauptsächlich emaillierte Formuhren (siehe Phantasieformuhr) hergestellt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Taschenuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Taschenuhr",
+    "prefLabel": {
+      "de": "Taschenuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

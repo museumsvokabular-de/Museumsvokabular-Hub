@@ -12,22 +12,18 @@
   "definition": {
     "de": "Auf einer Kugel mit polwärts gerichteter Achse sind die Stunden wie bei der Äquatorialsonnenuhr aufgetragen. Ein um die Achse drehbarer Halbkreis wirft den Schatten auf das Zifferblatt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Krummflächensonnenuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Krummflächensonnenuhr",
+    "prefLabel": {
+      "de": "Krummflächensonnenuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

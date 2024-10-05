@@ -4,24 +4,42 @@
   "prefLabel": {
     "de": "Soziale Gruppen und Vereine"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Studentika"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Studentika",
+      "prefLabel": {
+        "de": "Studentika"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bruderschaften"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bruderschaften",
+      "prefLabel": {
+        "de": "Bruderschaften"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kriegervereinsfahne"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schützen",
+      "prefLabel": {
+        "de": "Schützen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Vereinsfahne"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kriegervereinsfahne",
+      "prefLabel": {
+        "de": "Kriegervereinsfahne"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Vereinswimpel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Vereinsfahne",
+      "prefLabel": {
+        "de": "Vereinsfahne"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schützen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Vereinswimpel",
+      "prefLabel": {
+        "de": "Vereinswimpel"
+      }
     }
   ],
   "inScheme": [

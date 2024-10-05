@@ -7,22 +7,18 @@
   "definition": {
     "de": "Spitze aus Gimpen- und Leinenschlag. Formen sind von starker Schnur umrandet, oft parallel zu den Formen verlaufend. Sie ist eine grobe und dekorative Spitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 32"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

@@ -7,30 +7,32 @@
   "definition": {
     "de": "bezieht sich auf das Stickmaterial. Die Technik existiert nicht allein, sondern wird beim Arbeitsgang \"Sticken\" erledigt. Es entstehen Durchbrüche, bekannt auch unter A- jour-Arbeit. Der Stoff wird dabei nicht verletzt, seine Fäden werden nur verschoben.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.338-350"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000032"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000032",
+      "prefLabel": {
+        "de": "angezogen, manuell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000033"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000033",
+      "prefLabel": {
+        "de": "angezogen, maschinell"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000001",
+    "prefLabel": {
+      "de": "Technik der Herstellung von Spitzen und Stickereien"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

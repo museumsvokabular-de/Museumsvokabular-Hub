@@ -10,36 +10,44 @@
       "Pferdekummet - Rinderkummet"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anspannung_f�r_Zugtiere_(Ackerbauger�t_-_Feldbestellung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Arbeitskummet",
+      "prefLabel": {
+        "de": "Arbeitskummet"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Kutschenkummet",
+      "prefLabel": {
+        "de": "Kutschenkummet"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Pferdehamen",
+      "prefLabel": {
+        "de": "Pferdehamen"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Pferdekummet",
+      "prefLabel": {
+        "de": "Pferdekummet"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Arbeitskummet"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kutschenkummet"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pferdehamen"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pferdekummet"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Anspannung_für_Zugtiere_(Ackerbaugerät_-_Feldbestellung)",
+    "prefLabel": {
+      "de": "Anspannung für Zugtiere (Ackerbaugerät - Feldbestellung)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

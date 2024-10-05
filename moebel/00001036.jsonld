@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Patentsekretär besteht aus einem hochkant gestellten flachen Kasten auf einem Untergestell. Die Vorderfläche des Kastens ist als Schreibklappe gearbeitet. Im Kasten können sich Fächer und Schübe befinden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001034"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001034",
+    "prefLabel": {
+      "de": "Schreibmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

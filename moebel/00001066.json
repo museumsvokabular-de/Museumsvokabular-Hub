@@ -12,27 +12,26 @@
   "definition": {
     "de": "Bei der Polsterbank ist die Sitzfläche gepolstert; Rückenlehne und Armlehnen können zusätzlich flach gepolstert sein. Die Übergänge zum Sofa sind fließend."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001059"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002428",
+      "prefLabel": {
+        "de": "Ottomane"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002428"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001059",
+    "prefLabel": {
+      "de": "Bank"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

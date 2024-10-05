@@ -7,22 +7,18 @@
   "definition": {
     "de": "Sie ist eine einfache Formenschlagspitze in geometrischer Musterung. Als Gebrauchsspitze war sie in der zweiten Hälfte des 19. Jhs. weit verbreitet. Unter der Bezeichnung \"Yak-Spitze\" wurde die Torchon-Spitze aus glänzender dunkler Wolle, etwa um 1870 bis 1890 gefertigt.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 39"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Bei kunstvollen und hochwertigen Uhren kommen gelegentlich Planetenindikationen vor. Grundlage bilden die bekannten Planeten mit ihren jeweiligen Umlaufzeiten. Die klassischen fünf Planeten_-_Merkur, Venus, Mars, Jupiter und Saturn_-_waren schon seit der Antike bekannt. Viele berühmte Uhrmacher haben sich ab dem 14._Jahrhundert bemüht, die Planetenbewegungen schematisch darzustellen. Man unterscheidet das geozentrische_-_auf die Erde bezogene_-_und das heliozentrische_-_auf die Sonne bezogene_-_Weltbild."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Astronomische_Indikationen"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Astronomische_Indikationen",
+    "prefLabel": {
+      "de": "Astronomische Indikationen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -12,22 +12,18 @@
   "definition": {
     "de": "Es gibt zwei Grundformen des Halbhimmelbettes:1. Der Betthimmel (Baldachin) wird am Kopfende vom hochgezogenen Kopfteil getragen; er überkragt das Bett etwa zur Hälfte.2. Der Baldachin überkragt das Bett etwa zur Hälfte; getragen wird er von zwei Säulen am Kopfende."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

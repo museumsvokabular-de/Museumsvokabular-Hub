@@ -4,9 +4,12 @@
   "prefLabel": {
     "de": "Werkzeug"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzbearbeitungsgerät",
+      "prefLabel": {
+        "de": "Holzbearbeitungsgerät"
+      }
     }
   ],
   "inScheme": [

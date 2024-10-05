@@ -12,25 +12,12 @@
   "definition": {
     "de": "Genaue Wanduhr, in deren unterem Teil sich ein von der Uhr gesteuertes Zeitstempelwerk befindet. Mit diesen Uhren wird Arbeitsbeginn und - ende registriert, indem auf eine Karte die jeweilige Uhrzeit gestempelt wird. Stechuhren können über ein eigenes Uhrwerk verfügen, oder aber auch von einer Hauptuhr gesteuert werden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wanduhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr"
-    }
-  ],
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

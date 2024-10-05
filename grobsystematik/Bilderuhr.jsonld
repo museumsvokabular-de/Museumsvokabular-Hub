@@ -12,22 +12,18 @@
   "definition": {
     "de": "Oft handelt es sich in der bildlichen Darstellung um ländliche Szenen, bei denen meist im Hintergrund ein Turm oder eine Kirche mit kleinem Zifferblatt erkennbar ist. Das Uhrwerk befindet sich auf der Rückseite. Diese Uhren entstanden etwa 1780 und waren vor allem in Süddeutschland, Österreich und der Schweiz zu Hause."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rahmenuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rahmenuhr",
+    "prefLabel": {
+      "de": "Rahmenuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

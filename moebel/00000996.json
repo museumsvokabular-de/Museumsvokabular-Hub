@@ -7,22 +7,18 @@
   "definition": {
     "de": "Das Schiebebett besteht aus einem feststehenden Bett, dessen Bettfläche sich durch das Herausziehen einer Bettseite vergrößern lässt. Die Liegefläche bleibt auf einer Höhe."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000995"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000995",
+    "prefLabel": {
+      "de": "Auszugbett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

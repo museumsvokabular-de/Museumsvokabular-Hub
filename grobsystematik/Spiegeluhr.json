@@ -12,27 +12,26 @@
   "definition": {
     "de": "Beliebte Bauform in der Zeit von 1580 bis 1630. Die Gehäuse sind teils ziselierter Bronzeguß, teils getriebenes und vergoldetes Kupfer- oder Messingblech. Es gibt meist nur eine Schauseite, während das Werk auf der Rückseite sichtbar ist."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stutzuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Monstranzuhr",
+      "prefLabel": {
+        "de": "Monstranzuhr"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Monstranzuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stutzuhr",
+    "prefLabel": {
+      "de": "Stutzuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

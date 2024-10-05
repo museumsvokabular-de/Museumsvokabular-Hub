@@ -9,36 +9,44 @@
       "Seusse"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sensen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sense,_Schneide_gezähnt,_mit_Griff",
+      "prefLabel": {
+        "de": "Sense, Schneide gezähnt, mit Griff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sense,_Schneide_gezähnt,_ohne_Griff",
+      "prefLabel": {
+        "de": "Sense, Schneide gezähnt, ohne Griff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sense,_Schneide_glatt,_mit_Griff",
+      "prefLabel": {
+        "de": "Sense, Schneide glatt, mit Griff"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sense,_Schneide_glatt,_ohne_Griff",
+      "prefLabel": {
+        "de": "Sense, Schneide glatt, ohne Griff"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sense,_Schneide_gez�hnt,_mit_Griff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sense,_Schneide_gez�hnt,_ohne_Griff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sense,_Schneide_glatt,_mit_Griff"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sense,_Schneide_glatt,_ohne_Griff"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Sensen",
+    "prefLabel": {
+      "de": "Sensen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

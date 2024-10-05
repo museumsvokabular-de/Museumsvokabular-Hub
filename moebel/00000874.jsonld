@@ -13,27 +13,26 @@
   "definition": {
     "de": "Die Doppelkommode ist zweiteilig gegliedert. Der obere Aufsatz, der zumeist zurückspringt, ist wie auch der untere Teil mit Schubladen versehen."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000872"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000875",
+      "prefLabel": {
+        "de": "Highboy"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000875"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000872",
+    "prefLabel": {
+      "de": "Kommode"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

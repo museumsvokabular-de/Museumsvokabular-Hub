@@ -7,30 +7,32 @@
   "definition": {
     "de": "Knüpfen bedeutet das Verschlingen oder Verknoten von Fäden zur Bildung eines Musters oder eines Grundnetzes, maschinell ist nur ein Grundnetz herstellbar."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000027"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000027",
+      "prefLabel": {
+        "de": "geknüpft, manuell"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000028"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000028",
+      "prefLabel": {
+        "de": "geknüpft, maschinell"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen/00000001",
+    "prefLabel": {
+      "de": "Technik der Herstellung von Spitzen und Stickereien"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/technik_spitzen"
     }

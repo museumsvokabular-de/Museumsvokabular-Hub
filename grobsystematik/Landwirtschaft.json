@@ -9,18 +9,30 @@
       "Wirtschaft (Land-)"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flachsverarbeitung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flachsverarbeitung",
+      "prefLabel": {
+        "de": "Flachsverarbeitung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ackerbaugerät_-_Feldbestellung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Getreideverarbeitung",
+      "prefLabel": {
+        "de": "Getreideverarbeitung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sonderkulturen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sonderkulturen",
+      "prefLabel": {
+        "de": "Sonderkulturen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Getreideverarbeitung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ackerbaugerät_-_Feldbestellung",
+      "prefLabel": {
+        "de": "Ackerbaugerät - Feldbestellung"
+      }
     }
   ],
   "inScheme": [

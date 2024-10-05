@@ -12,22 +12,18 @@
   "definition": {
     "de": "Die Voyelle (von französisch voir = ansehen, erblicken) ist so konstruiert, dass man rittlings auf ihr sitzen kann. Auf der Oberkante der Lehne befindet sich eine gepolsterte Auflage, wo die verschränkten Arme platziert werden können. Der Stuhl wurde so kontruiert, damit man beim Brett- oder Kartenspiel bequem zuschauen kann."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001135"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001135",
+    "prefLabel": {
+      "de": "Polsterstuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

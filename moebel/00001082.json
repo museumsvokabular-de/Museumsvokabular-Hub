@@ -7,22 +7,18 @@
   "definition": {
     "de": "Durch Herausklappen von zwei bis drei Stufen, die zwischen den Beinen angebracht sind, wird der Treppenhocker in eine Trittleiter verwandelt. Oft wird der Sitz dabei zur oberen Stufe; bei gepolsterten Sitzen sind diese in der Regel hochzuklappen."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001072"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001072",
+    "prefLabel": {
+      "de": "Hocker"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

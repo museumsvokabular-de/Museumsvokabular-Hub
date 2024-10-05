@@ -13,22 +13,18 @@
   "definition": {
     "de": "Handtuchhalter gibt es in zwei Typen. Der eine, stets hängende, besteht aus Rückwandbrett oder -leiste und darüber angebrachtem Ablagebrett. In die Rückwand sind Haken eingelassen; unter das Ablagebrett ist eine Leiste für das die Gebrauchshandtücher verdeckende Überhandtuch montiert. Der andere Typ - auch Handtuchständer genannt - ist ein stehendes oder hängendes Gestell mit waagerechten Standen, die in unterschiedlicher Höhe angebracht sein können."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+    "prefLabel": {
+      "de": "Gestell"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

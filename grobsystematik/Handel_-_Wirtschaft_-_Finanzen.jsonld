@@ -10,15 +10,24 @@
       "Wirtschaft - Finanzen - Handel"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Geld"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Geld",
+      "prefLabel": {
+        "de": "Geld"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Geschäftsbrief"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kasse_(Schusterwerkstatt)",
+      "prefLabel": {
+        "de": "Kasse (Schusterwerkstatt)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kasse_(Schusterwerkstatt)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Geschäftsbrief",
+      "prefLabel": {
+        "de": "Geschäftsbrief"
+      }
     }
   ],
   "inScheme": [

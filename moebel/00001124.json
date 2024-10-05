@@ -12,22 +12,18 @@
   "definition": {
     "de": "Hauptkonstruktionsmerkmal des Kinderhochstuhls ist seine erhöhte Sitzfläche. Rückenlehne, Armlehnen, Fußrast, vorn angebrachter Bügel und gegebenfalls ein Schrittgurt bewahren das Kind vor dem Herausfallen. Zuweilen ist in den Sitz ein Töpfchen integriert. Eine Variante des Kinderhochstuhls besteht aus zwei Teilen, die einzeln als Stuhl und Tisch, ineinander gesteckt als Kinderhochstuhl verwendet werden. Bei einer weiteren Variante sind Tisch- und Stuhlelement durch Scharniere verbunden; der Tisch wird unter den Stuhl geklappt. Beim \"mitwachsenden Hochstuhl\" ist die Höhe der Sitzfläche veränderbar."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

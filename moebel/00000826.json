@@ -12,30 +12,32 @@
   "definition": {
     "de": "Der Sockel besteht aus einem geschlossenen Korpus, dessen Oberseite zur Ablage dient."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000795"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002292"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002292",
+      "prefLabel": {
+        "de": "Säule"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002461"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002461",
+      "prefLabel": {
+        "de": "Blumensäule"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000795",
+    "prefLabel": {
+      "de": "Gestell"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

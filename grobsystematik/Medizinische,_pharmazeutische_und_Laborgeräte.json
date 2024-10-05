@@ -9,183 +9,360 @@
       "Medizinisches Gerät (Pharmazie und)"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Doppelhenkel-Mörser"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Abfüllmaschine_für_Arzneimittel",
+      "prefLabel": {
+        "de": "Abfüllmaschine für Arzneimittel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Mörser"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Aderlaßschnepper",
+      "prefLabel": {
+        "de": "Aderlaßschnepper"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messingmörser"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekendose",
+      "prefLabel": {
+        "de": "Apothekendose"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mörser"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekengefäß",
+      "prefLabel": {
+        "de": "Apothekengefäß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/T-Stößel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekengerät",
+      "prefLabel": {
+        "de": "Apothekengerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Abfüllmaschine_für_Arzneimittel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekenmühle",
+      "prefLabel": {
+        "de": "Apothekenmühle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Aderlaßschnepper"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apotheker-Ballonflasche",
+      "prefLabel": {
+        "de": "Apotheker-Ballonflasche"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekendose"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apotheker-Holzgefäß",
+      "prefLabel": {
+        "de": "Apotheker-Holzgefäß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekengefäß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apotheker-Tüllenkanne",
+      "prefLabel": {
+        "de": "Apotheker-Tüllenkanne"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekengerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerblechgefäß",
+      "prefLabel": {
+        "de": "Apothekerblechgefäß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekenmühle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerbüchse",
+      "prefLabel": {
+        "de": "Apothekerbüchse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apotheker-Ballonflasche"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerdose",
+      "prefLabel": {
+        "de": "Apothekerdose"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apotheker-Holzgefäß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerflasche",
+      "prefLabel": {
+        "de": "Apothekerflasche"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apotheker-Tüllenkanne"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekergefäß",
+      "prefLabel": {
+        "de": "Apothekergefäß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerblechgefäß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerglas",
+      "prefLabel": {
+        "de": "Apothekerglas"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerbüchse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekergläschen",
+      "prefLabel": {
+        "de": "Apothekergläschen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerdose"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerrezept",
+      "prefLabel": {
+        "de": "Apothekerrezept"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerflasche"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerschrank",
+      "prefLabel": {
+        "de": "Apothekerschrank"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekergefäß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerschränkchen",
+      "prefLabel": {
+        "de": "Apothekerschränkchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerglas"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekersieb",
+      "prefLabel": {
+        "de": "Apothekersieb"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekergläschen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekertongefäß",
+      "prefLabel": {
+        "de": "Apothekertongefäß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerrezept"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekertopf",
+      "prefLabel": {
+        "de": "Apothekertopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerschrank"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerwaage",
+      "prefLabel": {
+        "de": "Apothekerwaage"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerschränkchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Arzneibehälter",
+      "prefLabel": {
+        "de": "Arzneibehälter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekersieb"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Arzneimitteldose",
+      "prefLabel": {
+        "de": "Arzneimitteldose"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerstandwaage"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Arzneimittelglas",
+      "prefLabel": {
+        "de": "Arzneimittelglas"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekertongefäß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Arzneimittelschachtel",
+      "prefLabel": {
+        "de": "Arzneimittelschachtel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekertopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Blutsenkungsgeschwindigkeitsmesser",
+      "prefLabel": {
+        "de": "Blutsenkungsgeschwindigkeitsmesser"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Apothekerwaage"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dekoktorium",
+      "prefLabel": {
+        "de": "Dekoktorium"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Arzneibehälter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Destilliergerät",
+      "prefLabel": {
+        "de": "Destilliergerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Arzneimitteldose"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Destillierkolben",
+      "prefLabel": {
+        "de": "Destillierkolben"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Arzneimittelglas"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glasretorte",
+      "prefLabel": {
+        "de": "Glasretorte"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Arzneimittelschachtel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hausapotheke",
+      "prefLabel": {
+        "de": "Hausapotheke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Blutsenkungsgeschwindigkeitsmesser"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Infundierapparat",
+      "prefLabel": {
+        "de": "Infundierapparat"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dekoktorium"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Injektionsspritze",
+      "prefLabel": {
+        "de": "Injektionsspritze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Destilliergerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Klistierspritze",
+      "prefLabel": {
+        "de": "Klistierspritze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Destillierkolben"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Klistierspritze_für_Pferde",
+      "prefLabel": {
+        "de": "Klistierspritze für Pferde"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glasretorte"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Laborgefäß",
+      "prefLabel": {
+        "de": "Laborgefäß"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hausapotheke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Medizinglas",
+      "prefLabel": {
+        "de": "Medizinglas"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Infundierapparat"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ohrenspritze",
+      "prefLabel": {
+        "de": "Ohrenspritze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Injektionsspritze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Phiole",
+      "prefLabel": {
+        "de": "Phiole"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klistierspritze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reagenzglas",
+      "prefLabel": {
+        "de": "Reagenzglas"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Klistierspritze_für_Pferde"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reagenzkolben",
+      "prefLabel": {
+        "de": "Reagenzkolben"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Laborgefäß"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reiseapotheke",
+      "prefLabel": {
+        "de": "Reiseapotheke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Medizinglas"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Röhren-Phiole",
+      "prefLabel": {
+        "de": "Röhren-Phiole"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ohrenspritze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schröpfglas",
+      "prefLabel": {
+        "de": "Schröpfglas"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Phiole"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schröpfkopf",
+      "prefLabel": {
+        "de": "Schröpfkopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reagenzglas"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schröpfschnepper",
+      "prefLabel": {
+        "de": "Schröpfschnepper"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reagenzkolben"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spritze,_medizinisch",
+      "prefLabel": {
+        "de": "Spritze, medizinisch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reiseapotheke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tinkturenpresse",
+      "prefLabel": {
+        "de": "Tinkturenpresse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Röhren-Phiole"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Verbandspäckchen",
+      "prefLabel": {
+        "de": "Verbandspäckchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schröpfglas"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zahn-Extraktionszange",
+      "prefLabel": {
+        "de": "Zahn-Extraktionszange"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schröpfkopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zahnplombiermaschine",
+      "prefLabel": {
+        "de": "Zahnplombiermaschine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schröpfschnepper"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Apothekerstandwaage",
+      "prefLabel": {
+        "de": "Apothekerstandwaage"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spritze,_medizinisch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Doppelhenkel-Mörser",
+      "prefLabel": {
+        "de": "Bronze-Doppelhenkel-Mörser"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tinkturenpresse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Mörser",
+      "prefLabel": {
+        "de": "Bronze-Mörser"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Verbandspäckchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Messingmörser",
+      "prefLabel": {
+        "de": "Messingmörser"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zahn-Extraktionszange"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mörser",
+      "prefLabel": {
+        "de": "Mörser"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zahnplombiermaschine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/T-Stößel",
+      "prefLabel": {
+        "de": "T-Stößel"
+      }
     }
   ],
   "inScheme": [

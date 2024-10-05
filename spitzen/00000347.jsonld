@@ -7,22 +7,18 @@
   "definition": {
     "de": "Durchbrucharbeit, eigentlich zu den Stickereien gerechnet, muß dann als Spitze bezeichnet werden, wenn sie den Wesensanforderungen der Spitze entspricht (die Hauptformen des Musters müssen sich infolge sie umgebender lockerer durchsichtiger Textur abheben). Das ist dann gegeben, wenn die durch den Durchbruch entstandenen quadratischen Löcher mit Nadelarbeit verziert werden und die Musterfiguren selbst bilden oder wenn die im Stoff verbliebenen Formen durch die Durchbrucharbeiten ausgespart erscheinen.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.363"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000226"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000226",
+    "prefLabel": {
+      "de": "Handgestickte Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

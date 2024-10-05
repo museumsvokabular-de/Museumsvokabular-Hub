@@ -16,22 +16,18 @@
   "definition": {
     "de": "Die Pfeilerkommode ist eine schlanke Kommode mit mehr als zwei Schüben; ihre Höhe beträgt ein Mehrfaches der Breite. Die Bezeichnung Semainier (von französisch semaine = Woche) meint ursprünglich eine Pfeilerkommode mit sieben Schüben - für jeden Wochentag ein Wäschefach."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000872"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000872",
+    "prefLabel": {
+      "de": "Kommode"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

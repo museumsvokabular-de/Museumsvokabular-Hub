@@ -7,22 +7,18 @@
   "definition": {
     "de": "Der Behälter zum Abstellen von Schirmen ist oft mit durchbrochener Wandung zur Belüftung nasser Regenschirme konstruiert; in der Regel hat er im Fuß ein Behältnis für das abtropfende Wasser."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000800"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000800",
+    "prefLabel": {
+      "de": "Garderobe"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

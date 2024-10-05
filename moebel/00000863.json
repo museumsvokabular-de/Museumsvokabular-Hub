@@ -12,27 +12,26 @@
   "definition": {
     "de": "Das Untergestell des Zargentisches wird aus vier Beinen und einem umlaufenden Zargenkranz gebildet. Die Zargen können in die Beine eingezapft sein oder sie sind von innen an dem Zargenkranz befestigt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000831"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000864",
+      "prefLabel": {
+        "de": "Ausziehtisch"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000864"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000831",
+    "prefLabel": {
+      "de": "Tisch"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

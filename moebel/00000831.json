@@ -7,129 +7,230 @@
   "definition": {
     "de": "Der Tisch besteht aus einer horizontalen Platte, dem sogenannten Blatt, das von einem oder mehreren Tragelementen gehalten wird. Die Höhe variiert stil- und gebrauchsabhängig. Die Konstruktion von Tischen aus Kunststoffen, Keramik, Glas, Geflecht, Metallen, papier/Pappe und/oder Textil differiert zuweilen; diese Tische orientieren sich jedoch in der Regel an der tradierten Tisch-Form.Geschichte:Schon seit der Antike ist der Tisch entweder als luxuriöser Repräsentationsgegenstand oder als schlichtes Gebrauchsobjekt bekannt.Die im Frühmittelalter und bis in die Renaissance hinein am häufigsten verbreitete Tischform war der Tafeltisch. Er wurde bei Bedarf auf- und abgebaut und bestand aus zwei Böcken, über die lose Bohlen oder Bretter gelegt wurden. Er war, wie man auf zeitgenössischen Bildern sehen kann, mit einem großen Tischtuch bedeckt, das gleichzeitig als Serviette diente.Der markante Kastentisch entwickelte sich in der Spätgotik; die italienische Renaissance brachte den auf einer meist säulenartigen Mittelstütze ruhenden Rundtisch hervor.Im 15. Jahrhundert entwickelte sich der Wangentisch. Im 16. Jahrhundert kamen verstärkt Zargentische in Gebrauch, deren Beine im süddeutschen Raum ein aus Italien übernommenes kantiges Profil weiweisen, in Norddeutschland hingegen die aus England stammende, aus Holland eingeführte Balusterform.Im 17. und 18. Jahrhundert waren neben dem schweren ausziehbaren Esstisch viele weitere, oftmals sehr zierliche Tischformen verbreitet. Neue Grundformen wurden nicht mehr entwickelt, sondern bestehende dem jeweils herrschenden Geschmack angepasst."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000794"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000832",
+      "prefLabel": {
+        "de": "Bocktisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000836",
+      "prefLabel": {
+        "de": "Kastentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000838",
+      "prefLabel": {
+        "de": "Klapptisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000841",
+      "prefLabel": {
+        "de": "Nähtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000843",
+      "prefLabel": {
+        "de": "Pfostentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000847",
+      "prefLabel": {
+        "de": "Satztisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000848",
+      "prefLabel": {
+        "de": "Säulentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000851",
+      "prefLabel": {
+        "de": "Spieltisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000853",
+      "prefLabel": {
+        "de": "Taschenleerer"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000854",
+      "prefLabel": {
+        "de": "Teetisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000855",
+      "prefLabel": {
+        "de": "Toilettentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000856",
+      "prefLabel": {
+        "de": "Verwandlungstisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000857",
+      "prefLabel": {
+        "de": "Wandtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000861",
+      "prefLabel": {
+        "de": "Wangentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002294",
+      "prefLabel": {
+        "de": "Couchtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002295",
+      "prefLabel": {
+        "de": "Esstisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002296",
+      "prefLabel": {
+        "de": "Etagerentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002297",
+      "prefLabel": {
+        "de": "Halbtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002298",
+      "prefLabel": {
+        "de": "Küchentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002299",
+      "prefLabel": {
+        "de": "Nierentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002300",
+      "prefLabel": {
+        "de": "Prunktisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002301",
+      "prefLabel": {
+        "de": "Putztisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002302",
+      "prefLabel": {
+        "de": "Rundtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002303",
+      "prefLabel": {
+        "de": "Salontisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002304",
+      "prefLabel": {
+        "de": "Schranktisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002305",
+      "prefLabel": {
+        "de": "Speisetisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002306",
+      "prefLabel": {
+        "de": "Stubentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002307",
+      "prefLabel": {
+        "de": "Telefontisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002308",
+      "prefLabel": {
+        "de": "Treppentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002309",
+      "prefLabel": {
+        "de": "Visitenkartentisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002310",
+      "prefLabel": {
+        "de": "Wohnzimmertisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002311",
+      "prefLabel": {
+        "de": "Ziertisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002463",
+      "prefLabel": {
+        "de": "Ablagetisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002464",
+      "prefLabel": {
+        "de": "Beistelltisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000863",
+      "prefLabel": {
+        "de": "Zargentisch"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000832"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000836"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000838"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000841"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000843"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000847"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000848"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000851"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000853"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000854"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000855"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000856"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000857"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000861"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000863"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002294"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002295"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002296"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002297"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002298"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002299"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002300"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002301"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002302"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002303"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002304"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002305"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002306"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002307"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002308"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002309"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002310"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002311"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002463"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002464"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000794",
+    "prefLabel": {
+      "de": "Ablage"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

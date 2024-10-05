@@ -4,39 +4,50 @@
   "prefLabel": {
     "de": "Holzbearbeitungsgerät"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Werkzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Faßbinderwerkzeug",
+      "prefLabel": {
+        "de": "Faßbinderwerkzeug"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Tischlerwerkzeug",
+      "prefLabel": {
+        "de": "Tischlerwerkzeug"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Zimmermannswerkzeug",
+      "prefLabel": {
+        "de": "Zimmermannswerkzeug"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Holzbearbeitungsgerät_allgemein",
+      "prefLabel": {
+        "de": "Holzbearbeitungsgerät allgemein"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Wagnerwerkzeug_-_Binderwerkzeug_-_Zündholzherstellung",
+      "prefLabel": {
+        "de": "Wagnerwerkzeug - Binderwerkzeug - Zündholzherstellung"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzbearbeitungsger�t_allgemein"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischlerwerkzeug"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fa�binderwerkzeug"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wagnerwerkzeug_-_Binderwerkzeug_-_Z�ndholzherstellung"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zimmermannswerkzeug"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Werkzeug",
+    "prefLabel": {
+      "de": "Werkzeug"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau"
     }

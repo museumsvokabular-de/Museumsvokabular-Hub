@@ -4,279 +4,552 @@
   "prefLabel": {
     "de": "Prähistorie"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Beil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bandkeramik",
+      "prefLabel": {
+        "de": "Bandkeramik"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Speckstein-Beil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bandkeramiktopf",
+      "prefLabel": {
+        "de": "Bandkeramiktopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Bohrer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bechertopf",
+      "prefLabel": {
+        "de": "Bechertopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Metall-Fibel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Fibel",
+      "prefLabel": {
+        "de": "Bronze-Fibel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreilagen-Kamm"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Fibel-Stück",
+      "prefLabel": {
+        "de": "Bronze-Fibel-Stück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Trichterhalskrug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Fingerring",
+      "prefLabel": {
+        "de": "Bronze-Fingerring"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Firmalampe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Griffende",
+      "prefLabel": {
+        "de": "Bronze-Griffende"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bandkeramik"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Gürtelzunge",
+      "prefLabel": {
+        "de": "Bronze-Gürtelzunge"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bandkeramiktopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Löffelchen",
+      "prefLabel": {
+        "de": "Bronze-Löffelchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bechertopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Messerrest",
+      "prefLabel": {
+        "de": "Bronze-Messerrest"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Fibel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Nadel",
+      "prefLabel": {
+        "de": "Bronze-Nadel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Fibel-Stück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Niet",
+      "prefLabel": {
+        "de": "Bronze-Niet"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Fingerring"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Nietkopf",
+      "prefLabel": {
+        "de": "Bronze-Nietkopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Griffende"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Pinzette",
+      "prefLabel": {
+        "de": "Bronze-Pinzette"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Gürtelzunge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Rundfibel",
+      "prefLabel": {
+        "de": "Bronze-Rundfibel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Löffelchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Satyrkopf",
+      "prefLabel": {
+        "de": "Bronze-Satyrkopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Messerrest"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronze-Schaft",
+      "prefLabel": {
+        "de": "Bronze-Schaft"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Nadel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bronzeblech-Beschlagrest",
+      "prefLabel": {
+        "de": "Bronzeblech-Beschlagrest"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Niet"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Engobe-Becher-Scherben",
+      "prefLabel": {
+        "de": "Engobe-Becher-Scherben"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Nietkopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Engobebecher",
+      "prefLabel": {
+        "de": "Engobebecher"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Pinzette"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Faustkeil",
+      "prefLabel": {
+        "de": "Faustkeil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Rundfibel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Abschlag",
+      "prefLabel": {
+        "de": "Feuerstein-Abschlag"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Satyrkopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Abspliss",
+      "prefLabel": {
+        "de": "Feuerstein-Abspliss"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronze-Schaft"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Faustkeil",
+      "prefLabel": {
+        "de": "Feuerstein-Faustkeil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bronzeblech-Beschlagrest"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Hochkratzer",
+      "prefLabel": {
+        "de": "Feuerstein-Hochkratzer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Engobe-Becher-Scherben"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Kernstück",
+      "prefLabel": {
+        "de": "Feuerstein-Kernstück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Engobebecher"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Klinge",
+      "prefLabel": {
+        "de": "Feuerstein-Klinge"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Faustkeil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Klingenbruchstück",
+      "prefLabel": {
+        "de": "Feuerstein-Klingenbruchstück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Abschlag"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Klingenschaber",
+      "prefLabel": {
+        "de": "Feuerstein-Klingenschaber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Abspliss"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-La-Gravette-Spitze",
+      "prefLabel": {
+        "de": "Feuerstein-La-Gravette-Spitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Faustkeil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Levalloisklinge",
+      "prefLabel": {
+        "de": "Feuerstein-Levalloisklinge"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Hochkratzer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Levalloisspitze",
+      "prefLabel": {
+        "de": "Feuerstein-Levalloisspitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Kernstück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Messer",
+      "prefLabel": {
+        "de": "Feuerstein-Messer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Klinge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Messerchen",
+      "prefLabel": {
+        "de": "Feuerstein-Messerchen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Klingenbruchstück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Nagelkratzer",
+      "prefLabel": {
+        "de": "Feuerstein-Nagelkratzer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Klingenschaber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Nucleus",
+      "prefLabel": {
+        "de": "Feuerstein-Nucleus"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-La-Gravette-Spitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Pfeilspitze",
+      "prefLabel": {
+        "de": "Feuerstein-Pfeilspitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Levalloisklinge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Rundkratzer",
+      "prefLabel": {
+        "de": "Feuerstein-Rundkratzer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Levalloisspitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Rundschaber",
+      "prefLabel": {
+        "de": "Feuerstein-Rundschaber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Messer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Schaber",
+      "prefLabel": {
+        "de": "Feuerstein-Schaber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Messerchen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Spitze",
+      "prefLabel": {
+        "de": "Feuerstein-Spitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Nagelkratzer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Stirnschaber",
+      "prefLabel": {
+        "de": "Feuerstein-Stirnschaber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Nucleus"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Tardenois-Spitze",
+      "prefLabel": {
+        "de": "Feuerstein-Tardenois-Spitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Pfeilspitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinfpeilspitze",
+      "prefLabel": {
+        "de": "Feuersteinfpeilspitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Rundkratzer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteingerät",
+      "prefLabel": {
+        "de": "Feuersteingerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Rundschaber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinhacke",
+      "prefLabel": {
+        "de": "Feuersteinhacke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Schaber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinkratzer",
+      "prefLabel": {
+        "de": "Feuersteinkratzer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Spitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinspandolch",
+      "prefLabel": {
+        "de": "Feuersteinspandolch"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Stirnschaber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinsplitter",
+      "prefLabel": {
+        "de": "Feuersteinsplitter"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuerstein-Tardenois-Spitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinsplitter_(Werkstättenmaterial)",
+      "prefLabel": {
+        "de": "Feuersteinsplitter (Werkstättenmaterial)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinfpeilspitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinstück",
+      "prefLabel": {
+        "de": "Feuersteinstück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteingerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuersteinwerkstück",
+      "prefLabel": {
+        "de": "Feuersteinwerkstück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinhacke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Flintspitze",
+      "prefLabel": {
+        "de": "Flintspitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinkratzer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fundsammlung",
+      "prefLabel": {
+        "de": "Fundsammlung"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinspandolch"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hornstein-Gerät",
+      "prefLabel": {
+        "de": "Hornstein-Gerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinsplitter"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hornstein-Hacke",
+      "prefLabel": {
+        "de": "Hornstein-Hacke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinsplitter_(Werkstättenmaterial)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hornstein-Kernstück",
+      "prefLabel": {
+        "de": "Hornstein-Kernstück"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinstück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hornstein-Spitze",
+      "prefLabel": {
+        "de": "Hornstein-Spitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Feuersteinwerkstück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lehrkasten",
+      "prefLabel": {
+        "de": "Lehrkasten"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Flintspitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Messerklinge",
+      "prefLabel": {
+        "de": "Messerklinge"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fundsammlung"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pelvis",
+      "prefLabel": {
+        "de": "Pelvis"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hornstein-Gerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pfeilschaber",
+      "prefLabel": {
+        "de": "Pfeilschaber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hornstein-Hacke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Spitzbeil",
+      "prefLabel": {
+        "de": "Spitzbeil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hornstein-Kernstück"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stein-Spitze",
+      "prefLabel": {
+        "de": "Stein-Spitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hornstein-Spitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinabschlag",
+      "prefLabel": {
+        "de": "Steinabschlag"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lehrkasten"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinaxt",
+      "prefLabel": {
+        "de": "Steinaxt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Messerklinge"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinbeil",
+      "prefLabel": {
+        "de": "Steinbeil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pelvis"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinbeil-Rohling",
+      "prefLabel": {
+        "de": "Steinbeil-Rohling"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pfeilschaber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinhacke",
+      "prefLabel": {
+        "de": "Steinhacke"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Spitzbeil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinkratzer",
+      "prefLabel": {
+        "de": "Steinkratzer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stein-Spitze"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steinschaber",
+      "prefLabel": {
+        "de": "Steinschaber"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinabschlag"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Streitaxt",
+      "prefLabel": {
+        "de": "Streitaxt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinaxt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/TS-Tasse",
+      "prefLabel": {
+        "de": "TS-Tasse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinbeil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/TS-Teller",
+      "prefLabel": {
+        "de": "TS-Teller"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinbeil-Rohling"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Terra-Sigillata-Tasse",
+      "prefLabel": {
+        "de": "Terra-Sigillata-Tasse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinhacke"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Terra-Sigillata-Teller",
+      "prefLabel": {
+        "de": "Terra-Sigillata-Teller"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinkratzer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ton-Bombentopf",
+      "prefLabel": {
+        "de": "Ton-Bombentopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steinschaber"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ton-Knickwandtopf",
+      "prefLabel": {
+        "de": "Ton-Knickwandtopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Streitaxt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ton-Kugeltopf",
+      "prefLabel": {
+        "de": "Ton-Kugeltopf"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/TS-Tasse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ton-Pelvis",
+      "prefLabel": {
+        "de": "Ton-Pelvis"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/TS-Teller"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ton-Reibschüssel",
+      "prefLabel": {
+        "de": "Ton-Reibschüssel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Terra-Sigillata-Tasse"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Topf_(terra_sigillata)",
+      "prefLabel": {
+        "de": "Topf (terra sigillata)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Terra-Sigillata-Teller"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tüllenbeil",
+      "prefLabel": {
+        "de": "Tüllenbeil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Bombentopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Walzenbeil",
+      "prefLabel": {
+        "de": "Walzenbeil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Knickwandtopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dreilagen-Kamm",
+      "prefLabel": {
+        "de": "Dreilagen-Kamm"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Kugeltopf"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Beil",
+      "prefLabel": {
+        "de": "Feuerstein-Beil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Pelvis"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Feuerstein-Bohrer",
+      "prefLabel": {
+        "de": "Feuerstein-Bohrer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ton-Reibschüssel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Firmalampe",
+      "prefLabel": {
+        "de": "Firmalampe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Topf_(terra_sigillata)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Metall-Fibel",
+      "prefLabel": {
+        "de": "Metall-Fibel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tüllenbeil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Speckstein-Beil",
+      "prefLabel": {
+        "de": "Speckstein-Beil"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Walzenbeil"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Trichterhalskrug",
+      "prefLabel": {
+        "de": "Trichterhalskrug"
+      }
     }
   ],
   "inScheme": [

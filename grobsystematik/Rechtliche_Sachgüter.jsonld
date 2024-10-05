@@ -9,24 +9,42 @@
       "Sachgüter (Rechtliche)"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Rechtsmale_-_Rechtswahrzeichen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fußfessel_(mit_Kette_und_Kugel)",
+      "prefLabel": {
+        "de": "Fußfessel (mit Kette und Kugel)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fußfessel_(mit_Kette_und_Kugel)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Rechtsmale_-_Rechtswahrzeichen",
+      "prefLabel": {
+        "de": "Rechtsmale - Rechtswahrzeichen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Halseisen"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Halseisen",
+      "prefLabel": {
+        "de": "Halseisen"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handfessel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handfessel",
+      "prefLabel": {
+        "de": "Handfessel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Handschelle"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Handschelle",
+      "prefLabel": {
+        "de": "Handschelle"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Marterwerkzeug"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Marterwerkzeug",
+      "prefLabel": {
+        "de": "Marterwerkzeug"
+      }
     }
   ],
   "inScheme": [

@@ -11,24 +11,42 @@
       "Wiedergabegeräte (Ton-) - Tonaufzeichnungsgeräte"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tonträger"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Grammophon",
+      "prefLabel": {
+        "de": "Grammophon"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Grammophon"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Tonträger",
+      "prefLabel": {
+        "de": "Tonträger"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Phonograph"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Phonograph",
+      "prefLabel": {
+        "de": "Phonograph"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Radio"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Radio",
+      "prefLabel": {
+        "de": "Radio"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Radiokoffer"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Radiokoffer",
+      "prefLabel": {
+        "de": "Radiokoffer"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Symphonion-Musikbox"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Symphonion-Musikbox",
+      "prefLabel": {
+        "de": "Symphonion-Musikbox"
+      }
     }
   ],
   "inScheme": [

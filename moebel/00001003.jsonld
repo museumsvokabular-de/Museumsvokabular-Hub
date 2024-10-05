@@ -15,22 +15,18 @@
   "definition": {
     "de": "Es gibt zwei Grundformen des Himmelbettes:1. Der Betthimmel (Baldachin) bildet eine geschlossene Fläche und wird am Kopfende vom hochgezogenen Kopfteil und am Fußende von zwei Säulen getragen, die eine aufgesetzte Verlängerung der beiden Beine des Fußteils bilden.2. Der Betthimmel (Baldachin) wird in der Regel von vier Säulen getragen, zwischen denen sich keine ausgefüllte Fläche befindet. Auch der Himmel muss keine geschlossene Fläche bilden: er besteht entweder aus Textil oder aus Holz."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000993"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000993",
+    "prefLabel": {
+      "de": "Bett"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

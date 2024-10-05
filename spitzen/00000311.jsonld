@@ -7,22 +7,18 @@
   "definition": {
     "de": "Kelimstich ist Gobelinstich, bei dem im Gegensatz zur klassischen Gobelinstickerei in jeder Reihe die Richtung der Stiche wechselt.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.187,Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.160"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000310"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000310",
+    "prefLabel": {
+      "de": "Gobelinstickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

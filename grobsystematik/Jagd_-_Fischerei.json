@@ -4,21 +4,36 @@
   "prefLabel": {
     "de": "Jagd - Fischerei"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eberzahn-Jagdtrophäe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eberzahn-Jagdtrophäe",
+      "prefLabel": {
+        "de": "Eberzahn-Jagdtrophäe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Harpunennagel"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Harpunennagel",
+      "prefLabel": {
+        "de": "Harpunennagel"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Jagdtasche"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wurfhaken",
+      "prefLabel": {
+        "de": "Wurfhaken"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Leder-Jagdtasche"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Jagdtasche",
+      "prefLabel": {
+        "de": "Jagdtasche"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wurfhaken"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Leder-Jagdtasche",
+      "prefLabel": {
+        "de": "Leder-Jagdtasche"
+      }
     }
   ],
   "inScheme": [

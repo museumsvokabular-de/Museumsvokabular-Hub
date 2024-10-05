@@ -7,30 +7,32 @@
   "definition": {
     "de": "Bei der Gobelinstickerei sind alle Stiche gleichmäßig kurz und werden in Reihen neben- und untereinander gestickt. Sie können schräg, senkrecht und versetzt ausgeführt werden, wobei die Richtung innerhalb einer Stickerei nicht verändert wird.Lit.: Freier, Klaus: Technologie und Erzeugnislehre Stickerei, Leipzig 1984, S.187"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000309"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000311"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000311",
+      "prefLabel": {
+        "de": "Kelimstich"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000312"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000312",
+      "prefLabel": {
+        "de": "Perlstich"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000309",
+    "prefLabel": {
+      "de": "Flächenfüllende Stickerei"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

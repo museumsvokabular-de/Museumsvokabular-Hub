@@ -13,22 +13,18 @@
   "definition": {
     "de": "Der Servierwagen, ein fahrbares, maximal tischhohes, allseitig offenes Regal mit mindestens zwei Böden, von denen der obere oft als Tablett abnehmbar ist. Zur platzsparenden Aufbewahrung kann der Servierwagen klappbar sein. Moderne Exemplare werden häufig nach einer Produktbezeichnung \"Dinette\" genannt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000813"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000813",
+    "prefLabel": {
+      "de": "Regal"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

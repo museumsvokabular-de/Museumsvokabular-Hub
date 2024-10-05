@@ -13,22 +13,18 @@
   "definition": {
     "de": "Wesentliches Erkennungszeichen des Rollsekretärs ist der aus Lamellen hergestellte Rolladenverschluss, der die Schreibfläche in geschlossenem Zustand überwölbt. Bei den meisten Rollsekretären kann die Schreibfläche herausgezogen werden. Es gibt unterschiedliche Ausführungen, z. B. Rollsekretäre mit kommoden- oder schrankartigem Unterbau oder mit unterschiedlich gestaltetem Aufsatz."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001034"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001034",
+    "prefLabel": {
+      "de": "Schreibmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Die Musterformen sind mit Schlingstich umrandet, jedoch unterschiedlich hoch unterlegt und verschieden breit ausgeführt. Der in den Formen verbliebene Stoff wird mit kleineren Streumustern und A-jour-Effekten bestickt.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.418f"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000338"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000338",
+    "prefLabel": {
+      "de": "Handgestickte Ausschneidspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

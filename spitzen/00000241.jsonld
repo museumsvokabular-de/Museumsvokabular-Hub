@@ -7,22 +7,18 @@
   "definition": {
     "de": "Grobe Formenschlagspitze mit durchlaufenden Fäden in abstrakt geometrischer Musterung, im 19. Jh. als Massenware produziert. Ein bohnenförmiges Formenschlagmotiv (Cluny-Bohne) ist charakteristisch für diese Klöppelspitze.LIT.: Prof. Hempel, Albert: Das Spitzenbüchlein, Berlin 1934, S. 24"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+    "prefLabel": {
+      "de": "Klöppelspitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

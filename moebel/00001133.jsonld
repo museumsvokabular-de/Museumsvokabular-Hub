@@ -13,27 +13,26 @@
   "definition": {
     "de": "Beim Pfostenstuhl stehen die Beine (Pfosten) stets senkrecht, wobei die hinteren in die Rückenlehne übergehen. Die Verbindung der Beine untereinander durch Sprossen ist für die Stabilität unerlässlich."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001110"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001134",
+      "prefLabel": {
+        "de": "Dreipfostenstuhl"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001134"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001110",
+    "prefLabel": {
+      "de": "Stuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

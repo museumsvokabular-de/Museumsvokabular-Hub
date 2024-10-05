@@ -9,36 +9,44 @@
       "Karren (Zweirad-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Karren_(Landwirtschaft)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Baumkarren_mit_Pferdebespannung",
+      "prefLabel": {
+        "de": "Baumkarren mit Pferdebespannung"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kippkarren_mit_Scherdeichsel_und_Schütt",
+      "prefLabel": {
+        "de": "Kippkarren mit Scherdeichsel und Schütt"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Pferdekarren_mit_Gabeldeichsel_und_abkippbaren_Wagenkasten",
+      "prefLabel": {
+        "de": "Pferdekarren mit Gabeldeichsel und abkippbaren Wagenkasten"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Sturzkarren",
+      "prefLabel": {
+        "de": "Sturzkarren"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Baumkarren_mit_Pferdebespannung"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kippkarren_mit_Scherdeichsel_und_Schütt"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Pferdekarren_mit_Gabeldeichsel_und_abkippbaren_Wagenkasten"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Sturzkarren"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Karren_(Landwirtschaft)",
+    "prefLabel": {
+      "de": "Karren (Landwirtschaft)"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -12,36 +12,44 @@
   "definition": {
     "de": "Das Uhrwerk ist in einem prismatischen Holzkästchen mit einer in der Form den jeweiligen Moderichtungen folgenden Bekrönung oder Dach anfänglich häufig mit einer Figur, später meist mit einem charakteristischen Henkel, eingeschlossen. Auf der Vorderseite befindet sich ein großes Zifferblatt, anfänglich frei, später hinter einer verglasten Tür. Auch die Kastenseiten sind häufig verglast, gelegentlich aber durch Gitterwerk verschlossen. Im 18. Jahrhundert eine der verbreitetsten Formen in Mitteleuropa. Gegenstück zur französischen Pendule."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stutzuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Altaruhr",
+      "prefLabel": {
+        "de": "Altaruhr"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Englische_Stockuhr",
+      "prefLabel": {
+        "de": "Englische Stockuhr"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kontinentaleuropäische_Stockuhr",
+      "prefLabel": {
+        "de": "Kontinentaleuropäische Stockuhr"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Nachtlichtuhr",
+      "prefLabel": {
+        "de": "Nachtlichtuhr"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kontinentaleuropäische_Stockuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Altaruhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Englische_Stockuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Nachtlichtuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stutzuhr",
+    "prefLabel": {
+      "de": "Stutzuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

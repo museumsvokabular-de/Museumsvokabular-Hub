@@ -12,63 +12,98 @@
   "definition": {
     "de": "Eine zum Schreiben bestimmte Fläche ist das wesentliche Merkmal eines Schreibmöbels. Es kann verschiedene - zum Beispiel kommoden-, schrank- oder tischähnliche - Grundformen haben.Geschichte: Die Geschichte der Schreibmöbel ist mit der Geschichte des Schreibenkönnens eng verknüpft; solange die Kunst des Schreibens einigen wenigen vorbehalten war, spielte das private Schreibmöbel keine Rolle. Schreibmöbel entstanden als Berufsmöbel für Mönchen, Ratsschreiber und Kaufleute; in reicher Variationsbreite gab es Schreibpulte für professionelle Schreiber seit dem Mittelalter. Erste Bildbelege datieren aus der Mitte des 6. Jahrhunderts.Männer und auch Frauen des städtischen Bürgertums eigneten sich im 14. Jahrhundert das Schreiben als professionelles Hilfsmittel an. Seit dem 15. Jahrhundert kam es dann zu einer Ausbrfeitung der Schreib- und Lesekultur, die das beruflich Notwendige weit überschritt und sich in der Aufstellung von Schreibpult, Sekretär oder Schreibtisch im Privatbereich manifestierte.Die Entwicklung der einzelnen Schreibmöbel-Formen verlief zum Teil parallel. Seit der Renaissance sind Schreibmöbel mit Klappbrett, auf dessen Innenseite geschrieben wird, verbreitet. Sekretäre mit schräggestellter Platte, seinerzeit Schreibschrank genannt, kamen im Barock auf. Hochrechteckige Sekretäre mit senkrechter Klappe - sie gelten heute als ein typisches Biedermeiermöbel - sind in Frankreich schon seit der Rokokozeit sehr beliebt; in Deutschland fanden sie erst im Klassizismus weite Verbreitung.Ende des 17. Jahrhunderts wurde für Adel und Staatsverwaltung in Frankreich das Bureau plat - der flache Schreibtisch - als spezifisches Schreibmöbel ausgestaltet, das rasch seinen Weg in die Privatgemächer reicher Menschen fand. Zu Beginn des 18. Jahrhunderts wurde es zum Schreibtisch weiter entwickelt, dessen Schreibplatte auf zwei seitlich angeordneten, verschließbaren Schubladenkörpern aufliegt. Mit der massenhaften Verbreitung der Schreibmaschine stellte man diesen Möbeltyp im 20. Jahrhundert auch als Schreibmaschinentisch her; er ist deutlich niedriger als der ursprüngliche Schreibtisch, da das maschinelle Schreiben eine andere Körperhaltung als das Schreiben mit der Hand verlangt.In die bürgerliche Wohnung hielt seit der Mitte des 18. Jahrhunderts das Damenbureau Einzug. Das Zylinderbureau ist ebenfalls eine Erfindung des 18. Jahrhunderts; wie die meisten Formen der Schreibmöbel wurde es in Frankreich entwickelt.Anfang des 19. Jahrhunderts fand in Deutschland auch der Patentsekretär seine Abnehmer. Dieses platzsparende Möbel entstand Ende des 18. Jahrhunderts in England; in geschlossenem Zustand diente es als Ofenschirm, geöffnet als Schreibmöbel.Eine Entwicklung des letzten Drittels des 20. Jahrhunderts sind die Computertische."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000793"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001035",
+      "prefLabel": {
+        "de": "Computertisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001036",
+      "prefLabel": {
+        "de": "Patentsekretär"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001037",
+      "prefLabel": {
+        "de": "Reisepult"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001038",
+      "prefLabel": {
+        "de": "Rollsekretär"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001039",
+      "prefLabel": {
+        "de": "Schreibkabinett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001040",
+      "prefLabel": {
+        "de": "Schreibkommode"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001042",
+      "prefLabel": {
+        "de": "Schreibpult"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001049",
+      "prefLabel": {
+        "de": "Schreibtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001053",
+      "prefLabel": {
+        "de": "Sekretär"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001057",
+      "prefLabel": {
+        "de": "Zylinderbureau"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002418",
+      "prefLabel": {
+        "de": "Damenbureau"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002419",
+      "prefLabel": {
+        "de": "Herrenschreibtisch"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002420",
+      "prefLabel": {
+        "de": "Salonschreibtisch"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001035"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001036"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001037"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001038"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001039"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001040"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001042"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001049"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001053"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001057"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002418"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002419"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002420"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000793",
+    "prefLabel": {
+      "de": "Möbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

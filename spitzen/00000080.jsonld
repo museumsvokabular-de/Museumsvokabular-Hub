@@ -7,45 +7,62 @@
   "definition": {
     "de": "Die Herstellung der handgearbeiteten Spitzen erfolgt ausschließlich mittels Werkzeugen, die von Hand, das heißt mit Muskelkraft, betätigt werden. Die wichtigsten Arbeitsmittel sind einfache Werkzeuge und Hilfsmittel, wie z. Bsp.: Nadel, Spule, Klöppel, Stickrahmen, Klöppelkissen, Schere, Gabel, Häkelnadel."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000001"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000083",
+      "prefLabel": {
+        "de": "Häkelspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000232",
+      "prefLabel": {
+        "de": "Klöppelspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000257",
+      "prefLabel": {
+        "de": "Knüpfspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000261",
+      "prefLabel": {
+        "de": "Kombinierte Spitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000266",
+      "prefLabel": {
+        "de": "Nadelspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000288",
+      "prefLabel": {
+        "de": "Strickspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000226",
+      "prefLabel": {
+        "de": "Handgestickte Spitze"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000083"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000226"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000232"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000257"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000261"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000266"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000288"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000001",
+    "prefLabel": {
+      "de": "Spitzen/Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

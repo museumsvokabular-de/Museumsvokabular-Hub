@@ -12,22 +12,18 @@
   "definition": {
     "de": "Der Schreib- und Lesestuhl st so konstruiert, dass man rittlings auf ihm sitzend schreiben und lesen kann. An der gepolsterten Armauflage ist ein schräg gestelltes Brett zur Ablage von Buch oder Schreibpapier angebracht; an den gepolsterten Armlehnen, auf die man die Arme legen kann, sind Tablette für Schreibzeuge befestigt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001135"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001135",
+    "prefLabel": {
+      "de": "Polsterstuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

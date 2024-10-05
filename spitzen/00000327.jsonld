@@ -7,30 +7,32 @@
   "definition": {
     "de": "Wirkspitze wird auf Flachkettenwirkmaschinen oder Häkelgalonmaschinen erzeugt. Sie entsteht auf der Grundlage der Einbindung der schußlegenden Fäden in das maschenbildende System der Kettfäden.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.261ff"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000032"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000328"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000328",
+      "prefLabel": {
+        "de": "Häkelgalonspitze"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000329"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000329",
+      "prefLabel": {
+        "de": "Raschelspitze"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000032",
+    "prefLabel": {
+      "de": "Maschinenspitze"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

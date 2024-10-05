@@ -13,22 +13,18 @@
   "definition": {
     "de": "Das Tellerbord ist ein Regal zur stehenden Aufbewahrung von Tellern oder Schüsseln. Die Fachböden haben geringe Tiefe, die frontalen Halteleisten stützen das Geschirr. Bisweilen finden sich im unteren Bereich des Tellerbords Schubladen oder Haken."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000813"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000813",
+    "prefLabel": {
+      "de": "Regal"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

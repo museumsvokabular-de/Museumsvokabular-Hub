@@ -7,36 +7,44 @@
   "definition": {
     "de": "wird charakterisiert durch die Technik, die die Spitzentextur realisiert. Das ist zum Einen der netzartige Stickboden (handgestickte Tüllspitze) und zum Anderen das Öffnen des Stickbodens durch Ausschneiden, Fadenanzug oder -auszug.Lit.: Schöner, Friedrich: Spitzen Enzyklopädie der Spitzentechniken, Leipzig 1982, S.165"
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000080"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000337",
+      "prefLabel": {
+        "de": "Dresde, Point de"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000338",
+      "prefLabel": {
+        "de": "Handgestickte Ausschneidspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000345",
+      "prefLabel": {
+        "de": "Handgestickte Tüllspitze"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000347",
+      "prefLabel": {
+        "de": "Spitze in Durchbrucharbeit"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000337"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000338"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000345"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000347"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000080",
+    "prefLabel": {
+      "de": "Handgearbeitete Spitze"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

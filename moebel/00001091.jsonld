@@ -7,22 +7,18 @@
   "definition": {
     "de": "Beim Ausziehsessel besteht die Sitzfläche des Sessels aus einem zweiteiligen Polster. Um es in eine Liegestätte zu verwandeln, wird die gesamte Sitzfläche herausgezogen und ein Polster umgeklappt."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001090"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001090",
+    "prefLabel": {
+      "de": "Sessel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

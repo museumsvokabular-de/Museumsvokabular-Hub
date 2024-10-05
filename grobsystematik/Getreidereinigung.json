@@ -9,78 +9,128 @@
       "Reinigung (Getreide-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Erntegerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Auslegemaschine_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Auslegemaschine (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fittich_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Fittich (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fruchtschaufel_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Fruchtschaufel (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Getreideschaufel_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Getreideschaufel (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornfege_mit_Zahnradantrieb",
+      "prefLabel": {
+        "de": "Kornfege mit Zahnradantrieb"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornfege_ohne_Zahnradantrieb",
+      "prefLabel": {
+        "de": "Kornfege ohne Zahnradantrieb"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornharfe",
+      "prefLabel": {
+        "de": "Kornharfe"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornkorb_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Kornkorb (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornschaufel_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Kornschaufel (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornschippe_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Kornschippe (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornsieb,_geflochten",
+      "prefLabel": {
+        "de": "Kornsieb, geflochten"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornwanne_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Kornwanne (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Reinigungsmaschine_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Reinigungsmaschine (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Strauchbesen_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Strauchbesen (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Strohschüttler",
+      "prefLabel": {
+        "de": "Strohschüttler"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wehmühle",
+      "prefLabel": {
+        "de": "Wehmühle"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wurfschaufel_(Getreidereinigung)",
+      "prefLabel": {
+        "de": "Wurfschaufel (Getreidereinigung)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kornsieb",
+      "prefLabel": {
+        "de": "Kornsieb"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Auslegemaschine_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fittich_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fruchtschaufel_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Getreideschaufel_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornfege_mit_Zahnradantrieb"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornfege_ohne_Zahnradantrieb"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornharfe"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornkorb_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornschaufel_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornschippe_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornsieb"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornsieb,_geflochten"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kornwanne_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Reinigungsmaschine_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Strauchbesen_(Getreidereinigung)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Strohschüttler"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wehmühle"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wurfschaufel_(Getreidereinigung)"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Erntegerät",
+    "prefLabel": {
+      "de": "Erntegerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -7,30 +7,32 @@
   "definition": {
     "de": "Der Glasschrank ist ein Schrank, der formal in verschiedenen Typen ausgeführt sein kann. Charakteristisch ist die großflächige Verglasung."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000883"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000917"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000917",
+      "prefLabel": {
+        "de": "Spiegelschrank"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000918"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000918",
+      "prefLabel": {
+        "de": "Vitrine"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000883",
+    "prefLabel": {
+      "de": "Schrank"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

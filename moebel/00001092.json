@@ -12,33 +12,38 @@
   "definition": {
     "de": "Bei der Bergère sind die Armlehnen geschlossen und aus einem Stück. Die häufig geschweifte Rückenlehne reicht bis zum Sitz hinunter. Charakteristisch ist die zusätzliche Polsterung des Sitzes durch ein aufgelegtes Kissen. Die Bergère ist besonders breit gebaut, daher sind die Übergänge zum Sofa fließend."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001090"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001093"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001093",
+      "prefLabel": {
+        "de": "Bergère à Oreilles"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001094"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001094",
+      "prefLabel": {
+        "de": "Chaffeuse"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002436"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002436",
+      "prefLabel": {
+        "de": "Voyeuse"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001090",
+    "prefLabel": {
+      "de": "Sessel"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

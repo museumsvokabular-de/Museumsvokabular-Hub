@@ -4,6 +4,12 @@
   "prefLabel": {
     "de": "Bräter"
   },
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Herdgerät_-_Kamingerät_(Küche)",
+    "prefLabel": {
+      "de": "Herdgerät - Kamingerät (Küche)"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"

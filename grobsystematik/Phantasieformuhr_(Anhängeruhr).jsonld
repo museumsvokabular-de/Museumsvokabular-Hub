@@ -12,36 +12,44 @@
   "definition": {
     "de": "Oberbegriff für eine Vielzahl von Anhängeruhren des 16. bis 19._Jahrhunderts.+1) Vom Ende des 16. bis in die Mitte des 17._Jahrhunderts war es Mode, kleine Uhrwerke in verschiedenartig geformte Gehäuse einzubauen. Die Metallgehäuse die graviert und ziseliert waren, zeugen von der hohen Kunst der damaligen Goldschmiede. Daneben gab es aber auch solche aus Bergkristall oder Karneol, der sich auf Grund seiner relativen Weichheit gut bearbeiten ließ.+2) Am Ende des 18. und Anfang des 19._Jahrhunderts werden in Genf und Wien kleine Anhängeruhren in reizvollen neuen Phantasieformen hergestellt. Die Gehäuse zeigen einen fast unerschöpflichen Reichtum an Phantasie: Blüten und Früchte, Dosen und Musikinstrumente, Insekten und Schmetterlinge, die meist aus Gold mit leuchtendem, teils transluzidem, teils opakem Email natürlich nachgebildet werden."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anhängeruhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Buchuhr",
+      "prefLabel": {
+        "de": "Buchuhr"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kreuzuhr",
+      "prefLabel": {
+        "de": "Kreuzuhr"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Ringuhr",
+      "prefLabel": {
+        "de": "Ringuhr"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Totenkopfuhr",
+      "prefLabel": {
+        "de": "Totenkopfuhr"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buchuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kreuzuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ringuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Totenkopfuhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Anhängeruhr",
+    "prefLabel": {
+      "de": "Anhängeruhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

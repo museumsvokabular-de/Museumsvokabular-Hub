@@ -12,27 +12,26 @@
   "definition": {
     "de": "Alle Uhren, die den Einblick in das Werk erlauben, ohne irgendwelche Türen oder Fenster an der Uhr öffnen zu müssen. Meist stehen sie unter einem Glassturz. Ihre Blütezeit war zwischen 1800 und 1830."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Stutzuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Dreiräder-Uhr",
+      "prefLabel": {
+        "de": "Dreiräder-Uhr"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Dreiräder-Uhr"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Stutzuhr",
+    "prefLabel": {
+      "de": "Stutzuhr"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

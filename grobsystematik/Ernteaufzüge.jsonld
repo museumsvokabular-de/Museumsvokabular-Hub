@@ -9,57 +9,86 @@
       "Aufzüge (Ernte-)"
     ]
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Erntegerät"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bodenaufzug_mit_Unterbodenseilführung",
+      "prefLabel": {
+        "de": "Bodenaufzug mit Unterbodenseilführung"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eisenhaken_mit_zwei_Zinken_(Ernteaufzug)",
+      "prefLabel": {
+        "de": "Eisenhaken mit zwei Zinken (Ernteaufzug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Greifzange_(Ernteaufzüge)",
+      "prefLabel": {
+        "de": "Greifzange (Ernteaufzüge)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Heuzange_(Ernteaufzug)",
+      "prefLabel": {
+        "de": "Heuzange (Ernteaufzug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hochhaken_(Ernteaufzug)",
+      "prefLabel": {
+        "de": "Hochhaken (Ernteaufzug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Holzrad_mit_Eisenabdeckung_(Ernteaufzug)",
+      "prefLabel": {
+        "de": "Holzrad mit Eisenabdeckung (Ernteaufzug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kurbelwinde_(Ernteaufzug)",
+      "prefLabel": {
+        "de": "Kurbelwinde (Ernteaufzug)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Lastaufzug_(Ernteaufzüge)",
+      "prefLabel": {
+        "de": "Lastaufzug (Ernteaufzüge)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zug_(Ernteaufzüge)",
+      "prefLabel": {
+        "de": "Zug (Ernteaufzüge)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zugrolle_(Ernteaufzüge)",
+      "prefLabel": {
+        "de": "Zugrolle (Ernteaufzüge)"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zugzange_(Ernteaufzüge)",
+      "prefLabel": {
+        "de": "Zugzange (Ernteaufzüge)"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bodenaufzug_mit_Unterbodenseilführung"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eisenhaken_mit_zwei_Zinken_(Ernteaufzug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Greifzange_(Ernteaufzüge)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Heuzange_(Ernteaufzug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hochhaken_(Ernteaufzug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Holzrad_mit_Eisenabdeckung_(Ernteaufzug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kurbelwinde_(Ernteaufzug)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Lastaufzug_(Ernteaufzüge)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zug_(Ernteaufzüge)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zugrolle_(Ernteaufzüge)"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zugzange_(Ernteaufzüge)"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Erntegerät",
+    "prefLabel": {
+      "de": "Erntegerät"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

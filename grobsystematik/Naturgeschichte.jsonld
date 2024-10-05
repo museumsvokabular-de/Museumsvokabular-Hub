@@ -4,27 +4,48 @@
   "prefLabel": {
     "de": "Naturgeschichte"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Geologie"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Geologie",
+      "prefLabel": {
+        "de": "Geologie"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Mineralogie"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Mineralogie",
+      "prefLabel": {
+        "de": "Mineralogie"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Naturgeschichte:_unbestimmt"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Naturgeschichte:_unbestimmt",
+      "prefLabel": {
+        "de": "Naturgeschichte: unbestimmt"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Paläozoologie"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Paläozoologie",
+      "prefLabel": {
+        "de": "Paläozoologie"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Zoologie"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Zoologie",
+      "prefLabel": {
+        "de": "Zoologie"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Botanik_-_Paläobotanik"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Botanik_-_Paläobotanik",
+      "prefLabel": {
+        "de": "Botanik - Paläobotanik"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Haifisch-Zähne"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Haifisch-Zähne",
+      "prefLabel": {
+        "de": "Haifisch-Zähne"
+      }
     }
   ],
   "inScheme": [

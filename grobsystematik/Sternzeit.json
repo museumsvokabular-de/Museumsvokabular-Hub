@@ -12,22 +12,18 @@
   "definition": {
     "de": "Das Intervall zwischen zwei aufeinanderfolgenden Durchgängen eines Fixsterns durch den Meridian des Beobachtungsortes nennt man Sterntag. Die Dauer eines Sterntages beträgt 23 Stunden, 56 Minuten und 4,09 Sekunden."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Astronomische_Indikationen"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Astronomische_Indikationen",
+    "prefLabel": {
+      "de": "Astronomische Indikationen"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

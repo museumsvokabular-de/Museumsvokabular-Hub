@@ -9,12 +9,18 @@
       "Schiffahrt - Schiff"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Schiffsanker"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Schiffsanker",
+      "prefLabel": {
+        "de": "Schiffsanker"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Steuerrad_(eines_Binnenschiffes)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Steuerrad_(eines_Binnenschiffes)",
+      "prefLabel": {
+        "de": "Steuerrad (eines Binnenschiffes)"
+      }
     }
   ],
   "inScheme": [

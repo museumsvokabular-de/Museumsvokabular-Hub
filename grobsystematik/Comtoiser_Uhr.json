@@ -12,33 +12,38 @@
   "definition": {
     "de": "Die ersten Hersteller sollen die Brüder Mayet um 1660 gewesen sein. Die Comtoiser Uhr wurde für Frankreich bald ähnlich volkstümlich wie die Schwarzwälder Uhr für Deutschland, aber mit dem Unterschied, daß die Werksqualität durch die Verwendung von Messing und Eisen wesentlich höher war als die der Schwarzwälder Holzuhren.+Die Blütezeit der Comtoiser Uhr liegt im 19._Jahrhundert als sie geradezu industriell hergestellt wurde."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wanduhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Burgunder_Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Burgunder_Uhr",
+      "prefLabel": {
+        "de": "Burgunder Uhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Morbieruhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Morbieruhr",
+      "prefLabel": {
+        "de": "Morbieruhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Morezuhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Morezuhr",
+      "prefLabel": {
+        "de": "Morezuhr"
+      }
     }
   ],
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wanduhr",
+    "prefLabel": {
+      "de": "Wanduhr"
+    }
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

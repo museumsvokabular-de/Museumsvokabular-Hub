@@ -12,23 +12,24 @@
   "definition": {
     "de": "Dieser Uhrtyp wurde zuerst in Frankreich und später auch in Neuenburg hergestellt. Die frühen Uhren hatten immer kleine Bronzegehäuse, die in leder- oder samtausgeschlagenen Holzgehäusen auf Reisen mitgeführt werden konnten.+Sie sind schon im 18._Jahrhundert bekannt und besitzen immer hochwertige Schlagwerke und ein zusätzliches Weckerwerk."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Uhr"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Capucine",
+      "prefLabel": {
+        "de": "Capucine"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Tischuhr"
-    }
-  ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Capucine"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Kutschenuhr",
+      "prefLabel": {
+        "de": "Kutschenuhr"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Kutschenuhr"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Wecker"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Wecker",
+      "prefLabel": {
+        "de": "Wecker"
+      }
     }
   ],
   "inScheme": [
@@ -37,11 +38,6 @@
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik"
     }

@@ -15,84 +15,140 @@
   "definition": {
     "de": "Das Bett ist ein Gestell zur Aufnahme einer Liegeunterlage (Strohsack, Matratze usw.). Die Mehrzahl der Betten besteht aus Kopf- und Fußteil, an die die Seitenteile eingebracht werden. Anstelle der Seitenteile kann ein Rahmen Kopf- und Fußteil verbinden. Die Konstruktion von Betten aus Kunststoffen, Geflecht, Metallen, Papier/Pappe und/oder Textil differiert zuweilen; diese Betten orientieren sich jedoch in der Regel an der tradierten Bett-Form.Geschichte: Schon in den alten Hochkulturen wie Ägypten oder Babylonien war die auf ein Gestell mit Füßen gelagerte Bettstelle bekannt. Die Griechen und Römer übernahmen die Gewohnheit, zum Schlafen eine Liege zu benutzen. Im Grunde steht dieses antike Bett - mit lediglich leichten Abwandlungen - noch heute als Ruhelager in den Schlafzimmern.In Nord-, Ost- und Mitteleuropa wurden bis ins Mittelalter jedoch noch der Fußboden oder die wandfeste umlaufende Bank als Liegestatt benutzt, ehe dann der auf niedrigen Füßen stehende Holzkasten als Bettstatt aufkam. Vom 12. Jahrhundert an erhielt das Bett die uns vertraute Gestalt: Es wurde höher, das Gestell rundum verschalt.Im späten Mittelalter und in der Gotik überdachte man die Betten mit Baldachin oder Himmel. Sie hatten an den drei nicht wandständigen Seiten Vorhänge, die man tagsüber hoch band, so dass die Holzkonstruktion sichtbar wurde. Seit dem 12. Jahrhundert waren diese Betttypen in allen Ständen in Gebrauch. Im 15. Jahrhundert wurden die textilen Baldachine und Himmel vielfach durch hölzerne abgelöst; auch fanden nun Betten mit Halbbaldachinen bzw. -himmeln weite Verbreitung. Im 17. Jahrhundert entstanden auf dem lande die Bettkasten, sie gehörten bis ins 19. Jahrhundert in vielen Regionen zum üblichen Möbelrepertoire. Im Klasizismus errang die Récamiere - auch als Lit bateau bekannt - kurzzeitig allergrößte Beliebtheit. Mit der Industrialisierung kamen im 19. Jahrhundert die Metallbetten auf und auch im 20. Jahrhundert entstanden neue Betttypen, so das Stapelbett.Zu beobachten ist stets ein Nebeneinander verschiedener Liegemöbel. Der Bettengebrauch entwickelte sich schichten- wie auch regionalspezifisch unterschiedlich: Während die meisten Menschen das Bett lediglich als nächtliche Liegestatt nutzten, wurde es in höfischen und großbürgerlichen Kreisen zum repräsentativen Prunkmöbel: Im \"Paradebett\" - vernehmlich Betten mit (Halb-)Himmel oder (Halb)Baldachin - empfing man auch Gäste. Im 18. Jahrhundert hatte diese Nutzung ihren absoluten Höhepunkt, verschwand im 19. Jahrhundert mit der Initmisierung des privaten Lebens.Regionale Vorlieben zeigten sich vornehmlich in der Ausgestaltung der Betten: So waren Aufsatzbetten mit ihren hohen, zum Teil üppig dekorierten Kopfteilen besonders in Bayern und Österreich beliebt."
   },
-  "broadMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000992"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000994",
+      "prefLabel": {
+        "de": "Aufsatzbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000995",
+      "prefLabel": {
+        "de": "Auszugbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001000",
+      "prefLabel": {
+        "de": "Etagenbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001001",
+      "prefLabel": {
+        "de": "Gitterbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001002",
+      "prefLabel": {
+        "de": "Halbhimmelbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001003",
+      "prefLabel": {
+        "de": "Himmelbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001004",
+      "prefLabel": {
+        "de": "Kastenbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001006",
+      "prefLabel": {
+        "de": "Klappbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001008",
+      "prefLabel": {
+        "de": "Korbbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001009",
+      "prefLabel": {
+        "de": "Rahmenbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001010",
+      "prefLabel": {
+        "de": "Stapelbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002394",
+      "prefLabel": {
+        "de": "Aufsatzbett mit Baldachin"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002396",
+      "prefLabel": {
+        "de": "Bettkasten"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002397",
+      "prefLabel": {
+        "de": "Doppelbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002398",
+      "prefLabel": {
+        "de": "Doppelschläferbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002399",
+      "prefLabel": {
+        "de": "Ehebett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002400",
+      "prefLabel": {
+        "de": "Paradebett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002401",
+      "prefLabel": {
+        "de": "Pfostenbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002402",
+      "prefLabel": {
+        "de": "Seniorenbett"
+      }
+    },
+    {
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00002403",
+      "prefLabel": {
+        "de": "Stehwiege"
+      }
     }
   ],
-  "narrowMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000994"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000995"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001000"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001001"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001002"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001003"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001004"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001006"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001008"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001009"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001010"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002394"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002396"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002397"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002398"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002399"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002400"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002401"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002402"
-    },
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00002403"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00000992",
+    "prefLabel": {
+      "de": "Liegemöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

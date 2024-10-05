@@ -9,15 +9,24 @@
       "Feldbestellung - Ackerbaugerät"
     ]
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Anspannung_f�r_Zugtiere_(Ackerbauger�t_-_Feldbestellung)"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Anspannung_für_Zugtiere_(Ackerbaugerät_-_Feldbestellung)",
+      "prefLabel": {
+        "de": "Anspannung für Zugtiere (Ackerbaugerät - Feldbestellung)"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bodenbearbeitungsger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Bodenbearbeitungsgerät",
+      "prefLabel": {
+        "de": "Bodenbearbeitungsgerät"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Ernteger�t"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Erntegerät",
+      "prefLabel": {
+        "de": "Erntegerät"
+      }
     }
   ],
   "inScheme": [

@@ -7,22 +7,18 @@
   "definition": {
     "de": "Ausschneidarbeit ist eine Form der Applikation (Aufnäharbeit), eine der ältesten Ziertechniken. Es sind Arbeiten mit verschiedenen aufeinander gehefteten Stoffen, von denen vor oder nach dem Aufnähen Teile zum Zwecke der Musterbildung ausgeschnitten werden, je nachdem welcher Stoff die Ornamente oder den Hintergrund bildet. Die zu applizierenden Stoffe müssen sich voneinander abheben, z. Bsp. durch Struktur oder Farbe.Technik: gestickt, manuell; genäht (Spitze); ausgeschnitten.Lit.: Schöner, Friedrich, Freier, Klaus: Stickerei-Techniken, Leipzig 1982, S.310ff"
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00000014"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen/00000014",
+    "prefLabel": {
+      "de": "Handgearbeitete Stickerei"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/spitzen"
     }

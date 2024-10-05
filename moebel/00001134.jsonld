@@ -7,22 +7,18 @@
   "definition": {
     "de": "Statt der vier Pfosten, die normalerweise beim Pfostenstuhl die Beine bilden, gibt es hier nur drei Pfosten. Der hintere dritte Pfosten ist verlängert und dient als Stütze für kleine Rückenbretter oder gedrechselte Stäbe, die die Lehne bilden. Der Sitz besteht entweder aus einem Brett, das in die Verbindungshölzer eingesetzt oder aufgelegt ist, oder er ist zwischen die Hölzer eingeflochten."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001133"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001133",
+    "prefLabel": {
+      "de": "Pfostenstuhl"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

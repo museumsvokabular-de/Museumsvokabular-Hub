@@ -12,22 +12,18 @@
   "definition": {
     "de": "Der Computertisch ist mit Ablagen in verschiedenen, auf eine ergonomische Arbeitshaltung abgestimmten Höhen versehen. Die höchste Ablage ist in Sichthöhe für den Monitor vorgesehen; auf Arbeitshöhe ist eine, zuweilen zwei zumeist ausziehbare (Platte(n) für die Tastatur und Maus angebracht. Drucker-, Rechner- und/oder Scannerablage(n) befinden sich darunter, zuweilen auch über dem Monitor."
   },
-  "broadMatch": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/00001034"
+  "broader": {
+    "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel/00001034",
+    "prefLabel": {
+      "de": "Schreibmöbel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/moebel"
     }

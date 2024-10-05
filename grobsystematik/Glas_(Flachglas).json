@@ -4,39 +4,72 @@
   "prefLabel": {
     "de": "Glas (Flachglas)"
   },
-  "narrowMatch": [
+  "narrower": [
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glasbild"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Bierglasscheibe",
+      "prefLabel": {
+        "de": "Bierglasscheibe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Fensterbierglasscheibe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Buntglasfenster",
+      "prefLabel": {
+        "de": "Buntglasfenster"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hinterglasmalerei"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Eichelmuster-Grisaillescheibe",
+      "prefLabel": {
+        "de": "Eichelmuster-Grisaillescheibe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Bierglasscheibe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glasscheibe",
+      "prefLabel": {
+        "de": "Glasscheibe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Buntglasfenster"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Inschrift-Hausscheibe",
+      "prefLabel": {
+        "de": "Inschrift-Hausscheibe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Druck_auf_Glas"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Scheibe",
+      "prefLabel": {
+        "de": "Scheibe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Eichelmuster-Grisaillescheibe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Druck_auf_Glas",
+      "prefLabel": {
+        "de": "Druck auf Glas"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Glasscheibe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Fensterbierglasscheibe",
+      "prefLabel": {
+        "de": "Fensterbierglasscheibe"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Hausscheibenfragment"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Glasbild",
+      "prefLabel": {
+        "de": "Glasbild"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Inschrift-Hausscheibe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hausscheibenfragment",
+      "prefLabel": {
+        "de": "Hausscheibenfragment"
+      }
     },
     {
-      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/gefaess/Scheibe"
+      "id": "https://museumsvokabular-de.github.io/Museumsvokabular-Hub/grobsystematik/Hinterglasmalerei",
+      "prefLabel": {
+        "de": "Hinterglasmalerei"
+      }
     }
   ],
   "inScheme": [
