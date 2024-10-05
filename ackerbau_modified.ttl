@@ -14,7 +14,7 @@
     dcq:created "1987-06-04" ;
     skos:broader <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hohleisen_-_Stecheisen_-_Einlasseisen_-_Drehstähle_aus_Gußstahl> ;
     skos:inScheme <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau> ;
-    skos:prefLabel "Geißfuß"@de .
+    skos:prefLabel "Geißfuß"@de ;
     skos:altLabel "Geisfuß"@de .
 
 <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> a cc:License ;
