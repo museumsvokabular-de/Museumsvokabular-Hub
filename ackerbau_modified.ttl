@@ -15,6 +15,7 @@
     skos:broader <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hohleisen_-_Stecheisen_-_Einlasseisen_-_Drehstähle_aus_Gußstahl> ;
     skos:inScheme <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau> ;
     skos:prefLabel "Geißfuß"@de .
+    akos:altLabel "Geisfuß"@de .
 
 <http://creativecommons.org/licenses/by-nc-sa/2.0/de/> a cc:License ;
     cc:permits cc:DerivativeWorks,
@@ -2260,14 +2261,6 @@
     skos:broader <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Maße> ;
     skos:inScheme <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau> ;
     skos:prefLabel "Gehrungswinkel"@de .
-
-<https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Geisfuß> a skos:Concept ;
-    dc:creator "Spengler, W. Eckehart" ;
-    dc:identifier "Geisfuß" ;
-    dcq:created "1987-06-03" ;
-    skos:broader <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Reifmesser:_Sachgruppe> ;
-    skos:inScheme <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau> ;
-    skos:prefLabel "Geisfuß"@de .
 
 <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Geißel-Peitsche> a skos:Concept ;
     dc:creator "Spengler, W. Eckehart" ;
@@ -10471,7 +10464,7 @@
         <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Binderkrumeisen>,
         <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Falzstock>,
         <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Führeisen>,
-        <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Geisfuß>,
+        <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Geißfuß>,
         <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Hohlkehle>,
         <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Locheisen>,
         <https://museumsvokabular-de.github.io/Museumsvokabular-Hub/ackerbau/Reifmesser>,
